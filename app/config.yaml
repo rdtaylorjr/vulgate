@@ -13,5 +13,6 @@ interfaceDefaults: {}
 provenanceSpec:
   corpus: Vulgate
   version: '0.1'
+  branch: main
 typeDisplay: {}
 writing: ''

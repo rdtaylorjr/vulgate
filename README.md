@@ -10,8 +10,8 @@
 
 This is the
 [text-fabric](https://github.com/annotation/text-fabric)
-representation of the books of the Hebrew Bible in the Vulgate, after the LatinISE corpus,
-completed from the IntraText Digital Library.
+representation of the Vulgate in the Stuttgart edition, *Biblia Sacra iuxta Vulgatam Versionem*,
+with its critical apparatus, after the electronic text of the Oxford Text Archive (item 0319).
 
 See [about](docs/about.md) for more information about this textual source,
 and for the copyright and license of the data.

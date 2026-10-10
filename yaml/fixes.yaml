@@ -1,0 +1,17 @@
+lineFixes:
+  65979:
+  - ^00^RITURABITUR <M>OAB SUB EO SICUTI TERUNTUR PALEAE IN PLAUSTRO   |<I>S 25,10\       570710
+  - ''
+  - stray copy of Is 25,10 after Is 26,8; the printed edition has no such line
+  65980:
+  - ^01^RITURABITUR <M>OAB SUB EO SICUTI TERUNTUR PALEAE IN PLAUSTRO   |<I>S 25,10\       570710
+  - ''
+  - stray copy of Is 25,10 after Is 26,8; the printed edition has no such line
+  113261:
+  - 'GLORIAM '
+  - GLORIAM\
+  - missing continuation mark
+  113262:
+  - '@<4E>SR <7,91>''\'
+  - '|4<E>SR 7,91\'
+  - reference of IV Esr 7,91 coded as sigla

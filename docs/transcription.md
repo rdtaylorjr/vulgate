@@ -1,79 +1,113 @@
 # Feature documentation
 
-Here you find a description of the transcription of the Hebrew Bible of the Vulgate,
+Here you find a description of the transcription of the Vulgate,
 the
 [Text-Fabric model](https://annotation.github.io/text-fabric/tf/about/datamodel.html)
 in general, and the node types and features of the Vulgate corpus in particular.
 
 See also
 
-*   [about](about.md) for the provenance of the data;
+*   [about](about.md) for the provenance of the data,
 *   [TF docs](https://annotation.github.io/text-fabric/tf) for documentation on Text-Fabric.
 
 ## Transcription
 
-The sources are the Vulgate of LatinISE, version 6, and the Vulgate of the IntraText Digital
-Library, `LAT0001`. The dataset holds the books of the Hebrew Bible. Tobit, Judith, Wisdom,
-Sirach, the books of Maccabees, and the New Testament are left out.
+The source file has one line per stichos of the edition, the text printed *per cola et
+commata*. A line holds the text of the stichos with the apparatus entries that belong to it,
+a `|`, the book, chapter, and verse, and a line number. A line that does not fit ends in `\`
+and continues on the next line. Lines of `P` and `0` separate the books.
 
-LatinISE gives one token per line, with its lemma and part-of-speech tag, in documents per
-book, sections per chapter, and paragraphs. A paragraph of LatinISE is a paragraph of
-IntraText. A `<g/>` between two tokens means that no space separates them.
+The text is in capitals, and the encoding marks by codes what the print shows otherwise.
+The meaning of every code below has been checked against the printed edition.
 
-IntraText gives one page per chapter. A verse is a paragraph that starts with its verse
-number. A paragraph without a number continues the verse before it, as in the poetic books,
-where a verse is set in lines. A paragraph that holds only a number and a full stop is the
-heading of the chapter, and is left out.
+### Text
 
-Every chapter of these books in the table of contents of IntraText becomes a [*chapter*](#node-type-chapter),
-and every verse of its page a [*verse*](#node-type-verse), with the verse number of IntraText.
+code | meaning | example
+--- | --- | ---
+`<` ... `>` | shift: letters in between are capitals, `;` is `:` | `<D>EUS` Deus
+`<n>`, ` n ` | verse `n` starts inside the line | `ESCAM <30> ET` escam ³⁰et
+`=` | obelus ÷, before a word | `=NON SIC<;>` ÷non sic:
+`*` | asteriscus ※, before a word | `*GRANDO` ※grando
+`<;>` | metobelus `:`, after a word | `SIC<;>` sic:
+`!O` | Greek ω | `<A> ET <!O>` A et ω
+`<>` | an empty shift, nothing | 
 
-Where LatinISE has as many paragraphs in a chapter as IntraText, the words of every verse
-are the tokens of the LatinISE paragraphs of that verse, and `source` is `latinise`.
-This holds for 21,596 verses.
+The obelus stands before every stichos of an obelized passage and the metobelus after its
+last word, as in the print.
 
-Elsewhere the words of a verse are the words of IntraText, split on spaces, and `source` is
-`intratext`. This holds for the 1,209 verses of Numbers and Zephaniah, which LatinISE lacks.
+### Apparatus
 
-The tokens of LatinISE are lowercase, apart from names, and without punctuation.
-Joshua 21:36, which the edition omits, is `[`, `;`, `]` in LatinISE, written `[;]`.
-A word of IntraText is the stretch of text between two spaces. LatinISE sometimes splits what
-IntraText writes as one word, as in `se cum` for `secum`.
+An entry of the apparatus is enclosed in `(` ... `)` after the word it belongs to.
+An entry before the first word of a line belongs to that word.
 
-The trailer of a word is a space, or empty where LatinISE has a `<g/>` after it.
-A `<g/>` at the start of a paragraph is left out: this happens once, in Joshua 21.
+code | meaning | example | printed
+--- | --- | --- | ---
+`@` ... `'` | italic: sigla and editorial words | `@<A>'` | A
+`!` + letter, shifted | Greek siglum | `<!S>`, `<!L>`, `<!F>`, `<!T>`, `<!O>` | Σ Λ Φ Θ Ω
+`!` + letter, not shifted | Gothic siglum of an edition | `!C`, `!R`, `!O`, `!B`, `!H`, `!S`, `!V`, `!D`, `!W` | 𝔠 𝔯 𝔬 𝔟 𝔥 𝔰 𝔳 𝔡 𝔴
+`*` after a siglum | first hand | `@<A*>'` | A*
+`"` after a siglum | second hand | `@<A">'` | A2
+`;` in italic | between readings | `FERENTEM @<TM'!F>@;' FACIENTEM !C` | `ferentem T M Φ; facientem 𝔠`
+`.` after sigla | no further manuscript in the big editions | `@<O>'.` | O.
+`+` | addition | `+ ERANT @<A>'!C` | + erant A 𝔠
+`%` | omission of one word | `% % @<AM>'` | om. om. A M
+`?` | transposition, words by their initials | `? L. M. @<C>'!C` | ~ l. m. C 𝔠
+`-` + letters | other ending of the word | `-IS @<T'!F>!C` | -is T Φ 𝔠
+first reading empty | witnesses of the text | `@<GAO>'!R!B@;' <A>DAE @CET'.` | `G A O 𝔯 𝔟; Adae cet.`
+`[` ... `]` | variant inside a reading | `+ CUM [EIUS @<A>'] @<A'!L>!C` | + cum (eius A) A Λ 𝔠
+`-MG`, `-TXT` | margin, text of a manuscript | `@<S>-MG'.` | S (marg.)
 
-The verse numbers are those of IntraText, with two corrections.
+Lower case letters in italic are sigla of fragments, one letter each, as `@<A>HM'` for
+`A h m`, or editorial words: `cet.` (ceteri), `lapsu`, `partim`, `om.`, `omnes`, `vel`, `codd.`,
+`supplenda`, `an`, `et sic semper`, `et sic in seqq.`, `pro rege Iuda`. A capital followed by
+lower case letters is a name: `Light.`, the edition of Lightfoot named in the preface for the
+Epistle to the Laodiceans, and `Ver.`.
 
-A verse number that is lower than the number before it, and ends in the digit of the next
-number, has a misprinted tens digit, and is replaced by the next number. IntraText has such
-numbers in 11 chapters, mostly 10 to 19 for 30 to 39:
+### Conversion
 
-chapter | numbers of IntraText
---- | ---
-Genesis 49 | 31, 12
-Leviticus 22 | 29, 10 to 13
-Leviticus 25 | 30, 11 to 19, 40
-Numbers 3 | 36, 17 to 19, 40
-1 Chronicles 1 | 29, 10 to 15, 36, 17, 38
-2 Chronicles 32 | 32, 13
-Nehemiah 11 | 34, 15, 16
-Psalms 36 | 29, 10 to 19, 40
-Psalms 77 | 29, 10 to 16, 37
-Jeremiah 51 | 36, 17 to 19, 40
-Ezekiel 34 | 29, 10, 11
+Every line of the source becomes a [*stichos*](#node-type-stichos) and every word a
+[*word*](#node-type-word), with its book, chapter, and verse.
 
-In Joshua 19, IntraText gives verse 3 as the paragraphs `et Asersual` and `Bala et Asem`,
-and verse 19 as `et Afaraim` and `Seon et Anaarath`, each with a number of its own, so that it
-counts 53 verses up to its second verse 22. The two paragraphs of each verse form one verse,
-and the 51 verses of the chapter are numbered in order. This division is that of the Vulgate at
-[vulgate.org](https://vulgate.org/ot/joshua_19.htm).
+*   The obelus or asteriscus before a word is `prefix`, the metobelus after a word is part of
+    `trailer`.
+*   The apparatus entries after a word are `apparatus`, entries before the first word of a
+    stichos are `apparatus_before`, each decoded into the notation of the print in the
+    tables above, several entries separated by ` | `.
+*   A line with apparatus entries and no words, a line added by some witnesses, gives its
+    entries to the last word before it in the same book, and at the start of a book to the
+    first word. Such a line with an obelus gives the obelus to the text it adds:
+    `+ ÷et perfice subsequentes te C Σ Λ` (Daniel 3:40).
+*   Books without chapters are chapter 1.
 
-Nehemiah 7 has no verse 68, which the Vulgate omits.
+### Books
 
-Psalm 115 starts at verse 10, after the Greek numbering, where Psalm 114 holds verses 1 to 9.
+The name of a book is its code in the references of the source, decoded as the text: `<G>N`
+is `Gn`, `1<S>M` is `1Sm`, `<P>S<G>` (the Psalter iuxta Septuaginta) is `PsG`, and `<P>S<H>`
+(the Psalter iuxta Hebraeos) is `PsH`. The source gives the prologue of Sirach as a separate
+book, `<S>IR<P>`, so it is the book `SirP`.
 
-Book names are those of the BHSA.
+### Corrections
+
+The conversion applies the corrections declared in [fixes.yaml](../yaml/fixes.yaml), each
+with its line number, the text found, the text put in its place, and the reason:
+
+*   lines 65979 and 65980: two copies of Isaiah 25:10 after Isaiah 26:8, removed (the print
+    has Isaiah 25:10 in its place only),
+*   lines 113261 and 113262: IV Esdras 7:91 lacks its continuation mark, and its reference is
+    coded as sigla.
+
+### Limits of the source
+
+*   An ending `-is` gives only the ending: the encoding does not say how many letters of the
+    word it replaces. The print gives the whole word.
+*   Greek readings of the apparatus are in Latin letters, as `+ asphalos` for the printed
+    `+ ασφαλως` (Mark 14:44).
+*   Notes of Jerome in the text, printed in small capitals, are not distinguished, such as
+    `quae habentur in Hebraeo plena fide expressi` (Esther 10:3) and `hucusque non habetur in
+    Hebraeo` (Daniel 3:90). The titles of the Psalms, also printed in small capitals, are not
+    distinguished either.
+*   The text is that of the edition before 1994: for example Zacharias 13:9 has `eas`, which
+    the fourth edition corrects to `eos`.
 
 ## Text-Fabric model
 
@@ -84,6 +118,7 @@ On top of that, more complex textual objects can be represented as *nodes*. In
 this corpus we have node types for:
 
 [*word*](#node-type-word),
+[*stichos*](#node-type-stichos),
 [*verse*](#node-type-verse),
 [*chapter*](#node-type-chapter),
 [*book*](#node-type-book).
@@ -100,6 +135,8 @@ Text-Fabric supports up to three customisable section levels.
 In this corpus we use
 [*book*](#node-type-book), [*chapter*](#node-type-chapter), and [*verse*](#node-type-verse).
 
+A stichos can start in one verse and end in the next, so stichoi and verses do not nest.
+
 # Reference table of features
 
 *(Keep this under your pillow)*
@@ -107,16 +144,16 @@ In this corpus we use
 ## *absent*
 
 When we say that a feature is *absent* for a node, we mean that the node has no value
-for the feature. For example, if the feature `trailer` is absent for node `n`, then
-`F.trailer.v(n)` results in the Python value `None`, not the string `'None'`.
+for the feature. For example, if the feature `prefix` is absent for node `n`, then
+`F.prefix.v(n)` results in the Python value `None`, not the string `'None'`.
 
 In queries, you can test for absence by means of `#`:
 
 ```
-word trailer#
+word prefix#
 ```
 
-gives all words where the feature `trailer` is absent.
+gives all words where the feature `prefix` is absent.
 
 See also
 [search templates](https://annotation.github.io/text-fabric/tf/about/searchusage.html)
@@ -128,8 +165,15 @@ A word of the text.
 
 feature | values | description
 ------- | ------ | ------
-*`word`* | `in` `principio` `Dominus` | the text of a word
-*`trailer`* | ` ` | after-word material until the next word, empty where no space follows
+*`word`* | `in` `principio` `Deus` `ω` | the text of a word
+*`prefix`* | `÷` `※` | sign printed before the word: ÷ obelus, ※ asteriscus
+*`trailer`* | ` ` `: ` | material after the word until the next word: a space, or the metobelus and a space
+*`apparatus`* | `+ erant A 𝔠` | entries of the critical apparatus that follow the word, separated by ` \| `
+*`apparatus_before`* | `+ et 𝔠` | entries of the critical apparatus that stand before the first word of a stichos
+
+## Node type [*stichos*](#stichos)
+
+A line of the edition, printed *per cola et commata*. It has no features.
 
 ## Node type [*verse*](#verse)
 
@@ -137,8 +181,7 @@ Section level 3.
 
 feature | values | description
 ------- | ------ | ------
-*`verse`* | `1` `2` | verse number of IntraText
-*`source`* | `latinise` `intratext` | source of the words of the verse
+*`verse`* | `1` `2` | verse number
 
 ## Node type [*chapter*](#chapter)
 
@@ -146,7 +189,7 @@ Section level 2.
 
 feature | values | description
 ------- | ------ | ------
-*`chapter`* | `1` `2` | chapter number
+*`chapter`* | `1` `2` | chapter number, 1 for books without chapters
 
 ## Node type [*book*](#book)
 
@@ -154,8 +197,7 @@ Section level 1.
 
 feature | values | description
 ------- | ------ | ------
-*`book`* | `Genesis` `Samuel_II` `Psalmi` `Jesaia` | book name in Latin, as in the BHSA
-*`book@en`* | `Genesis` `2_Samuel` `Psalms` `Isaiah` | book name in English, as in the BHSA
+*`book`* | `Gn` `PsH` `SirP` `Mt` | book name as the source gives it
 
 # Text formats
 
@@ -163,4 +205,4 @@ The following text formats are defined (you can also list them with `T.formats`)
 
 format | description
 --- | ---
-`text-orig-full`     | the text of all words, each followed by its trailer
+`text-orig-full`     | the text of all words with their signs, each followed by its trailer
