@@ -1,0 +1,5 @@
+# Part of speech and lexical set of lexemes whose occurrences tie: [sp, ls, reason]
+par: [adjv, null, 'tie adjv 1 subs 1, adjective in the dictionaries']
+ostiarius: [subs, null, 'tie subs 1 adjv 1, noun in the dictionaries']
+Romanus: [adjv, null, 'tie adjv 6 subs 6, adjective in the dictionaries']
+verum: [advb, null, 'tie advb 1 subs 1, adverb in the dictionaries']

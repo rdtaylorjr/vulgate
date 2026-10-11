@@ -1,1 +1,3 @@
 text-fabric[all]
+pyyaml
+numpy

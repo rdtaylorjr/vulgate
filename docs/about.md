@@ -19,15 +19,19 @@ of the Gallican Psalter and of the Greek parts of Esther and Daniel.
 # Corpus
 
 The [source](../source) directory contains the file `biblelat-0319.txt` as downloaded from the
-Oxford Text Archive, without modification.
+Oxford Text Archive, without modification, and `latin-nt.xml` of the
+[PROIEL treebank](https://github.com/proiel/proiel-treebank) (Dag Haug and Marius Jøhndal,
+University of Oslo, export of 7 April 2018), whose morphology the New Testament words carry.
 
-This file has been converted into Text-Fabric format by
+These files have been converted into Text-Fabric format by
 [tfFromOta.py](../programs/tfFromOta.py).
 We have a [specification](transcription.md) of how we model the text in Text-Fabric.
 The conversion result is available in the [tf](../tf) directory.
 
-The dataset has 80 books, 1,514 chapters, 39,791 verses, 99,975 stichoi, and 661,318 words,
-with 38,930 entries of the critical apparatus.
+The dataset has 80 books, 1,514 chapters, 39,791 verses, 99,975 stichoi, and 666,884 words,
+with 38,930 entries of the critical apparatus: 661,318 written words, with 5,566 clitics
+divided from their hosts. *-que* divides and *-ne* and *-ve* do not, unless the treebank or
+[clitics.yaml](../yaml/clitics.yaml) says otherwise.
 
 The conversion corrects two defects of the source, declared in
 [fixes.yaml](../yaml/fixes.yaml): two stray copies of Isaiah 25:10 after Isaiah 26:8, and a
@@ -49,7 +53,9 @@ The Text-Fabric data in [tf](../tf) is a modified form of this file:
 
 *   the encoding is decoded into words, signs, and apparatus entries, as described in the
     [transcription](transcription.md),
-*   the two defects listed above are corrected.
+*   the two defects listed above are corrected,
+*   a written word with a clitic is divided,
+*   the New Testament words carry the morphology of the PROIEL treebank, itself CC BY-NC-SA 4.0.
 
 CC BY-NC-SA 3.0 allows adaptations under a later version of the license with the same
 license elements. The source file and the Text-Fabric data are licensed under the

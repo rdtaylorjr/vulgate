@@ -118,6 +118,7 @@ On top of that, more complex textual objects can be represented as *nodes*. In
 this corpus we have node types for:
 
 [*word*](#node-type-word),
+[*lex*](#node-type-lex),
 [*stichos*](#node-type-stichos),
 [*verse*](#node-type-verse),
 [*chapter*](#node-type-chapter),
@@ -161,15 +162,37 @@ under **Value specifications**.
 
 ## Node type [*word*](#word)
 
-A word of the text.
+A word of the text, or a clitic divided from its host.
 
 feature | values | description
 ------- | ------ | ------
-*`word`* | `in` `principio` `Deus` `ω` | the text of a word
+*`word`* | `in` `principio` `Deus` `que` `ω` | the text of a word
 *`prefix`* | `÷` `※` | sign printed before the word: ÷ obelus, ※ asteriscus
-*`trailer`* | ` ` `: ` | material after the word until the next word: a space, or the metobelus and a space
+*`trailer`* | ` ` `: ` `` | material after the word until the next word: a space, or the metobelus and a space, nothing before a clitic
 *`apparatus`* | `+ erant A 𝔠` | entries of the critical apparatus that follow the word, separated by ` \| `
 *`apparatus_before`* | `+ et 𝔠` | entries of the critical apparatus that stand before the first word of a stichos
+*`language`* | `Latin` | language of the word
+*`languageISO`* | `lat` | language of the word in ISO 639 code
+*`freq_occ`* | `52652` `1` | number of occurrences of the form
+*`rank_occ`* | `0` `3` | number of forms with a higher frequency
+*`lex`* | `dico[` `terra/` `et` `ut=` | lexeme of the PROIEL lemma: `[` after verbs, `/` after nouns and adjectives, `=` per homograph
+*`sp`* | `subs` `nmpr` `verb` `adjv` `advb` `prep` `conj` `prps` `prde` `prin` `pron` `intj` `nega` `inrg` | part of speech of the lexeme
+*`pdp`* | as `sp` | part of speech of the occurrence
+*`ls`* | `card` `ordn` `poss` `indf` `rela` `refl` `recp` `ccrd` `csub` `none` | lexical set of the lexeme
+*`ps`* | `p1` `p2` `p3` `NA` `unknown` | person
+*`nu`* | `sg` `pl` `NA` `unknown` | number
+*`gn`* | `m` `f` `n` `NA` `unknown` | gender
+*`case`* | `nominative` `genitive` `dative` `accusative` `ablative` `vocative` `locative` `NA` `unknown` | case
+*`tense`* | `present` `imperfect` `future` `perfect` `pluperfect` `futureperfect` `NA` `unknown` | tense
+*`mood`* | `indicative` `subjunctive` `imperative` `infinitive` `participle` `gerund` `gerundive` `supine` `NA` `unknown` | mood
+*`voice`* | `active` `passive` `NA` `unknown` | voice
+*`degree`* | `comparative` `superlative` `NA` `unknown` | degree
+*`freq_lex`* | `6153` `1` | number of occurrences of the lexeme
+*`rank_lex`* | `0` `3` | number of lexemes with a higher frequency
+
+## Node type [*lex*](#lex)
+
+A lexeme, spanning its words. It has `lex`, `sp`, `ls`, `language`, `languageISO`, `freq_lex` and `rank_lex`.
 
 ## Node type [*stichos*](#stichos)
 
@@ -206,3 +229,4 @@ The following text formats are defined (you can also list them with `T.formats`)
 format | description
 --- | ---
 `text-orig-full`     | the text of all words with their signs, each followed by its trailer
+`lex-orig-full`      | the lexemes of all words

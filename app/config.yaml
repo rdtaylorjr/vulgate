@@ -12,7 +12,7 @@ docs:
 interfaceDefaults: {}
 provenanceSpec:
   corpus: Vulgate
-  version: '0.1'
+  version: '0.2'
   branch: main
 typeDisplay: {}
 writing: ''

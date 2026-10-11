@@ -54,3 +54,7 @@ __pycache__/
 # Config files which get locally modified
 #########################################
 .jekyll-metadata
+
+# Virtual environments
+#######################
+.venv*/
