@@ -16,9 +16,9 @@
 @values=nominative genitive dative accusative ablative vocative locative NA unknown
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:05+00:00Z
+@dateWritten=2026-10-11T09:21:46+00:00Z
 
-516464	nominative
+516531	nominative
 genitive
 genitive
 genitive
@@ -2557,7 +2557,7 @@ NA
 nominative
 NA
 NA
-519004	NA
+519071	NA
 NA
 NA
 NA
@@ -2708,7 +2708,7 @@ NA
 NA
 NA
 NA
-519156	NA
+519223	NA
 NA
 NA
 dative
@@ -4729,7 +4729,7 @@ NA
 nominative
 NA
 accusative
-521178	nominative
+521245	nominative
 NA
 accusative
 accusative
@@ -8472,7 +8472,7 @@ dative
 nominative
 NA
 vocative
-524923	NA
+524990	NA
 nominative
 NA
 nominative
@@ -8621,7 +8621,7 @@ NA
 accusative
 NA
 NA
-525073	accusative
+525140	accusative
 NA
 NA
 accusative
@@ -8931,7 +8931,7 @@ nominative
 NA
 accusative
 nominative
-525402	NA
+525469	NA
 NA
 accusative
 dative
@@ -9384,7 +9384,7 @@ accusative
 NA
 NA
 NA
-525857	nominative
+525924	nominative
 NA
 NA
 NA
@@ -10101,10 +10101,8 @@ ablative
 NA
 NA
 NA
-accusative
-NA
+526643	NA
 NA
-NA
 nominative
 accusative
 NA
@@ -12248,8 +12246,7 @@ nominative
 nominative
 NA
 ablative
-NA
-528723	NA
+528790	NA
 nominative
 NA
 nominative
@@ -12291,7 +12288,7 @@ nominative
 NA
 NA
 NA
-528766	accusative
+528833	accusative
 NA
 NA
 NA
@@ -12579,7 +12576,7 @@ genitive
 NA
 dative
 NA
-529055	dative
+529122	dative
 NA
 nominative
 NA
@@ -15794,7 +15791,7 @@ ablative
 accusative
 NA
 NA
-532271	accusative
+532338	accusative
 NA
 nominative
 genitive
@@ -17139,11 +17136,12 @@ NA
 NA
 NA
 nominative
+NA
 NA
 NA
 NA
 NA
-533622	NA
+NA
 accusative
 NA
 NA
@@ -17860,11 +17858,12 @@ NA
 NA
 NA
 nominative
+NA
 NA
 NA
 NA
 NA
-534345	accusative
+accusative
 NA
 NA
 NA
@@ -17924,7 +17923,7 @@ NA
 NA
 nominative
 NA
-534406	accusative
+534471	accusative
 NA
 NA
 NA
@@ -17936,7 +17935,7 @@ NA
 nominative
 NA
 NA
-534419	accusative
+534484	accusative
 nominative
 NA
 NA
@@ -18407,7 +18406,7 @@ nominative
 nominative
 NA
 NA
-534891	nominative
+534956	nominative
 NA
 nominative
 NA
@@ -18714,7 +18713,8 @@ NA
 NA
 ablative
 NA
-535200	ablative
+NA
+ablative
 NA
 nominative
 accusative
@@ -18926,7 +18926,9 @@ NA
 NA
 ablative
 genitive
-535413	NA
+NA
+NA
+NA
 accusative
 NA
 accusative
@@ -19062,7 +19064,7 @@ NA
 NA
 accusative
 accusative
-535550	accusative
+535615	accusative
 NA
 NA
 NA
@@ -19110,7 +19112,7 @@ NA
 nominative
 nominative
 NA
-535599	ablative
+535664	ablative
 accusative
 nominative
 NA
@@ -19211,7 +19213,7 @@ NA
 dative
 NA
 NA
-535701	NA
+535766	NA
 NA
 NA
 NA
@@ -19496,7 +19498,7 @@ nominative
 NA
 NA
 accusative
-535987	NA
+536052	NA
 accusative
 nominative
 NA
@@ -19616,7 +19618,7 @@ NA
 NA
 NA
 accusative
-536108	NA
+536173	NA
 nominative
 NA
 NA
@@ -19655,7 +19657,9 @@ dative
 NA
 dative
 genitive
-536148	NA
+NA
+NA
+NA
 nominative
 genitive
 genitive
@@ -19704,9 +19708,11 @@ NA
 accusative
 genitive
 genitive
-536198	NA
+NA
 NA
 NA
+NA
+NA
 ablative
 NA
 accusative
@@ -19726,7 +19732,7 @@ NA
 nominative
 nominative
 NA
-536221	NA
+536288	NA
 NA
 NA
 accusative
@@ -20131,11 +20137,13 @@ NA
 NA
 NA
 accusative
+NA
 NA
 NA
 NA
-536630	nominative
 NA
+nominative
+NA
 NA
 ablative
 NA
@@ -20744,7 +20752,7 @@ NA
 nominative
 nominative
 NA
-537241	NA
+537309	NA
 accusative
 NA
 ablative
@@ -20760,7 +20768,7 @@ NA
 ablative
 NA
 accusative
-537258	NA
+537326	NA
 accusative
 NA
 NA
@@ -20960,7 +20968,7 @@ NA
 NA
 NA
 NA
-537459	NA
+537527	NA
 NA
 accusative
 NA
@@ -20975,7 +20983,7 @@ accusative
 nominative
 NA
 NA
-537475	NA
+537543	NA
 NA
 NA
 accusative
@@ -21793,7 +21801,7 @@ NA
 nominative
 NA
 accusative
-538294	NA
+538362	NA
 accusative
 NA
 NA
@@ -22492,7 +22500,7 @@ NA
 NA
 nominative
 NA
-538994	accusative
+539062	accusative
 NA
 nominative
 NA
@@ -23116,8 +23124,10 @@ NA
 NA
 NA
 ablative
+NA
+NA
+NA
 NA
-539620	NA
 NA
 NA
 accusative
@@ -23455,8 +23465,9 @@ nominative
 nominative
 NA
 dative
-539960	nominative
 NA
+nominative
+NA
 dative
 NA
 ablative
@@ -23592,7 +23603,7 @@ NA
 NA
 accusative
 dative
-540098	accusative
+540166	accusative
 accusative
 NA
 accusative
@@ -23662,7 +23673,7 @@ NA
 NA
 NA
 accusative
-540169	NA
+540237	NA
 NA
 NA
 accusative
@@ -24341,7 +24352,7 @@ genitive
 nominative
 NA
 NA
-540849	accusative
+540917	accusative
 NA
 NA
 accusative
@@ -24457,7 +24468,7 @@ NA
 NA
 NA
 accusative
-540966	NA
+541034	NA
 NA
 NA
 accusative
@@ -24818,7 +24829,7 @@ nominative
 NA
 nominative
 NA
-541328	accusative
+541396	accusative
 NA
 nominative
 NA
@@ -25594,7 +25605,7 @@ NA
 accusative
 dative
 NA
-542105	NA
+542173	NA
 nominative
 NA
 accusative
@@ -26207,7 +26218,7 @@ ablative
 NA
 accusative
 NA
-542719	accusative
+542787	accusative
 nominative
 NA
 ablative
@@ -27751,7 +27762,7 @@ NA
 genitive
 genitive
 genitive
-544264	accusative
+544332	accusative
 NA
 NA
 NA
@@ -28395,7 +28406,7 @@ nominative
 NA
 NA
 accusative
-544910	nominative
+544978	nominative
 NA
 NA
 NA
@@ -31964,7 +31975,7 @@ accusative
 genitive
 NA
 NA
-548480	accusative
+548548	accusative
 NA
 nominative
 NA
@@ -32573,7 +32584,7 @@ nominative
 nominative
 NA
 NA
-549090	nominative
+549158	nominative
 nominative
 NA
 NA
@@ -33078,7 +33089,7 @@ NA
 accusative
 accusative
 accusative
-549596	NA
+549664	NA
 ablative
 NA
 NA
@@ -34359,7 +34370,7 @@ NA
 nominative
 NA
 accusative
-550879	NA
+550947	NA
 NA
 accusative
 accusative
@@ -34606,7 +34617,7 @@ NA
 nominative
 NA
 NA
-551128	NA
+551196	NA
 ablative
 nominative
 vocative
@@ -36395,8 +36406,9 @@ accusative
 accusative
 NA
 NA
-552919	nominative
+NA
 nominative
+nominative
 NA
 NA
 accusative
@@ -37128,7 +37140,7 @@ NA
 NA
 NA
 nominative
-553653	NA
+553720	NA
 NA
 NA
 NA
@@ -39185,9 +39197,10 @@ NA
 accusative
 NA
 accusative
+NA
 NA
 NA
-555714	NA
+NA
 nominative
 NA
 ablative
@@ -39796,7 +39809,7 @@ NA
 accusative
 NA
 NA
-556324	accusative
+556390	accusative
 NA
 NA
 NA
@@ -43815,7 +43828,7 @@ NA
 nominative
 accusative
 NA
-560344	accusative
+560410	accusative
 NA
 accusative
 nominative
@@ -45943,7 +45956,7 @@ NA
 nominative
 NA
 NA
-562473	accusative
+562539	accusative
 dative
 NA
 NA
@@ -46697,7 +46710,8 @@ NA
 dative
 nominative
 vocative
-563229	NA
+NA
+NA
 ablative
 NA
 NA
@@ -47787,7 +47801,7 @@ nominative
 NA
 accusative
 NA
-564320	ablative
+564385	ablative
 NA
 NA
 NA
@@ -47795,7 +47809,7 @@ dative
 accusative
 NA
 NA
-564329	ablative
+564394	ablative
 NA
 accusative
 NA
@@ -47965,12 +47979,9 @@ accusative
 nominative
 nominative
 accusative
-NA
-NA
-ablative
 NA
 NA
-accusative
+564568	accusative
 genitive
 NA
 NA
@@ -48375,7 +48386,7 @@ NA
 NA
 NA
 accusative
-564911	NA
+564975	NA
 NA
 NA
 accusative
@@ -49061,7 +49072,7 @@ nominative
 NA
 nominative
 NA
-565598	accusative
+565662	accusative
 NA
 NA
 NA
@@ -49280,7 +49291,8 @@ NA
 accusative
 accusative
 dative
-565819	NA
+NA
+NA
 nominative
 genitive
 NA
@@ -49463,7 +49475,7 @@ ablative
 NA
 nominative
 NA
-566003	ablative
+566066	ablative
 NA
 accusative
 accusative
@@ -50339,7 +50351,7 @@ NA
 nominative
 NA
 NA
-566880	accusative
+566943	accusative
 NA
 NA
 NA
@@ -52728,7 +52740,7 @@ NA
 NA
 nominative
 NA
-569270	ablative
+569333	ablative
 NA
 NA
 accusative
@@ -52916,7 +52928,7 @@ dative
 nominative
 NA
 accusative
-569459	NA
+569522	NA
 NA
 NA
 dative
@@ -52934,7 +52946,7 @@ NA
 accusative
 NA
 NA
-569478	ablative
+569541	ablative
 NA
 NA
 NA
@@ -53329,7 +53341,7 @@ nominative
 NA
 NA
 NA
-569874	accusative
+569937	accusative
 NA
 NA
 accusative
@@ -54344,7 +54356,7 @@ nominative
 NA
 accusative
 NA
-570890	ablative
+570953	ablative
 NA
 NA
 NA
@@ -54471,7 +54483,7 @@ nominative
 nominative
 NA
 NA
-571019	NA
+571082	NA
 dative
 NA
 NA
@@ -54710,7 +54722,7 @@ NA
 NA
 NA
 accusative
-571259	NA
+571322	NA
 accusative
 nominative
 NA
@@ -55035,7 +55047,7 @@ NA
 NA
 accusative
 NA
-571585	ablative
+571648	ablative
 NA
 NA
 NA
@@ -55613,7 +55625,7 @@ NA
 NA
 NA
 NA
-572164	ablative
+572227	ablative
 NA
 accusative
 NA
@@ -56056,7 +56068,7 @@ accusative
 nominative
 vocative
 NA
-572608	accusative
+572671	accusative
 accusative
 accusative
 NA
@@ -56221,7 +56233,7 @@ accusative
 accusative
 accusative
 NA
-572774	ablative
+572837	ablative
 nominative
 NA
 dative
@@ -56998,7 +57010,7 @@ NA
 NA
 nominative
 NA
-573552	ablative
+573615	ablative
 accusative
 NA
 NA
@@ -57985,7 +57997,7 @@ NA
 NA
 NA
 NA
-574540	accusative
+574603	accusative
 nominative
 nominative
 NA
@@ -58565,7 +58577,7 @@ accusative
 accusative
 ablative
 ablative
-575123	NA
+575186	NA
 NA
 nominative
 NA
@@ -59132,7 +59144,7 @@ nominative
 genitive
 NA
 NA
-575692	vocative
+575755	vocative
 vocative
 NA
 NA
@@ -59793,7 +59805,7 @@ NA
 NA
 NA
 NA
-576354	NA
+576417	NA
 dative
 nominative
 NA
@@ -60694,7 +60706,7 @@ NA
 ablative
 ablative
 nominative
-577256	NA
+577319	NA
 nominative
 nominative
 NA
@@ -61035,7 +61047,7 @@ nominative
 NA
 nominative
 nominative
-577598	nominative
+577661	nominative
 genitive
 accusative
 NA
@@ -67204,7 +67216,7 @@ NA
 NA
 NA
 ablative
-583768	accusative
+583831	accusative
 NA
 nominative
 NA
@@ -69086,7 +69098,7 @@ NA
 ablative
 ablative
 NA
-585651	ablative
+585714	ablative
 ablative
 NA
 nominative
@@ -69713,8 +69725,9 @@ NA
 nominative
 NA
 accusative
+NA
+NA
 NA
-586281	NA
 nominative
 nominative
 NA
@@ -70689,7 +70702,7 @@ NA
 accusative
 NA
 genitive
-587258	NA
+587320	NA
 dative
 NA
 NA
@@ -70748,7 +70761,7 @@ NA
 accusative
 genitive
 NA
-587318	NA
+587380	NA
 accusative
 accusative
 NA
@@ -70801,7 +70814,7 @@ genitive
 NA
 NA
 NA
-587373	NA
+587435	NA
 accusative
 accusative
 genitive
@@ -71454,7 +71467,7 @@ nominative
 vocative
 vocative
 NA
-588051	NA
+588113	NA
 NA
 accusative
 accusative
@@ -71597,7 +71610,7 @@ nominative
 NA
 NA
 NA
-588212	NA
+588274	NA
 NA
 NA
 accusative
@@ -71891,7 +71904,7 @@ accusative
 NA
 ablative
 genitive
-588518	NA
+588580	NA
 NA
 accusative
 NA
@@ -71925,7 +71938,7 @@ NA
 accusative
 accusative
 dative
-588565	NA
+588627	NA
 nominative
 NA
 vocative
@@ -72299,7 +72312,7 @@ NA
 NA
 ablative
 ablative
-588947	NA
+589009	NA
 NA
 nominative
 nominative
@@ -73019,7 +73032,7 @@ accusative
 NA
 NA
 accusative
-589701	NA
+589763	NA
 NA
 accusative
 nominative
@@ -73042,7 +73055,7 @@ accusative
 NA
 NA
 accusative
-589725	accusative
+589787	accusative
 NA
 NA
 ablative
@@ -73242,7 +73255,7 @@ accusative
 NA
 NA
 NA
-589954	NA
+590013	NA
 accusative
 NA
 NA
@@ -73596,7 +73609,7 @@ NA
 dative
 NA
 NA
-590309	ablative
+590368	ablative
 NA
 nominative
 ablative
@@ -73716,7 +73729,7 @@ NA
 nominative
 accusative
 NA
-590458	NA
+590517	NA
 NA
 NA
 NA
@@ -74006,7 +74019,7 @@ accusative
 NA
 NA
 NA
-590763	NA
+590821	NA
 vocative
 vocative
 dative
@@ -74025,7 +74038,7 @@ accusative
 NA
 NA
 nominative
-590810	NA
+590868	NA
 NA
 nominative
 NA
@@ -74520,7 +74533,7 @@ NA
 NA
 accusative
 NA
-591329	NA
+591387	NA
 nominative
 NA
 ablative
@@ -74559,7 +74572,7 @@ nominative
 NA
 accusative
 nominative
-591384	NA
+591442	NA
 NA
 accusative
 NA
@@ -74833,7 +74846,7 @@ NA
 accusative
 NA
 accusative
-591674	NA
+591732	NA
 NA
 accusative
 genitive
@@ -74961,7 +74974,7 @@ nominative
 NA
 dative
 NA
-591803	NA
+591861	NA
 ablative
 accusative
 ablative
@@ -75128,7 +75141,7 @@ nominative
 NA
 NA
 NA
-591993	NA
+592052	NA
 NA
 accusative
 accusative
@@ -75145,7 +75158,7 @@ NA
 NA
 NA
 NA
-592039	nominative
+592098	nominative
 NA
 NA
 dative
@@ -75563,7 +75576,7 @@ NA
 accusative
 ablative
 NA
-592458	ablative
+592517	ablative
 nominative
 NA
 accusative
@@ -75630,7 +75643,7 @@ NA
 genitive
 genitive
 NA
-592526	ablative
+592585	ablative
 nominative
 NA
 NA
@@ -76090,11 +76103,8 @@ nominative
 NA
 ablative
 nominative
+593047	nominative
 NA
-NA
-NA
-nominative
-NA
 ablative
 NA
 ablative
@@ -76721,7 +76731,7 @@ NA
 NA
 NA
 nominative
-593618	nominative
+593676	nominative
 NA
 NA
 ablative
@@ -78122,7 +78132,7 @@ NA
 genitive
 NA
 NA
-595020	NA
+595078	NA
 NA
 nominative
 NA
@@ -79729,7 +79739,7 @@ accusative
 NA
 NA
 NA
-596639	NA
+596697	NA
 NA
 accusative
 NA
@@ -80060,17 +80070,23 @@ nominative
 nominative
 NA
 dative
+accusative
+NA
+NA
 accusative
-596972	accusative
 NA
 accusative
 genitive
-596977	accusative
+NA
+NA
+accusative
 NA
 ablative
-596981	nominative
 NA
 NA
+nominative
+NA
+NA
 ablative
 nominative
 NA
@@ -80147,7 +80163,7 @@ NA
 NA
 nominative
 NA
-597061	accusative
+597122	accusative
 dative
 accusative
 NA
@@ -80177,7 +80193,7 @@ ablative
 accusative
 nominative
 NA
-597092	accusative
+597153	accusative
 nominative
 vocative
 NA
@@ -80395,7 +80411,7 @@ NA
 genitive
 NA
 nominative
-597322	NA
+597383	NA
 NA
 nominative
 NA
@@ -80556,17 +80572,25 @@ NA
 NA
 nominative
 dative
+NA
+NA
 NA
-597485	NA
 NA
+NA
 dative
+NA
+NA
 NA
-597490	NA
+NA
 dative
+NA
+NA
 NA
-597494	NA
 NA
-597497	NA
+NA
+NA
+NA
+NA
 genitive
 NA
 NA
@@ -80771,7 +80795,7 @@ nominative
 accusative
 NA
 NA
-597703	accusative
+597768	accusative
 NA
 NA
 ablative
@@ -80779,7 +80803,7 @@ nominative
 nominative
 NA
 NA
-597712	accusative
+597777	accusative
 NA
 ablative
 ablative
@@ -82269,9 +82293,9 @@ NA
 nominative
 NA
 NA
-599203	nominative
+599268	nominative
 NA
-599206	NA
+599271	NA
 accusative
 genitive
 NA
@@ -82758,9 +82782,10 @@ NA
 NA
 ablative
 ablative
+NA
 NA
-599696	accusative
 accusative
+accusative
 NA
 accusative
 NA
@@ -83244,7 +83269,7 @@ nominative
 NA
 genitive
 genitive
-600182	accusative
+600246	accusative
 NA
 nominative
 NA
@@ -85007,8 +85032,9 @@ genitive
 NA
 NA
 nominative
+NA
 NA
-601948	genitive
+genitive
 nominative
 NA
 NA
@@ -85020,13 +85046,14 @@ nominative
 NA
 NA
 nominative
+NA
+NA
 NA
 NA
 NA
 NA
 NA
 NA
-601968	NA
 NA
 nominative
 NA
@@ -85040,7 +85067,8 @@ ablative
 NA
 nominative
 nominative
-601984	NA
+NA
+NA
 accusative
 NA
 nominative
@@ -85050,8 +85078,9 @@ NA
 NA
 ablative
 NA
-601996	NA
 NA
+NA
+NA
 nominative
 genitive
 NA
@@ -85318,11 +85347,15 @@ NA
 ablative
 NA
 accusative
+NA
 NA
-602266	NA
 NA
-602269	NA
 NA
+NA
+NA
+NA
+NA
+NA
 accusative
 accusative
 NA
@@ -85529,7 +85562,7 @@ NA
 accusative
 NA
 accusative
-602478	nominative
+602540	nominative
 nominative
 NA
 accusative
@@ -85790,7 +85823,7 @@ NA
 nominative
 NA
 NA
-602740	accusative
+602802	accusative
 NA
 NA
 NA
@@ -86170,7 +86203,9 @@ nominative
 NA
 nominative
 nominative
-603121	NA
+NA
+NA
+NA
 nominative
 nominative
 NA
@@ -86347,15 +86382,21 @@ NA
 accusative
 NA
 accusative
+NA
+nominative
+NA
 NA
+NA
+NA
 nominative
 NA
+NA
+NA
+nominative
 NA
-603303	nominative
 NA
-603306	nominative
 NA
-603309	nominative
+nominative
 NA
 NA
 ablative
@@ -86468,7 +86509,7 @@ accusative
 nominative
 NA
 ablative
-603423	accusative
+603489	accusative
 NA
 nominative
 NA
@@ -86836,8 +86877,10 @@ NA
 nominative
 NA
 accusative
+NA
 NA
-603793	ablative
+NA
+ablative
 nominative
 NA
 NA
@@ -87133,10 +87176,14 @@ NA
 nominative
 genitive
 ablative
+NA
+NA
+NA
+NA
+nominative
+NA
 NA
-604091	NA
 nominative
-604094	nominative
 NA
 NA
 NA
@@ -87166,8 +87213,9 @@ nominative
 genitive
 NA
 NA
-604126	nominative
 NA
+nominative
+NA
 NA
 NA
 nominative
@@ -88163,15 +88211,19 @@ accusative
 NA
 nominative
 nominative
-605124	NA
+NA
+NA
+NA
 NA
 NA
 ablative
 ablative
 NA
 ablative
-605132	NA
 NA
+NA
+NA
+NA
 ablative
 ablative
 nominative
@@ -88803,7 +88855,7 @@ ablative
 NA
 NA
 NA
-605766	accusative
+605836	accusative
 NA
 NA
 NA
@@ -89105,7 +89157,7 @@ NA
 ablative
 genitive
 nominative
-606069	accusative
+606139	accusative
 NA
 accusative
 accusative
@@ -89146,7 +89198,7 @@ nominative
 genitive
 NA
 NA
-606111	accusative
+606181	accusative
 NA
 NA
 accusative
@@ -89552,12 +89604,16 @@ NA
 NA
 NA
 ablative
-606518	NA
+NA
+NA
+NA
 ablative
 NA
 dative
-606523	nominative
+NA
 NA
+nominative
+NA
 dative
 nominative
 NA
@@ -89739,7 +89795,7 @@ NA
 NA
 ablative
 NA
-606707	accusative
+606779	accusative
 NA
 genitive
 accusative
@@ -89957,7 +90013,7 @@ NA
 accusative
 NA
 accusative
-606928	accusative
+607000	accusative
 NA
 nominative
 accusative
@@ -90183,7 +90239,7 @@ accusative
 nominative
 NA
 accusative
-607155	NA
+607227	NA
 accusative
 nominative
 nominative
@@ -90338,7 +90394,7 @@ NA
 NA
 NA
 NA
-607311	accusative
+607383	accusative
 NA
 NA
 ablative
@@ -91122,11 +91178,11 @@ NA
 nominative
 NA
 ablative
-608096	accusative
+608168	accusative
 nominative
 NA
 nominative
-608101	accusative
+608173	accusative
 dative
 nominative
 NA
@@ -91967,7 +92023,7 @@ nominative
 NA
 NA
 accusative
-608943	NA
+609015	NA
 NA
 nominative
 dative
@@ -92030,7 +92086,7 @@ ablative
 ablative
 NA
 NA
-609007	ablative
+609079	ablative
 NA
 NA
 NA
@@ -92167,7 +92223,7 @@ NA
 NA
 ablative
 NA
-609146	nominative
+609218	nominative
 NA
 NA
 ablative
@@ -92192,7 +92248,7 @@ ablative
 genitive
 NA
 ablative
-609172	accusative
+609244	accusative
 NA
 NA
 NA
@@ -92382,7 +92438,7 @@ ablative
 ablative
 nominative
 NA
-609363	accusative
+609435	accusative
 NA
 ablative
 ablative
@@ -92519,7 +92575,7 @@ NA
 accusative
 genitive
 genitive
-609532	NA
+609604	NA
 NA
 NA
 dative
@@ -92664,9 +92720,10 @@ accusative
 NA
 NA
 ablative
-609689	NA
-609692	nominative
+609761	NA
+NA
 nominative
+nominative
 ablative
 NA
 NA
@@ -92696,8 +92753,8 @@ accusative
 NA
 accusative
 NA
-609736	NA
-609738	NA
+609806	NA
+609808	NA
 nominative
 NA
 NA
@@ -92719,7 +92776,7 @@ nominative
 NA
 accusative
 NA
-609831	NA
+609901	NA
 NA
 NA
 nominative
@@ -92845,7 +92902,7 @@ NA
 NA
 nominative
 nominative
-609973	NA
+610043	NA
 NA
 NA
 accusative
@@ -92880,7 +92937,7 @@ NA
 NA
 ablative
 nominative
-610028	NA
+610098	NA
 NA
 accusative
 genitive
@@ -92979,7 +93036,7 @@ nominative
 NA
 nominative
 genitive
-610139	NA
+610209	NA
 NA
 ablative
 nominative
@@ -93049,7 +93106,7 @@ accusative
 NA
 NA
 ablative
-610243	vocative
+610313	vocative
 NA
 accusative
 NA
@@ -93430,7 +93487,7 @@ accusative
 accusative
 accusative
 NA
-610654	NA
+610723	NA
 NA
 NA
 nominative
@@ -93683,7 +93740,7 @@ NA
 ablative
 genitive
 NA
-610919	NA
+610988	NA
 NA
 NA
 dative
@@ -93715,7 +93772,7 @@ ablative
 accusative
 genitive
 NA
-610969	NA
+611036	NA
 NA
 nominative
 accusative
@@ -93940,7 +93997,7 @@ NA
 nominative
 NA
 nominative
-611220	nominative
+611287	nominative
 genitive
 accusative
 NA
@@ -93970,7 +94027,7 @@ nominative
 NA
 NA
 NA
-611251	ablative
+611318	ablative
 NA
 accusative
 NA
@@ -94001,7 +94058,7 @@ NA
 nominative
 NA
 NA
-611300	nominative
+611367	nominative
 NA
 NA
 NA
@@ -94058,7 +94115,7 @@ genitive
 accusative
 NA
 NA
-611373	dative
+611439	dative
 NA
 NA
 NA
@@ -94712,7 +94769,7 @@ NA
 accusative
 NA
 NA
-612028	accusative
+612094	accusative
 NA
 accusative
 accusative
@@ -94731,7 +94788,7 @@ accusative
 nominative
 accusative
 NA
-612048	ablative
+612114	ablative
 NA
 nominative
 NA
@@ -94814,7 +94871,7 @@ genitive
 NA
 ablative
 ablative
-612197	genitive
+612263	genitive
 nominative
 NA
 nominative
@@ -94841,7 +94898,7 @@ nominative
 NA
 ablative
 NA
-612225	accusative
+612291	accusative
 genitive
 NA
 NA
@@ -95128,7 +95185,7 @@ accusative
 NA
 NA
 accusative
-612590	NA
+612656	NA
 ablative
 nominative
 nominative
@@ -95191,7 +95248,7 @@ genitive
 genitive
 nominative
 nominative
-612654	accusative
+612720	accusative
 NA
 dative
 NA
@@ -95298,7 +95355,7 @@ NA
 NA
 accusative
 dative
-612780	NA
+612846	NA
 NA
 NA
 accusative
@@ -95370,7 +95427,7 @@ dative
 NA
 accusative
 genitive
-612881	accusative
+612947	accusative
 NA
 NA
 nominative
@@ -95406,75 +95463,75 @@ nominative
 genitive
 NA
 accusative
-genitive
-NA
-NA
-NA
-nominative
 genitive
 NA
 NA
 NA
 nominative
-NA
-NA
-nominative
-NA
-ablative
-612952	NA
-NA
-NA
-dative
-dative
 genitive
-NA
-NA
-NA
-NA
-nominative
-NA
-NA
-ablative
-NA
-NA
-ablative
-nominative
 NA
 NA
 NA
 nominative
 NA
-nominative
-NA
-NA
-ablative
-NA
-nominative
-NA
-nominative
-NA
-nominative
 NA
-NA
-accusative
-NA
-NA
 nominative
-NA
 NA
-NA
-NA
 ablative
-NA
-NA
-dative
-nominative
 613018	NA
 NA
 NA
+dative
+dative
+genitive
+NA
+NA
+NA
+NA
+nominative
+NA
+NA
+ablative
+NA
+NA
+ablative
+nominative
+NA
+NA
+NA
+nominative
+NA
+nominative
+NA
+NA
+ablative
+NA
+nominative
+NA
 nominative
 NA
 nominative
+NA
+NA
+accusative
+NA
+NA
+nominative
+NA
+NA
+NA
+NA
+ablative
+NA
+NA
+dative
+nominative
+613084	NA
+NA
+NA
+nominative
+NA
+nominative
 nominative
 NA
 nominative
@@ -95491,7 +95548,7 @@ NA
 NA
 ablative
 nominative
-613041	dative
+613107	dative
 NA
 ablative
 NA
@@ -96174,7 +96231,7 @@ NA
 accusative
 NA
 NA
-613725	NA
+613791	NA
 NA
 ablative
 NA
@@ -96296,7 +96353,7 @@ NA
 NA
 NA
 NA
-613891	dative
+613957	dative
 NA
 NA
 nominative
@@ -96397,7 +96454,7 @@ nominative
 nominative
 ablative
 genitive
-614041	NA
+614107	NA
 nominative
 NA
 nominative
@@ -96480,7 +96537,7 @@ accusative
 accusative
 dative
 NA
-614125	accusative
+614191	accusative
 NA
 accusative
 genitive
@@ -96495,7 +96552,7 @@ nominative
 NA
 nominative
 NA
-614141	accusative
+614207	accusative
 nominative
 nominative
 NA
@@ -97138,7 +97195,7 @@ genitive
 nominative
 accusative
 NA
-614814	NA
+614880	NA
 vocative
 genitive
 vocative
@@ -97591,7 +97648,7 @@ accusative
 accusative
 NA
 ablative
-615337	nominative
+615403	nominative
 NA
 accusative
 NA
@@ -97936,7 +97993,7 @@ NA
 NA
 ablative
 genitive
-615707	NA
+615773	NA
 NA
 NA
 accusative
@@ -97988,8 +98045,8 @@ nominative
 nominative
 genitive
 NA
-615792	NA
-615804	accusative
+615858	NA
+615870	accusative
 NA
 nominative
 NA
@@ -98034,7 +98091,7 @@ NA
 nominative
 accusative
 NA
-615850	ablative
+615916	ablative
 nominative
 NA
 accusative
@@ -98154,7 +98211,7 @@ ablative
 NA
 accusative
 genitive
-616593	nominative
+616659	nominative
 NA
 nominative
 NA
@@ -98433,9 +98490,8 @@ ablative
 genitive
 nominative
 nominative
+616940	nominative
 NA
-616874	nominative
-NA
 ablative
 accusative
 NA
@@ -99369,9 +99425,13 @@ nominative
 NA
 NA
 ablative
+NA
+NA
+NA
+NA
+NA
+NA
 NA
-617811	NA
-617813	NA
 NA
 NA
 ablative
@@ -100176,7 +100236,7 @@ NA
 accusative
 NA
 NA
-618619	accusative
+618687	accusative
 accusative
 NA
 dative
@@ -100198,7 +100258,7 @@ nominative
 NA
 NA
 NA
-618642	NA
+618710	NA
 NA
 NA
 NA
@@ -100299,7 +100359,7 @@ genitive
 NA
 ablative
 ablative
-619548	NA
+619612	NA
 nominative
 nominative
 NA
@@ -100320,7 +100380,7 @@ NA
 NA
 NA
 genitive
-620107	NA
+620170	NA
 nominative
 NA
 NA
@@ -100336,14 +100396,14 @@ NA
 dative
 nominative
 NA
-620622	NA
+620683	NA
 accusative
 genitive
 NA
 NA
 nominative
 NA
-620840	NA
+620901	NA
 nominative
 nominative
 genitive
@@ -100365,7 +100425,7 @@ nominative
 NA
 accusative
 genitive
-620975	accusative
+621036	accusative
 NA
 NA
 NA
@@ -100375,7 +100435,7 @@ ablative
 NA
 nominative
 nominative
-621199	NA
+621260	NA
 NA
 ablative
 NA
@@ -100461,7 +100521,7 @@ accusative
 NA
 accusative
 NA
-621312	NA
+621373	NA
 NA
 NA
 accusative
@@ -100886,7 +100946,7 @@ accusative
 accusative
 accusative
 nominative
-621920	NA
+621981	NA
 accusative
 dative
 NA
@@ -101422,7 +101482,7 @@ NA
 ablative
 ablative
 NA
-622593	NA
+622654	NA
 NA
 accusative
 nominative
@@ -101433,7 +101493,7 @@ genitive
 NA
 ablative
 ablative
-622742	NA
+622803	NA
 NA
 dative
 NA
@@ -101443,14 +101503,14 @@ accusative
 NA
 ablative
 NA
-622808	NA
+622869	NA
 NA
 NA
 NA
 accusative
 accusative
 dative
-623267	NA
+623328	NA
 NA
 dative
 nominative
@@ -101458,7 +101518,7 @@ NA
 NA
 NA
 dative
-623563	NA
+623624	NA
 NA
 accusative
 NA
@@ -101469,11 +101529,11 @@ ablative
 NA
 NA
 NA
-623575	ablative
+623636	ablative
 NA
 NA
 ablative
-623728	nominative
+623789	nominative
 NA
 nominative
 genitive
@@ -101483,7 +101543,7 @@ nominative
 NA
 genitive
 genitive
-624097	NA
+624156	NA
 NA
 nominative
 NA
@@ -101496,7 +101556,7 @@ NA
 ablative
 NA
 nominative
-624189	NA
+624248	NA
 NA
 NA
 ablative
@@ -101506,7 +101566,7 @@ NA
 NA
 dative
 NA
-624364	NA
+624423	NA
 NA
 genitive
 genitive
@@ -101514,7 +101574,7 @@ nominative
 nominative
 NA
 nominative
-625597	NA
+625654	NA
 NA
 dative
 nominative
@@ -101533,7 +101593,7 @@ accusative
 NA
 accusative
 accusative
-625987	ablative
+626044	ablative
 NA
 NA
 ablative
@@ -101542,18 +101602,18 @@ NA
 NA
 NA
 NA
-626227	dative
+626284	dative
 nominative
 NA
 NA
 nominative
-626811	ablative
+626866	ablative
 ablative
 NA
 ablative
 NA
 NA
-627580	nominative
+627635	nominative
 NA
 accusative
 accusative
@@ -101566,7 +101626,7 @@ nominative
 NA
 genitive
 nominative
-627636	nominative
+627691	nominative
 NA
 vocative
 vocative
@@ -101580,7 +101640,7 @@ accusative
 NA
 NA
 NA
-627911	NA
+627966	NA
 nominative
 nominative
 NA
@@ -101593,24 +101653,24 @@ nominative
 NA
 nominative
 genitive
-627993	NA
+628048	NA
 NA
 vocative
 vocative
 accusative
 NA
 NA
-628350	NA
+628404	NA
 NA
 NA
 NA
 ablative
 ablative
-628410	NA
+628464	NA
 NA
 ablative
 ablative
-629226	nominative
+629277	nominative
 NA
 NA
 nominative
@@ -101618,12 +101678,12 @@ NA
 NA
 nominative
 genitive
-629463	NA
+629514	NA
 vocative
 nominative
 dative
 dative
-629751	NA
+629802	NA
 ablative
 NA
 dative
@@ -101634,12 +101694,12 @@ NA
 dative
 vocative
 NA
-630172	NA
+630221	NA
 vocative
 nominative
 NA
 dative
-630668	NA
+630717	NA
 NA
 NA
 genitive
@@ -101656,7 +101716,7 @@ nominative
 NA
 accusative
 genitive
-631094	NA
+631143	NA
 ablative
 NA
 nominative
@@ -101667,7 +101727,7 @@ NA
 NA
 ablative
 genitive
-631518	NA
+631567	NA
 NA
 NA
 NA
@@ -101682,7 +101742,7 @@ NA
 NA
 NA
 ablative
-631581	nominative
+631630	nominative
 NA
 accusative
 NA
@@ -101694,7 +101754,7 @@ NA
 NA
 nominative
 NA
-631730	NA
+631779	NA
 dative
 vocative
 NA
@@ -101740,7 +101800,7 @@ NA
 NA
 NA
 accusative
-631909	nominative
+631957	nominative
 NA
 nominative
 NA
@@ -101752,7 +101812,7 @@ nominative
 NA
 NA
 nominative
-632529	nominative
+632577	nominative
 NA
 ablative
 NA
@@ -101771,7 +101831,7 @@ NA
 nominative
 NA
 ablative
-632782	NA
+632831	NA
 nominative
 nominative
 NA
@@ -101789,13 +101849,13 @@ NA
 nominative
 NA
 ablative
-633126	NA
+633175	NA
 NA
 ablative
 NA
 NA
 NA
-633239	NA
+633288	NA
 ablative
 NA
 nominative
@@ -101814,7 +101874,7 @@ NA
 ablative
 NA
 ablative
-633383	NA
+633432	NA
 dative
 NA
 nominative
@@ -101826,7 +101886,7 @@ NA
 dative
 genitive
 ablative
-633511	nominative
+633560	nominative
 NA
 NA
 NA
@@ -101836,11 +101896,11 @@ NA
 nominative
 NA
 genitive
-633608	accusative
+633657	accusative
 NA
 NA
 dative
-633632	NA
+633681	NA
 accusative
 nominative
 NA
@@ -102055,7 +102115,7 @@ nominative
 nominative
 NA
 ablative
-633848	accusative
+633897	accusative
 nominative
 nominative
 NA
@@ -102092,7 +102152,7 @@ dative
 nominative
 NA
 NA
-633886	nominative
+633935	nominative
 NA
 NA
 nominative
@@ -102127,7 +102187,7 @@ NA
 accusative
 nominative
 nominative
-634059	nominative
+634108	nominative
 genitive
 genitive
 accusative
@@ -102282,8 +102342,8 @@ NA
 NA
 nominative
 NA
-634215	NA
-634217	nominative
+634264	NA
+634266	nominative
 NA
 nominative
 NA
@@ -102821,7 +102881,7 @@ NA
 accusative
 NA
 NA
-634757	NA
+634806	NA
 dative
 NA
 NA
@@ -103378,8 +103438,8 @@ NA
 nominative
 NA
 NA
-635315	nominative
-635317	nominative
+635364	nominative
+635366	nominative
 NA
 accusative
 NA
@@ -103573,10 +103633,10 @@ NA
 ablative
 genitive
 nominative
-635513	NA
+635562	NA
 NA
 accusative
-635518	accusative
+635567	accusative
 accusative
 accusative
 ablative
@@ -103711,7 +103771,7 @@ NA
 accusative
 genitive
 NA
-635655	nominative
+635704	nominative
 NA
 accusative
 NA
@@ -103814,7 +103874,7 @@ nominative
 NA
 NA
 accusative
-635759	NA
+635808	NA
 accusative
 NA
 nominative
@@ -103886,7 +103946,7 @@ accusative
 NA
 nominative
 NA
-635833	nominative
+635882	nominative
 NA
 NA
 ablative
@@ -104469,7 +104529,7 @@ NA
 NA
 accusative
 genitive
-636419	nominative
+636468	nominative
 vocative
 NA
 ablative
@@ -105304,7 +105364,7 @@ NA
 nominative
 genitive
 genitive
-637256	nominative
+637305	nominative
 nominative
 NA
 accusative
@@ -105744,7 +105804,7 @@ accusative
 accusative
 NA
 ablative
-637698	NA
+637747	NA
 NA
 dative
 dative
@@ -105752,7 +105812,7 @@ ablative
 NA
 NA
 ablative
-637709	nominative
+637758	nominative
 accusative
 nominative
 NA
@@ -106021,7 +106081,7 @@ NA
 accusative
 genitive
 NA
-637980	nominative
+638029	nominative
 nominative
 NA
 ablative
@@ -106238,7 +106298,7 @@ NA
 NA
 accusative
 ablative
-638200	NA
+638249	NA
 nominative
 NA
 nominative
@@ -106593,7 +106653,7 @@ dative
 nominative
 NA
 accusative
-638557	NA
+638606	NA
 NA
 accusative
 accusative
@@ -106849,7 +106909,7 @@ NA
 nominative
 genitive
 NA
-638816	NA
+638865	NA
 NA
 NA
 NA
@@ -106861,7 +106921,7 @@ NA
 NA
 NA
 ablative
-638831	nominative
+638880	nominative
 nominative
 accusative
 genitive
@@ -106917,7 +106977,7 @@ NA
 accusative
 NA
 nominative
-638890	nominative
+638939	nominative
 nominative
 nominative
 NA
@@ -107096,7 +107156,7 @@ NA
 accusative
 genitive
 NA
-639070	NA
+639119	NA
 accusative
 ablative
 NA
@@ -107301,7 +107361,7 @@ accusative
 genitive
 NA
 accusative
-639277	NA
+639326	NA
 NA
 accusative
 accusative
@@ -109322,7 +109382,7 @@ NA
 NA
 accusative
 genitive
-641299	NA
+641348	NA
 accusative
 NA
 ablative
@@ -109694,8 +109754,8 @@ nominative
 NA
 nominative
 NA
-641672	NA
-641674	nominative
+641721	NA
+641723	nominative
 NA
 nominative
 nominative
@@ -109918,7 +109978,7 @@ nominative
 NA
 nominative
 genitive
-641900	genitive
+641949	genitive
 nominative
 genitive
 nominative
@@ -110068,7 +110128,7 @@ accusative
 genitive
 NA
 accusative
-642051	NA
+642100	NA
 NA
 accusative
 accusative
@@ -110308,8 +110368,8 @@ NA
 accusative
 accusative
 nominative
-642292	NA
-642294	nominative
+642341	NA
+642343	nominative
 NA
 nominative
 nominative

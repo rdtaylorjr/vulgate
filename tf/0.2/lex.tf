@@ -15,9 +15,9 @@
 @valueType=str
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:06+00:00Z
+@dateWritten=2026-10-11T09:21:47+00:00Z
 
-516464	liber/
+516531	liber/
 generatio/
 Iesus/
 Christus/
@@ -2556,7 +2556,7 @@ ubi
 fur/
 non
 effodio[
-519004	furor[
+519071	furor[
 ubi
 enim
 sum[
@@ -2707,7 +2707,7 @@ quomodo
 cresco[
 non
 laboro[
-519156	neo[
+519223	neo[
 dico[
 autem
 vos
@@ -4728,7 +4728,7 @@ sum[
 discipulus/
 super
 magister/
-521178	servus/
+521245	servus/
 super
 dominus/
 suus/
@@ -8471,7 +8471,7 @@ is
 beatus/
 sum[
 Simon/
-524923	quia
+524990	quia
 caro/
 et
 sanguis/
@@ -8620,7 +8620,7 @@ post
 ego
 venio[
 abnego[
-525073	ipse
+525140	ipse
 et
 tollo[
 crux/
@@ -8930,7 +8930,7 @@ provolvo[
 ante
 is
 dico[
-525402	et
+525469	et
 offero[
 is
 discipulus/
@@ -9383,7 +9383,7 @@ is
 magis
 quam=
 super
-525857	qui
+525924	qui
 non
 erro[
 sic
@@ -10100,9 +10100,7 @@ caelum/
 et
 venio[
 sequor[
-ego
-cum
-audio[
+526643	audio[
 autem
 adulescens/
 verbum/
@@ -12247,8 +12245,7 @@ vester/
 qui
 in
 caelum/
-sum[
-528723	voco[
+528790	voco[
 magister/
 quia
 magister/
@@ -12290,7 +12287,7 @@ vos
 enim
 non
 intro[
-528766	introeo[
+528833	introeo[
 sino[
 intro[
 vae
@@ -12578,7 +12575,7 @@ propheta/
 itaque
 testimonium/
 sum[
-529055	ipse
+529122	ipse
 quia
 filius/
 sum[
@@ -15793,7 +15790,7 @@ triduum/
 ille
 redaedifico[
 salvo[
-532271	ipse
+532338	ipse
 si
 filius/
 deus/
@@ -17142,7 +17139,8 @@ ita
 ut
 non
 capio[
-533622	ad
+neque
+ad
 ianua/
 et
 loquor[
@@ -17863,7 +17861,8 @@ ita
 ut
 non
 possum[
-534345	panis/
+neque
+panis/
 manduco[
 et
 cum
@@ -17923,7 +17922,7 @@ et
 si
 domus/
 super
-534406	ipse
+534471	ipse
 dispertior[
 non
 possum[
@@ -17935,7 +17934,7 @@ si
 Satanas/
 consurgo[
 in
-534419	ipse
+534484	ipse
 dispertior[
 sum[
 et
@@ -18406,7 +18405,7 @@ absconditus/
 qui
 non
 manifesto[
-534891	facio[
+534956	facio[
 sum[
 occultus/
 sed
@@ -18713,7 +18712,8 @@ habeo[
 in
 monumentum/
 et
-535200	catena/
+neque
+catena/
 iam
 quisquam
 is
@@ -18925,7 +18925,9 @@ discedo[
 de
 finis/
 is
-535413	ascendo[
+cum
+que
+ascendo[
 navis/
 coepi[
 ille
@@ -19061,7 +19063,7 @@ et
 erogo[
 omnis
 suus/
-535550	quisquam
+535615	quisquam
 proficio[
 sed
 magis
@@ -19109,7 +19111,7 @@ statim
 Iesus/
 cognosco[
 in
-535599	ipse
+535664	ipse
 virtus/
 qui
 exeo[
@@ -19210,7 +19212,7 @@ aio[
 archisynagogus/
 nolo[
 timeo[
-535701	credo[
+535766	credo[
 et
 non
 admitto[
@@ -19495,7 +19497,7 @@ quicumque
 non
 recipio[
 vos
-535987	audio[
+536052	audio[
 vos
 exeo[
 inde
@@ -19615,7 +19617,7 @@ et
 volo=[
 occido=[
 is
-536108	possum[
+536173	possum[
 Herodes/
 enim
 metuo[
@@ -19654,7 +19656,9 @@ tribunus/
 et
 primus/
 Galilaea/
-536148	introeo[
+cum
+que
+introeo[
 filia/
 ipse
 Herodias/
@@ -19703,7 +19707,9 @@ dico[
 caput/
 Iohannes/
 Baptista/
-536198	introeo[
+cum
+que
+introeo[
 statim
 cum
 festinatio/
@@ -19725,7 +19731,7 @@ et
 contristo[
 rex/
 propter
-536221	et
+536288	et
 propter
 simul
 recumbo[
@@ -20133,7 +20139,9 @@ terra/
 Gennesareth/
 et
 applico[
-536630	egredior[
+cum
+que
+egredior[
 sum[
 de
 navis/
@@ -20743,7 +20751,7 @@ cum
 turba/
 multus/
 sum[
-537241	habeo[
+537309	habeo[
 qui
 manduco[
 convoco[
@@ -20759,7 +20767,7 @@ iam
 triduum/
 sustineo[
 ego
-537258	habeo[
+537326	habeo[
 qui
 manduco[
 et
@@ -20959,7 +20967,7 @@ non
 habeo[
 nondum
 cognosco[
-537459	intellego[
+537527	intellego[
 adhuc
 caeco[
 habeo[
@@ -20974,7 +20982,7 @@ auris/
 habeo[
 non
 audio[
-537475	recordor[
+537543	recordor[
 quando
 quinque/
 panis/
@@ -21792,7 +21800,7 @@ inde
 proficiscor[
 praetergredior[
 Galilaea/
-538294	volo=[
+538362	volo=[
 quisquam
 scio[
 doceo[
@@ -22491,7 +22499,7 @@ magis
 admiror[
 dico[
 ad
-538994	ipse
+539062	ipse
 et
 quis
 possum[
@@ -23116,7 +23124,9 @@ exeo[
 ab
 Bethania/
 esurio[
-539620	video[
+cum
+que
+video[
 ab
 longe
 ficus/
@@ -23454,7 +23464,8 @@ respondeo[
 Iesus/
 aio[
 ille
-539960	ego
+neque
+ego
 dico[
 vos
 in
@@ -23591,7 +23602,7 @@ et
 do[
 vinea/
 alius
-540098	scriptura/
+540166	scriptura/
 hic
 lego[
 lapis/
@@ -23661,7 +23672,7 @@ et
 non
 curo[
 quisquam
-540169	enim
+540237	enim
 video[
 in
 facies/
@@ -24340,7 +24351,7 @@ dolor/
 hic
 video[
 autem
-540849	ipse
+540917	ipse
 trado[
 enim
 vos
@@ -24456,7 +24467,7 @@ ne
 descendo[
 in
 domus/
-540966	introeo[
+541034	introeo[
 ut
 tollo[
 quis
@@ -24817,7 +24828,7 @@ quidam
 indigne
 fero[
 intra
-541328	ipse
+541396	ipse
 et
 dico[
 ut
@@ -25593,7 +25604,7 @@ ut
 is
 mors/
 trado[
-542105	invenio[
+542173	invenio[
 multus/
 enim
 testimonium/
@@ -26206,7 +26217,7 @@ dies/
 aedifico[
 salvus/
 facio[
-542719	ipse
+542787	ipse
 descendo[
 de
 crux/
@@ -27750,7 +27761,7 @@ memoro[
 testamentum/
 suus/
 sanctus/
-544264	qui
+544332	qui
 iuro[
 ad
 Abraham/
@@ -28394,7 +28405,7 @@ vidua/
 usque
 ad
 annus/
-544910	qui
+544978	qui
 non
 discedo[
 de
@@ -31963,7 +31974,7 @@ consilium/
 deus/
 sperno[
 in
-548480	ipse
+548548	ipse
 non
 baptizo[
 ab
@@ -32572,7 +32583,7 @@ occultus/
 qui
 non
 manifesto[
-549090	absconditus/
+549158	absconditus/
 qui
 non
 cognosco[
@@ -33077,7 +33088,7 @@ erogo[
 omnis
 substantia/
 suus/
-549596	ab
+549664	ab
 ullus
 possum[
 curo[
@@ -34358,7 +34369,7 @@ designo[
 dominus/
 et
 alius
-550879	et
+550947	et
 mitto[
 ille
 bini/
@@ -34605,7 +34616,7 @@ mitto[
 revertor[
 sum[
 autem
-551128	cum
+551196	cum
 gaudium/
 dico[
 dominus/
@@ -36394,7 +36405,8 @@ cubitum/
 unus/
 si
 ergo
-552919	qui
+neque
+qui
 parvus/
 sum[
 possum[
@@ -37127,7 +37139,7 @@ octo/
 et
 sum[
 inclino[
-553653	omnino
+553720	omnino
 possum[
 sursum
 respicio[
@@ -39186,7 +39198,8 @@ et
 propheta/
 non
 audio[
-555714	si
+neque
+si
 quis
 ex
 mortuus/
@@ -39795,7 +39808,7 @@ si
 deus/
 non
 timeo[
-556324	homo/
+556390	homo/
 revereor[
 tamen
 quia
@@ -43814,7 +43827,7 @@ sum[
 Christus/
 salvus/
 facio[
-560344	ipse
+560410	ipse
 et
 nos
 respondeo[
@@ -45942,7 +45955,7 @@ autem
 Iesus/
 non
 credo[
-562473	ipse
+562539	ipse
 is
 eo==
 quod
@@ -46696,7 +46709,8 @@ dico[
 is
 mulier/
 dominus/
-563229	in
+neque
+in
 qui
 haurio[
 habeo[
@@ -47786,7 +47800,7 @@ pater/
 habeo[
 vita/
 in
-564320	ipse
+564385	ipse
 sic
 do[
 et
@@ -47794,7 +47808,7 @@ filius/
 vita/
 habeo[
 in
-564329	ipse
+564394	ipse
 et
 potestas/
 do[
@@ -47966,10 +47980,7 @@ ipse
 testimonium/
 perhibeo[
 de
-ego
-ne
-que
-vox/
+564568	vox/
 is
 umquam
 audio[
@@ -48374,7 +48385,7 @@ remigo[
 ergo
 quasi
 stadium/
-564911	aut
+564975	aut
 triginta/
 video[
 Iesus/
@@ -49060,7 +49071,7 @@ scio[
 autem
 Iesus/
 apud
-565598	ipse
+565662	ipse
 quia
 murmuro[
 de
@@ -49279,7 +49290,8 @@ manifesto[
 tu
 ipse
 mundus/
-565819	enim
+neque
+enim
 frater/
 is
 credo[
@@ -49462,7 +49474,7 @@ ipse
 loquor[
 qui
 ab
-566003	ipse
+566066	ipse
 loquor[
 gloria/
 proprius/
@@ -50338,7 +50350,7 @@ ergo
 Iudaei/
 numquid
 interficio[
-566880	ipse
+566943	ipse
 quia
 dico[
 quo
@@ -52727,7 +52739,7 @@ ergo
 rursus
 fremo[
 in
-569270	ipse
+569333	ipse
 venio[
 ad
 monumentum/
@@ -52915,7 +52927,7 @@ is
 vos
 nescio[
 quisquam
-569459	cogito[
+569522	cogito[
 quia
 expedio[
 nos
@@ -52933,7 +52945,7 @@ pereo[
 hic
 autem
 ab
-569478	ipse
+569541	ipse
 non
 dico[
 sed
@@ -53328,7 +53340,7 @@ Pharisaeus/
 ergo
 dico[
 ad
-569874	ipse
+569937	ipse
 video[
 quia
 nihil
@@ -54343,7 +54355,7 @@ deus/
 clarifico[
 is
 in
-570890	ipse
+570953	ipse
 et
 continuo
 clarifico[
@@ -54470,7 +54482,7 @@ mansio/
 multus/
 sum[
 si
-571019	dico[
+571082	dico[
 vos
 quia
 vado[
@@ -54709,7 +54721,7 @@ quia
 non
 video[
 is
-571259	scio[
+571322	scio[
 is
 vos
 autem
@@ -55034,7 +55046,7 @@ possum[
 fero[
 fructus/
 ab
-571585	ipse
+571648	ipse
 nisi
 maneo[
 in
@@ -55612,7 +55624,7 @@ non
 enim
 loquor[
 ab
-572164	ipse
+572227	ipse
 sed
 quicumque
 audio[
@@ -56055,7 +56067,7 @@ ego
 tu
 pater/
 apud
-572608	ipse
+572671	ipse
 claritas/
 qui
 habeo[
@@ -56220,7 +56232,7 @@ gaudium/
 meus/
 impleo[
 in
-572774	ipse
+572837	ipse
 ego
 do[
 is
@@ -56997,7 +57009,7 @@ et
 respondeo[
 Iesus/
 ab
-573552	ipse
+573615	ipse
 hic
 dico[
 an
@@ -57984,7 +57996,7 @@ abeo[
 ergo
 iterum
 ad
-574540	ipse
+574603	ipse
 discipulus/
 Maria/
 autem
@@ -58564,7 +58576,7 @@ terra/
 plenus/
 magnus/
 piscis/
-575123	et
+575186	et
 cum
 tantus
 sum[
@@ -59131,7 +59143,7 @@ turba/
 nomen/
 simul
 fere
-575692	vir/
+575755	vir/
 frater/
 oportet[
 impleo[
@@ -59792,7 +59804,7 @@ sum[
 et
 scio[
 quia
-576354	iuro[
+576417	iuro[
 ille
 deus/
 de
@@ -60693,7 +60705,7 @@ in
 alius
 aliquis
 salus/
-577256	enim
+577319	enim
 nomen/
 alius
 sum[
@@ -61034,7 +61046,7 @@ cor/
 et
 anima/
 unus/
-577598	quisquam
+577661	quisquam
 is
 qui
 possideo[
@@ -67203,7 +67215,7 @@ quidem
 non
 sine
 testimonium/
-583768	ipse
+583831	ipse
 relinquo[
 benefacio[
 de
@@ -69085,7 +69097,7 @@ in
 manufactus/
 templum/
 inhabito[
-585651	manus/
+585714	manus/
 humanus/
 colo[
 indigeo[
@@ -69713,7 +69725,8 @@ ille
 ad
 is
 sed
-586281	si
+neque
+si
 spiritus/
 sanctus/
 sum[
@@ -70688,7 +70701,7 @@ quomodo
 nihil
 subtraho[
 utilis/
-587258	adnuntio[
+587320	adnuntio[
 vos
 et
 doceo[
@@ -70747,7 +70760,7 @@ sed
 nihil
 hic
 vereor[
-587318	facio[
+587380	facio[
 anima/
 pretiosus/
 quam=
@@ -70800,7 +70813,7 @@ omnis
 non
 enim
 subterfugio[
-587373	adnuntio[
+587435	adnuntio[
 omnis
 consilium/
 deus/
@@ -71453,7 +71466,7 @@ clamo[
 vir/
 Israelitae/
 adiuvo[
-588051	video[
+588113	video[
 enim
 Trophimus/
 Ephesius/
@@ -71596,7 +71609,7 @@ qui
 dico[
 Graece
 nosco[
-588212	et
+588274	et
 dico[
 ad
 is
@@ -71890,7 +71903,7 @@ vox/
 ex
 os=/
 is
-588518	et
+588580	et
 nunc
 quis
 moror[
@@ -71924,7 +71937,7 @@ video[
 ille
 dico[
 ego
-588565	et
+588627	et
 ego
 dico[
 dominus/
@@ -72298,7 +72311,7 @@ invenio[
 in
 homo/
 iste
-588947	et
+589009	et
 cum
 magnus/
 dissensio/
@@ -73018,7 +73031,7 @@ quis
 habeo[
 adversus
 ego
-589701	differo[
+589763	differo[
 autem
 ille
 Felix/
@@ -73041,7 +73054,7 @@ is
 et
 habeo[
 requies/
-589725	quisquam
+589787	quisquam
 prohibeo[
 de
 suus/
@@ -73241,7 +73254,7 @@ qui
 non
 possum[
 probo[
-589954	volo=[
+590013	volo=[
 Hierosolyma/
 ascendo[
 et
@@ -73595,7 +73608,7 @@ permitto[
 tu
 loquor[
 pro
-590309	ipse
+590368	ipse
 tunc
 Paulus/
 extendo[
@@ -73715,7 +73728,7 @@ si
 deus/
 mortuus/
 suscito[
-590458	et
+590517	et
 cum
 occido=[
 defero[
@@ -74005,7 +74018,7 @@ qui
 et
 constanter
 loquor[
-590763	credo[
+590821	credo[
 rex/
 Agrippa/
 propheta/
@@ -74024,7 +74037,7 @@ Christianus/
 fio[
 et
 Paulus/
-590810	et
+590868	et
 ex(s)urgo[
 rex/
 et
@@ -74519,7 +74532,7 @@ quattuor/
 opto[
 dies/
 fio[
-591329	nisi
+591387	nisi
 hic
 in
 navis/
@@ -74558,7 +74571,7 @@ ieiunus/
 permaneo[
 nihil
 accipio[
-591384	et
+591442	et
 cum
 hic
 dico[
@@ -74832,7 +74845,7 @@ dico[
 is
 sum[
 deus/
-591674	contingo[
+591732	contingo[
 autem
 pater/
 Publius/
@@ -74960,7 +74973,7 @@ permitto[
 sum[
 Paulus/
 maneo[
-591803	cum
+591861	cum
 custodio[
 se
 miles/
@@ -75127,7 +75140,7 @@ quidam
 vero
 non
 credo[
-591993	vado[
+592052	vado[
 ad
 populus/
 iste
@@ -75144,7 +75157,7 @@ video[
 et
 non
 perspicio[
-592039	nosco[
+592098	nosco[
 ergo
 sum[
 vos
@@ -75562,7 +75575,7 @@ afficio[
 corpus/
 suus/
 in
-592458	ipse
+592517	ipse
 qui
 commuto[
 veritas/
@@ -75629,7 +75642,7 @@ oportet[
 error/
 suus/
 in
-592526	ipse
+592585	ipse
 recipio[
 et
 sicut
@@ -76089,10 +76102,7 @@ qui
 in
 manifestus/
 Iudaeus/
-sum[
-ne
-que
-qui
+593047	qui
 in
 manifestus/
 in
@@ -76720,7 +76730,7 @@ enim
 non
 sum[
 lex/
-593618	praevaricatio/
+593676	praevaricatio/
 ideo
 ex
 fides/
@@ -78121,7 +78131,7 @@ enim
 deus/
 non
 subicio[
-595020	enim
+595078	enim
 possum[
 qui
 autem
@@ -79728,7 +79738,7 @@ altus/
 sapio[
 sed
 timeo[
-596639	video[
+596697	video[
 ergo
 bonitas/
 et
@@ -80060,14 +80070,20 @@ do[
 sum[
 nos
 differo[
-596972	prophetia/
+si
+ve
+prophetia/
 secundum
 ratio/
 fides/
-596977	ministerium/
+si
+ve
+ministerium/
 in
 ministro[
-596981	qui
+si
+ve
+qui
 doceo[
 in
 doctrina/
@@ -80146,7 +80162,7 @@ nolo[
 sum[
 prudens/
 apud
-597061	ipse
+597122	ipse
 nullus
 malus/
 pro
@@ -80176,7 +80192,7 @@ homo/
 pax/
 habeo[
 non
-597092	ipse
+597153	ipse
 defendo[
 carus/
 sed
@@ -80394,7 +80410,7 @@ ergo
 lex/
 sum[
 dilectio/
-597322	nunc
+597383	nunc
 enim
 prope
 sum[
@@ -80556,16 +80572,24 @@ et
 nemo
 se
 morior[
-597485	enim
+si
+ve
+enim
 vivo[
 dominus/
 vivo[
-597490	morior[
+si
+ve
+morior[
 dominus/
 morior[
-597494	ergo
+si
+ve
+ergo
 vivo[
-597497	morior[
+si
+ve
+morior[
 dominus/
 sum[
 in
@@ -80770,7 +80794,7 @@ tu
 fides/
 habeo[
 penes
-597703	ipse
+597768	ipse
 habeo[
 coram
 deus/
@@ -80778,7 +80802,7 @@ beatus/
 qui
 non
 iudico[
-597712	ipse
+597777	ipse
 in
 is
 qui
@@ -82268,9 +82292,9 @@ quod
 oculus/
 non
 video[
-599203	auris/
+599268	auris/
 audio[
-599206	in
+599271	in
 cor/
 homo/
 ascendo[
@@ -82758,7 +82782,8 @@ ab
 humanus/
 dies/
 sed
-599696	ego
+neque
+ego
 ipse
 iudico[
 nihil
@@ -83243,7 +83268,7 @@ rapax/
 cum
 is
 modus/
-600182	cibus/
+600246	cibus/
 sumo[
 quis
 enim
@@ -85007,7 +85032,8 @@ sicut
 et
 ille
 concupio[
-601948	idolum/
+neque
+idolum/
 cultor/
 efficio[
 sicut
@@ -85025,7 +85051,8 @@ bibo[
 et
 surgo[
 ludo[
-601968	fornicor[
+neque
+fornicor[
 sicut
 quidam
 ex
@@ -85039,7 +85066,8 @@ dies/
 viginti/
 tres/
 mille/
-601984	tempto[
+neque
+tempto[
 Christus/
 sicut
 quidam
@@ -85049,7 +85077,8 @@ et
 ab
 serpens/
 pereo[
-601996	murmuro[
+neque
+murmuro[
 sicut
 quidam
 is
@@ -85318,9 +85347,13 @@ is
 quod
 gratia/
 ago[
-602266	ergo
+si
+ve
+ergo
 manduco[
-602269	bibo[
+si
+ve
+bibo[
 vel
 alius
 quis
@@ -85528,7 +85561,7 @@ non
 velo[
 oro[
 deus/
-602478	ipse
+602540	ipse
 natura/
 doceo[
 vos
@@ -85789,7 +85822,7 @@ dormio[
 multus/
 quod=
 si
-602740	ipse
+602802	ipse
 diiudico[
 non
 utique
@@ -86169,7 +86202,9 @@ membrum/
 compatior[
 omnis
 membrum/
-603121	glorior[
+si
+ve
+glorior[
 unus/
 membrum/
 congaudeo[
@@ -86350,11 +86385,17 @@ sustineo[
 caritas/
 numquam
 excido=[
-603303	prophetia/
+si
+ve
+prophetia/
 evacuo[
-603306	lingua/
+si
+ve
+lingua/
 cesso[
-603309	scientia/
+si
+ve
+scientia/
 destruo[
 ex
 pars/
@@ -86467,7 +86508,7 @@ consolatio/
 qui
 loquor[
 lingua/
-603423	ipse
+603489	ipse
 aedifico[
 qui
 autem
@@ -86836,7 +86877,9 @@ omnis
 ad
 aedificatio/
 fio[
-603793	lingua/
+si
+ve
+lingua/
 quis
 loquor[
 secundum
@@ -87133,9 +87176,13 @@ gratia/
 deus/
 ego
 cum
-604091	enim
+si
+ve
+enim
 ego
-604094	ille
+si
+ve
+ille
 sic
 praedico=[
 et
@@ -87165,7 +87212,8 @@ resurrectio/
 mortuus/
 non
 sum[
-604126	Christus/
+neque
+Christus/
 resurgo[
 si
 autem
@@ -88162,14 +88210,18 @@ Christus/
 abundo[
 consolatio/
 noster/
-605124	autem
+si
+ve
+autem
 tribulo[
 pro
 vester/
 exhortatio/
 et
 salus/
-605132	exhortor[
+si
+ve
+exhortor[
 pro
 vester/
 exhortatio/
@@ -88802,7 +88854,7 @@ Christus/
 loquor[
 incipio[
 iterum
-605766	ipse
+605836	ipse
 commendo[
 aut
 numquid
@@ -89104,7 +89156,7 @@ in
 manifestatio/
 veritas/
 commendo[
-606069	ipse
+606139	ipse
 ad
 omnis
 conscientia/
@@ -89145,7 +89197,7 @@ imago/
 deus/
 non
 enim
-606111	ipse
+606181	ipse
 praedico=[
 sed
 Iesus/
@@ -89551,11 +89603,15 @@ et
 non
 in
 cor/
-606518	enim
+si
+ve
+enim
 mens/
 excedo[
 deus/
-606523	sobrius/
+si
+ve
+sobrius/
 sum[
 vos
 caritas/
@@ -89738,7 +89794,7 @@ sed
 in
 omnis
 exhibeo[
-606707	ipse
+606779	ipse
 sicut
 deus/
 minister/
@@ -89956,7 +90012,7 @@ in
 filius/
 et
 filia/
-606928	hic
+607000	hic
 igitur
 habeo[
 promissio/
@@ -90182,7 +90238,7 @@ is
 qui
 facio[
 iniuria/
-607155	propter
+607227	propter
 is
 qui
 patior[
@@ -90337,7 +90393,7 @@ non
 sicut
 spero[
 sed
-607311	ipse
+607383	ipse
 do[
 primum
 dominus/
@@ -91121,11 +91177,11 @@ sed
 ipse
 in
 nos
-608096	ipse
+608168	ipse
 metior[
 et
 comparo==[
-608101	ipse
+608173	ipse
 nos
 nos
 autem
@@ -91966,7 +92022,7 @@ vester/
 sum[
 sed
 vos
-608943	enim
+609015	enim
 debeo[
 filius/
 parens/
@@ -92029,7 +92085,7 @@ idem
 spiritus/
 ambulo[
 nonne
-609007	vestigium/
+609079	vestigium/
 olim
 puto[
 quod
@@ -92166,7 +92222,7 @@ sum[
 in
 vos
 nam
-609146	crucifigo[
+609218	crucifigo[
 sum[
 ex
 infirmitas/
@@ -92191,7 +92247,7 @@ virtus/
 deus/
 in
 vos
-609172	ipse
+609244	ipse
 tempto[
 si
 sum[
@@ -92381,7 +92437,7 @@ Iesus/
 Christus/
 qui
 do[
-609363	ipse
+609435	ipse
 pro
 peccatum/
 noster/
@@ -92518,7 +92574,7 @@ per
 revelatio/
 Iesus/
 Christus/
-609532	cum
+609604	cum
 autem
 placeo[
 is
@@ -92663,8 +92719,9 @@ qui
 praedico=[
 in
 gens/
-609689	sed
-609692	Titus/
+609761	sed
+neque
+Titus/
 qui
 ego
 cum
@@ -92695,8 +92752,8 @@ nos
 in
 servitus/
 redigo[
-609736	ab
-609738	autem
+609806	ab
+609808	autem
 qui
 video[
 sum[
@@ -92718,7 +92775,7 @@ qui
 video[
 nihil
 confero[
-609831	cum
+609901	cum
 autem
 venio[
 Cephas/
@@ -92844,7 +92901,7 @@ non
 iustifico[
 omnis
 caro/
-609973	absum[
+610043	absum[
 si
 enim
 qui
@@ -92879,7 +92936,7 @@ vero
 in
 ego
 Christus/
-610028	non
+610098	non
 abicio[
 gratia/
 deus/
@@ -92978,7 +93035,7 @@ hic
 sum[
 filius/
 Abraham/
-610139	benedico[
+610209	benedico[
 in
 tu
 omnis
@@ -93048,7 +93105,7 @@ is
 vivo[
 in
 ille
-610243	frater/
+610313	frater/
 secundum
 homo/
 dico[
@@ -93429,7 +93486,7 @@ vos
 nihil
 ego
 laedo[
-610654	ubi
+610723	ubi
 sum[
 ergo
 beatitudo/
@@ -93682,7 +93739,7 @@ iterum
 iugum/
 servitus/
 contineo[
-610919	testificor[
+610988	testificor[
 autem
 rursus
 omnis
@@ -93714,7 +93771,7 @@ fides/
 spes/
 iustitia/
 exspecto[
-610969	curro[
+611036	curro[
 bene
 quis
 vos
@@ -93939,7 +93996,7 @@ invicem
 provoco[
 invicem
 invideo[
-611220	alter/
+611287	alter/
 alter/
 onus/
 porto[
@@ -93969,7 +94026,7 @@ unusquisque
 et
 sic
 in
-611251	ipse
+611318	ipse
 tantum
 gloria/
 habeo[
@@ -94000,7 +94057,7 @@ erro[
 deus/
 non
 irrideo[
-611300	qui
+611367	qui
 autem
 semino[
 in
@@ -94057,7 +94114,7 @@ Christus/
 persecutio/
 non
 patior[
-611373	ego
+611439	ego
 autem
 absum[
 glorior[
@@ -94711,7 +94768,7 @@ ut
 duo/
 condo[
 in
-612028	ipse
+612094	ipse
 in
 unus/
 novus/
@@ -94730,7 +94787,7 @@ crux/
 interficio[
 inimicitia/
 in
-612048	ipse
+612114	ipse
 et
 venio[
 evangelizo[
@@ -94813,7 +94870,7 @@ Iesus/
 pro
 vos
 gens/
-612197	qui
+612263	qui
 facio[
 sum[
 minister/
@@ -94840,7 +94897,7 @@ hic
 in
 gens/
 evangelizo[
-612225	divitiae/
+612291	divitiae/
 Christus/
 et
 illumino[
@@ -95127,7 +95184,7 @@ caelum/
 ut
 impleo[
 omnis
-612590	ex
+612656	ex
 qui
 totus/
 corpus/
@@ -95190,7 +95247,7 @@ cor/
 ipse
 qui
 despero[
-612654	ipse
+612720	ipse
 trado[
 impudicitia/
 in
@@ -95297,7 +95354,7 @@ unde
 tribuo[
 necessitas/
 patior[
-612780	et
+612846	et
 nolo[
 contristo[
 spiritus/
@@ -95369,7 +95426,7 @@ deus/
 in
 odor/
 suavitas/
-612881	hic
+612947	hic
 enim
 scio[
 intellego[
@@ -95420,7 +95477,7 @@ autem
 lux/
 in
 dominus/
-612952	et
+613018	et
 nolo[
 communico[
 opus/
@@ -95468,7 +95525,7 @@ et
 illumino[
 tu
 Christus/
-613018	propterea
+613084	propterea
 nolo[
 fio[
 imprudens/
@@ -95490,7 +95547,7 @@ sed
 impleo[
 spiritus/
 loquor[
-613041	ipse
+613107	ipse
 in
 psalmus/
 et
@@ -96173,7 +96230,7 @@ probo[
 potis/
 ut
 sum[
-613725	et
+613791	et
 sine
 offensa/
 in
@@ -96295,7 +96352,7 @@ gaudeo[
 sed
 et
 gaudeo[
-613891	ego
+613957	ego
 enim
 vivo[
 Christus/
@@ -96396,7 +96453,7 @@ unianimis/
 collaboro[
 fides/
 evangelium/
-614041	si
+614107	si
 quis
 ergo
 consolatio/
@@ -96479,7 +96536,7 @@ se
 aequalis/
 deus/
 sed
-614125	ipse
+614191	ipse
 exinanio[
 forma/
 servus/
@@ -96494,7 +96551,7 @@ invenio[
 ut==
 homo/
 humilio[
-614141	ipse
+614207	ipse
 facio[
 oboedio[
 usque
@@ -97137,7 +97194,7 @@ ipse
 qui
 terrenus/
 sapio[
-614814	itaque
+614880	itaque
 frater/
 meus/
 carus/
@@ -97590,7 +97647,7 @@ dilectio/
 vester/
 in
 spiritus/
-615337	qui
+615403	qui
 eripio[
 nos
 de
@@ -97935,7 +97992,7 @@ decipio[
 in
 subtilitas/
 sermo/
-615707	sicut
+615773	sicut
 ergo
 accipio[
 Christus/
@@ -97987,8 +98044,8 @@ omnis
 plenitudo/
 divinitas/
 corporaliter
-615792	et
-615804	vos
+615858	et
+615870	vos
 cum
 morior[
 sum[
@@ -98033,7 +98090,7 @@ palam
 triumpho[
 ille
 in
-615850	ipse
+615916	ipse
 nemo
 ergo
 vos
@@ -98153,7 +98210,7 @@ aliquis
 ad
 saturitas/
 caro/
-616593	Paulus/
+616659	Paulus/
 et
 Silvanus/
 et
@@ -98432,8 +98489,7 @@ occasio/
 avaritia/
 deus/
 testis/
-sum[
-616874	quaero[
+616940	quaero[
 ab
 homo/
 gloria/
@@ -99369,8 +99425,12 @@ sum[
 pro
 nos
 ut
-617811	vigilo[
-617813	dormio[
+si
+ve
+vigilo[
+si
+ve
+dormio[
 simul
 cum
 ille
@@ -100175,7 +100235,7 @@ habeo[
 potestas/
 sed
 ut
-618619	ipse
+618687	ipse
 forma/
 do[
 vos
@@ -100197,7 +100257,7 @@ quis
 non
 volo=[
 operor[
-618642	manduco[
+618710	manduco[
 audio[
 enim
 inter
@@ -100298,7 +100358,7 @@ Christus/
 cum
 omnis
 vos
-619548	nam
+619612	nam
 corporalis/
 exercitatio/
 ad
@@ -100319,7 +100379,7 @@ nunc
 sum[
 et
 futurus/
-620107	haud
+620170	haud
 dubius/
 quia
 neque
@@ -100335,14 +100395,14 @@ tego[
 hic
 contentus/
 sum[
-620622	et
+620683	et
 quantus
 Ephesus/
 ministro[
 bene
 tu
 nosco[
-620840	sed
+620901	sed
 firmus/
 fundamentum/
 deus/
@@ -100364,7 +100424,7 @@ qui
 nomino[
 nomen/
 dominus/
-620975	hic
+621036	hic
 autem
 scio[
 quod
@@ -100374,7 +100434,7 @@ dies/
 insto[
 tempus/
 periculosus/
-621199	testificor[
+621260	testificor[
 coram
 deus/
 et
@@ -100460,7 +100520,7 @@ cursus/
 consummo[
 fides/
 servo[
-621312	festino[
+621373	festino[
 venio[
 ad
 ego
@@ -100885,7 +100945,7 @@ omnis
 opus/
 bonus/
 reprobus/
-621920	admoneo[
+621981	admoneo[
 ille
 princeps/
 et
@@ -101421,7 +101481,7 @@ cum
 spiritus/
 vester/
 amen
-622593	propterea
+622654	propterea
 ung(u)o[
 tu
 deus/
@@ -101432,7 +101492,7 @@ ex(s)ultatio/
 prae
 particeps/
 tuus/
-622742	non
+622803	non
 enim
 angelus/
 subicio[
@@ -101442,14 +101502,14 @@ futurus/
 de
 qui
 loquor[
-622808	nunc
+622869	nunc
 autem
 nequedum
 video[
 omnis
 subiectus/
 is
-623267	etenim
+623328	etenim
 et
 nos
 nuntio[
@@ -101457,7 +101517,7 @@ sum[
 quemadmodum
 et
 ille
-623563	et
+623624	et
 propter
 is
 debeo[
@@ -101468,11 +101528,11 @@ populus/
 ita
 etiam
 pro
-623575	ipse
+623636	ipse
 offero[
 pro
 peccatum/
-623728	omnis
+623789	omnis
 enim
 qui
 lac/
@@ -101482,7 +101542,7 @@ expers/
 sum[
 sermo/
 iustitia/
-624097	intueor[
+624156	intueor[
 autem
 quantus
 sum[
@@ -101495,7 +101555,7 @@ de
 praecipua/
 Abraham/
 patriarcha/
-624189	adhuc
+624248	adhuc
 enim
 in
 lumbus/
@@ -101505,7 +101565,7 @@ quando
 obvio[
 is
 Melchisedech/
-624364	in
+624423	in
 tantum
 bonus/
 testamentum/
@@ -101513,7 +101573,7 @@ sponsor/
 facio[
 sum[
 Iesus/
-625597	nam
+625654	nam
 et
 vincio[
 compatior[
@@ -101532,7 +101592,7 @@ bonus/
 et
 maneo[
 substantia/
-625987	fides/
+626044	fides/
 et
 de
 futurus/
@@ -101541,18 +101601,18 @@ Isaac/
 Iacob/
 et
 Esau/
-626227	qui
+626284	qui
 dignus/
 non
 sum[
 mundus/
-626811	doctrina/
+626866	doctrina/
 varius/
 et
 peregrinus/
 nolo[
 abduco[
-627580	quicumque
+627635	quicumque
 autem
 totus/
 lex/
@@ -101565,7 +101625,7 @@ facio[
 sum[
 omnis
 reus/
-627636	quis
+627691	quis
 prosum[
 frater/
 meus/
@@ -101579,7 +101639,7 @@ opus/
 autem
 non
 habeo[
-627911	ecce
+627966	ecce
 quantus
 ignis/
 quam
@@ -101592,24 +101652,24 @@ ignis/
 sum[
 universitas/
 iniquitas/
-627993	non
+628048	non
 oportet[
 frater/
 meus/
 hic
 ita
 fio[
-628350	nunc
+628404	nunc
 autem
 ex(s)ulto[
 in
 superbus/
 vester/
-628410	thesaurizo[
+628464	thesaurizo[
 in
 novissimus/
 dies/
-629226	qui
+629277	qui
 aliquando
 non
 populus/
@@ -101617,12 +101677,12 @@ nunc
 autem
 populus/
 deus/
-629463	similiter
+629514	similiter
 mulier/
 subditus/
 suus/
 vir/
-629751	in
+629802	in
 qui
 et
 hic
@@ -101633,12 +101693,12 @@ sum[
 spiritus/
 venio[
 praedico=[
-630172	similiter
+630221	similiter
 adulescens/
 subditus/
 sum[
 senex/
-630668	sum[
+630717	sum[
 vero
 et
 pseudopropheta/
@@ -101655,7 +101715,7 @@ qui
 introduco[
 secta/
 perditio/
-631094	ex
+631143	ex
 qui
 enim
 pater/
@@ -101666,7 +101726,7 @@ persevero[
 ab
 initium/
 creatura/
-631518	si
+631567	si
 dico[
 quoniam
 non
@@ -101681,7 +101741,7 @@ non
 sum[
 in
 nos
-631581	qui
+631630	qui
 dico[
 se
 nosco[
@@ -101693,7 +101753,7 @@ non
 custodio[
 mendax/
 sum[
-631730	scribo[
+631779	scribo[
 vos
 pater/
 quoniam
@@ -101739,7 +101799,7 @@ maneo[
 et
 vinco[
 malignus/
-631909	quis
+631957	quis
 sum[
 mendax/
 nisi
@@ -101751,7 +101811,7 @@ Iesus/
 non
 sum[
 Christus/
-632529	vos
+632577	vos
 ex
 deus/
 sum[
@@ -101770,7 +101830,7 @@ quam=
 qui
 in
 mundus/
-632782	sed
+632831	sed
 perfectus/
 caritas/
 foras
@@ -101788,13 +101848,13 @@ sum[
 perfectus/
 in
 caritas/
-633126	non
+633175	non
 pro
 ille
 dico[
 ut
 rogo[
-633239	sum[
+633288	sum[
 nos
 cum
 gratia/
@@ -101813,7 +101873,7 @@ in
 veritas/
 et
 caritas/
-633383	ave
+633432	ave
 is
 dico[
 qui
@@ -101825,7 +101885,7 @@ communico[
 opus/
 ille
 malignus/
-633511	nos
+633560	nos
 ergo
 debeo[
 suscipio[
@@ -101835,11 +101895,11 @@ ut
 cooperator/
 sum[
 veritas/
-633608	multus/
+633657	multus/
 habeo[
 scribo[
 tu
-633632	saluto[
+633681	saluto[
 tu
 amicus/
 saluto[
@@ -102054,7 +102114,7 @@ macula/
 convivor[
 sine
 timor/
-633848	ipse
+633897	ipse
 pascor[
 nubes/
 sine
@@ -102091,7 +102151,7 @@ hic
 septimus/
 ab
 Adam/
-633886	dico[
+633935	dico[
 ecce
 venio[
 dominus/
@@ -102126,7 +102186,7 @@ contra
 is
 peccator/
 impius/
-634059	apocalypsis/
+634108	apocalypsis/
 Iesus/
 Christus/
 qui
@@ -102281,8 +102341,8 @@ etiam
 amen
 ego
 sum[
-634215	et
-634217	principium/
+634264	et
+634266	principium/
 et
 finis/
 dico[
@@ -102820,7 +102880,7 @@ similiter
 paenitentia/
 ago[
 si
-634757	venio[
+634806	venio[
 tu
 cito
 et
@@ -103377,8 +103437,8 @@ quia
 tepidus/
 sum[
 et
-635315	frigidus/
-635317	calidus/
+635364	frigidus/
+635366	calidus/
 incipio[
 tu
 evomo[
@@ -103572,10 +103632,10 @@ in
 circuitus/
 sedes/
 sedile/
-635513	et
+635562	et
 super
 thronus/
-635518	senex/
+635567	senex/
 sedeo[
 circumamictus/
 vestimentum/
@@ -103710,7 +103770,7 @@ in
 saeculum/
 saeculum/
 procido[
-635655	senex/
+635704	senex/
 ante
 sedeo[
 in
@@ -103813,7 +103873,7 @@ invenio[
 sum[
 aperio[
 liber/
-635759	video[
+635808	video[
 is
 et
 unus/
@@ -103885,7 +103945,7 @@ liber/
 quattuor/
 animal/
 et
-635833	senex/
+635882	senex/
 cado[
 coram
 agnus/
@@ -104468,7 +104528,7 @@ et
 audio[
 numerus/
 signo[
-636419	mille/
+636468	mille/
 signo[
 ex
 omnis
@@ -105303,7 +105363,7 @@ et
 numerus/
 equester/
 exercitus/
-637256	deni/
+637305	deni/
 mille/
 audio[
 numerus/
@@ -105743,7 +105803,7 @@ civitas/
 sanctus/
 calco[
 mensis/
-637698	et
+637747	et
 do[
 duo/
 testis/
@@ -105751,7 +105811,7 @@ meus/
 et
 propheto[
 dies/
-637709	amicio[
+637758	amicio[
 saccus/
 hic
 sum[
@@ -106020,7 +106080,7 @@ in
 saeculum/
 saeculum/
 et
-637980	senex/
+638029	senex/
 qui
 in
 conspectus/
@@ -106237,7 +106297,7 @@ ibi
 pasco[
 ille
 dies/
-638200	et
+638249	et
 facio[
 sum[
 proelium/
@@ -106592,7 +106652,7 @@ ille
 potestas/
 facio[
 mensis/
-638557	et
+638606	et
 aperio[
 os=/
 suus/
@@ -106848,7 +106908,7 @@ et
 numerus/
 is
 sum[
-638816	et
+638865	et
 video[
 et
 ecce
@@ -106860,7 +106920,7 @@ Sion/
 et
 cum
 ille
-638831	mille/
+638880	mille/
 habeo[
 nomen/
 is
@@ -106916,7 +106976,7 @@ disco[
 canticum/
 nisi
 ille
-638890	mille/
+638939	mille/
 qui
 emo[
 sum[
@@ -107095,7 +107155,7 @@ in
 saeculum/
 saeculum/
 ascendo[
-639070	habeo[
+639119	habeo[
 requies/
 dies/
 atque
@@ -107300,7 +107360,7 @@ frenum/
 equus/
 per
 stadium/
-639277	et
+639326	et
 video[
 alius
 signum/
@@ -109321,7 +109381,7 @@ ne
 que
 imago/
 is
-641299	accipio[
+641348	accipio[
 caracter/
 in
 frons==/
@@ -109693,8 +109753,8 @@ facio[
 sum[
 ego
 sum[
-641672	et
-641674	initium/
+641721	et
+641723	initium/
 et
 finis/
 ego
@@ -109917,7 +109977,7 @@ metior[
 sum[
 murus/
 is
-641900	cubitum/
+641949	cubitum/
 mensura/
 homo/
 qui
@@ -110067,7 +110127,7 @@ honor/
 gens/
 in
 ille
-642051	intro[
+642100	intro[
 in
 is
 aliquis
@@ -110307,8 +110367,8 @@ secundum
 opus/
 suus/
 ego
-642292	et
-642294	primus/
+642341	et
+642343	primus/
 et
 novissimus/
 principium/
@@ -110460,7 +110520,7 @@ Iesus/
 Christus/
 cum
 omnis
-668479	liber/
+668474	liber/
 generatio/
 Iesus/
 Christus/
@@ -114145,6 +114205,7 @@ consiliarius/
 rationabilis/
 conformo[
 reformo[
+ve
 praesum[
 hilaritas/
 simulatio/

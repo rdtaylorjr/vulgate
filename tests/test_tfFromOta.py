@@ -144,12 +144,11 @@ def treebank_token(chapter, verse, form, lemma, pos="Df", morphology="---------n
     return proiel.Token("REV", chapter, verse, form, lemma, "", pos, morphology, " ")
 
 
-def test_annotate_proiel_matches_tokens_only_in_the_same_chapter_and_near_verse():
+def test_matched_pairs_written_words_with_treebank_words_only_in_the_same_chapter_and_near_verse():
     text = [
         ota.Word("<A>PC", chapter, verse, 0, form, "", " ", (), ())
         for chapter, verse, form in ((1, 1, "non"), (1, 2, "ne"), (2, 1, "non"), (2, 9, "ne"))
     ]
-    entries = converter.divided(text, {}, {})
     tokens = [
         treebank_token(1, 1, "non", "non"),
         treebank_token(2, 1, "ne", "ne"),
@@ -157,13 +156,24 @@ def test_annotate_proiel_matches_tokens_only_in_the_same_chapter_and_near_verse(
         treebank_token(2, 2, "ne", "ne"),
     ]
     with ThreadPoolExecutor() as pool:
-        found = converter.annotate_proiel(entries, tokens, {"Apc": "REV"}, {}, pool)
-    assert [e.parts[0].proiel.key for e in found] == [("non", ""), None, ("non", ""), None]
+        found = converter.matched(text, [(t,) for t in tokens], {"Apc": "REV"}, pool)
+    assert {i: [t.form for t in unit] for i, unit in found.items()} == {0: ["non"], 2: ["non"]}
 
 
-def test_divided_follows_a_declared_place_over_the_form_and_rejects_a_place_the_text_lacks():
-    text = [ota.Word("<A>PC", 1, verse, 0, "quique", "", " ", (), ()) for verse in (1, 2)]
-    entries = converter.divided(text, {"quique": "que"}, {("Apc", 1, 2, "quique"): None})
-    assert [[p.form for p in e.parts] for e in entries] == [["qui", "que"], ["quique"]]
+def test_divided_follows_the_treebank_then_a_declared_place_then_the_form():
+    text = [
+        ota.Word("<A>PC", 1, verse, 0, form, "", " ", (), ())
+        for verse, form in ((1, "quique"), (2, "quique"), (3, "neque"))
+    ]
+    ne = treebank_token(1, 3, "ne", "ne")
+    que = treebank_token(1, 3, "que", "que", "C-")
+    entries = converter.divided(text, {"quique": "que"}, {("Apc", 1, 2, "quique"): None}, {2: (ne, que)}, {})
+    assert [[p.form for p in e.parts] for e in entries] == [["qui", "que"], ["quique"], ["ne", "que"]]
+    assert [p.proiel.key for p in entries[2].parts] == [("ne", ""), ("que", "")]
+    assert entries[0].parts[0].proiel.key is None
+
+
+def test_divided_rejects_a_declared_place_the_text_lacks():
+    text = [ota.Word("<A>PC", 1, 1, 0, "quique", "", " ", (), ())]
     with pytest.raises(ValueError, match="declared places the text lacks: Apc 1:3 quique"):
-        converter.divided(text, {}, {("Apc", 1, 3, "quique"): "que"})
+        converter.divided(text, {}, {("Apc", 1, 3, "quique"): "que"}, {}, {})

@@ -16,9 +16,9 @@
 @values=subs nmpr verb adjv advb prep conj prps prde prin pron intj nega inrg
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:07+00:00Z
+@dateWritten=2026-10-11T09:21:48+00:00Z
 
-516464	subs
+516531	subs
 subs
 nmpr
 nmpr
@@ -2557,7 +2557,7 @@ advb
 subs
 nega
 verb
-519004	verb
+519071	verb
 advb
 advb
 verb
@@ -2708,7 +2708,7 @@ inrg
 verb
 nega
 verb
-519156	verb
+519223	verb
 verb
 advb
 prps
@@ -4729,7 +4729,7 @@ verb
 subs
 prep
 subs
-521178	subs
+521245	subs
 prep
 subs
 adjv
@@ -8472,7 +8472,7 @@ prps
 adjv
 verb
 nmpr
-524923	conj
+524990	conj
 subs
 conj
 subs
@@ -8621,7 +8621,7 @@ prep
 prps
 verb
 verb
-525073	prps
+525140	prps
 conj
 verb
 subs
@@ -8931,7 +8931,7 @@ verb
 prep
 prps
 verb
-525402	conj
+525469	conj
 verb
 prps
 subs
@@ -9384,7 +9384,7 @@ prps
 advb
 advb
 prep
-525857	pron
+525924	pron
 nega
 verb
 advb
@@ -10101,9 +10101,7 @@ subs
 conj
 verb
 verb
-prps
-conj
-verb
+526643	verb
 advb
 subs
 subs
@@ -12248,8 +12246,7 @@ adjv
 pron
 prep
 subs
-verb
-528723	verb
+528790	verb
 subs
 conj
 subs
@@ -12291,7 +12288,7 @@ prps
 advb
 nega
 verb
-528766	verb
+528833	verb
 verb
 verb
 intj
@@ -12579,7 +12576,7 @@ subs
 advb
 subs
 verb
-529055	prps
+529122	prps
 conj
 subs
 verb
@@ -15794,7 +15791,7 @@ subs
 prde
 verb
 verb
-532271	prps
+532338	prps
 conj
 subs
 subs
@@ -17143,7 +17140,8 @@ advb
 conj
 nega
 verb
-533622	prep
+advb
+prep
 subs
 conj
 verb
@@ -17864,7 +17862,8 @@ advb
 conj
 nega
 verb
-534345	subs
+advb
+subs
 verb
 conj
 conj
@@ -17924,7 +17923,7 @@ conj
 conj
 subs
 prep
-534406	prps
+534471	prps
 verb
 nega
 verb
@@ -17936,7 +17935,7 @@ conj
 nmpr
 verb
 prep
-534419	prps
+534484	prps
 verb
 verb
 conj
@@ -18407,7 +18406,7 @@ adjv
 pron
 nega
 verb
-534891	verb
+534956	verb
 verb
 adjv
 conj
@@ -18714,7 +18713,8 @@ verb
 prep
 subs
 conj
-535200	subs
+advb
+subs
 advb
 pron
 prps
@@ -18926,7 +18926,9 @@ verb
 prep
 subs
 prps
-535413	verb
+conj
+conj
+verb
 subs
 verb
 prde
@@ -19062,7 +19064,7 @@ conj
 verb
 pron
 adjv
-535550	pron
+535615	pron
 verb
 conj
 advb
@@ -19110,7 +19112,7 @@ advb
 nmpr
 verb
 prep
-535599	prps
+535664	prps
 subs
 pron
 verb
@@ -19211,7 +19213,7 @@ verb
 subs
 verb
 verb
-535701	verb
+535766	verb
 conj
 nega
 verb
@@ -19496,7 +19498,7 @@ pron
 nega
 verb
 prps
-535987	verb
+536052	verb
 prps
 verb
 advb
@@ -19616,7 +19618,7 @@ conj
 verb
 verb
 prps
-536108	verb
+536173	verb
 nmpr
 advb
 verb
@@ -19655,7 +19657,9 @@ subs
 conj
 adjv
 nmpr
-536148	verb
+conj
+conj
+verb
 subs
 prps
 nmpr
@@ -19704,7 +19708,9 @@ verb
 subs
 nmpr
 subs
-536198	verb
+conj
+conj
+verb
 advb
 conj
 subs
@@ -19726,7 +19732,7 @@ conj
 verb
 subs
 prep
-536221	conj
+536288	conj
 prep
 advb
 verb
@@ -20134,8 +20140,10 @@ subs
 nmpr
 conj
 verb
-536630	verb
+conj
+conj
 verb
+verb
 prep
 subs
 advb
@@ -20744,7 +20752,7 @@ conj
 subs
 adjv
 verb
-537241	verb
+537309	verb
 pron
 verb
 verb
@@ -20760,7 +20768,7 @@ advb
 subs
 verb
 prps
-537258	verb
+537326	verb
 pron
 verb
 conj
@@ -20960,7 +20968,7 @@ nega
 verb
 advb
 verb
-537459	verb
+537527	verb
 advb
 verb
 verb
@@ -20975,7 +20983,7 @@ subs
 verb
 nega
 verb
-537475	verb
+537543	verb
 advb
 adjv
 subs
@@ -21793,7 +21801,7 @@ advb
 verb
 verb
 nmpr
-538294	verb
+538362	verb
 pron
 verb
 verb
@@ -22492,7 +22500,7 @@ advb
 verb
 verb
 prep
-538994	prps
+539062	prps
 conj
 prin
 verb
@@ -23116,8 +23124,10 @@ conj
 verb
 prep
 nmpr
+verb
+conj
+conj
 verb
-539620	verb
 prep
 advb
 subs
@@ -23455,7 +23465,8 @@ verb
 nmpr
 verb
 prde
-539960	prps
+advb
+prps
 verb
 prps
 prep
@@ -23592,7 +23603,7 @@ conj
 verb
 subs
 pron
-540098	subs
+540166	subs
 prde
 verb
 subs
@@ -23662,7 +23673,7 @@ conj
 nega
 verb
 pron
-540169	advb
+540237	advb
 verb
 prep
 subs
@@ -24341,7 +24352,7 @@ subs
 prde
 verb
 advb
-540849	prps
+540917	prps
 verb
 advb
 prps
@@ -24457,7 +24468,7 @@ advb
 verb
 prep
 subs
-540966	verb
+541034	verb
 conj
 verb
 prin
@@ -24818,7 +24829,7 @@ pron
 advb
 verb
 prep
-541328	prps
+541396	prps
 conj
 verb
 conj
@@ -25594,7 +25605,7 @@ conj
 prps
 subs
 verb
-542105	verb
+542173	verb
 adjv
 advb
 subs
@@ -26207,7 +26218,7 @@ subs
 verb
 adjv
 verb
-542719	prps
+542787	prps
 verb
 prep
 subs
@@ -27751,7 +27762,7 @@ verb
 subs
 adjv
 adjv
-544264	pron
+544332	pron
 verb
 prep
 nmpr
@@ -28395,7 +28406,7 @@ subs
 advb
 prep
 subs
-544910	pron
+544978	pron
 nega
 verb
 prep
@@ -31964,7 +31975,7 @@ subs
 subs
 verb
 prep
-548480	prps
+548548	prps
 nega
 verb
 prep
@@ -32573,7 +32584,7 @@ adjv
 pron
 nega
 verb
-549090	adjv
+549158	adjv
 pron
 nega
 verb
@@ -33078,7 +33089,7 @@ verb
 pron
 subs
 adjv
-549596	prep
+549664	prep
 pron
 verb
 verb
@@ -34359,7 +34370,7 @@ verb
 subs
 conj
 pron
-550879	conj
+550947	conj
 verb
 prde
 adjv
@@ -34606,7 +34617,7 @@ verb
 verb
 verb
 advb
-551128	conj
+551196	conj
 subs
 verb
 subs
@@ -36395,7 +36406,8 @@ subs
 adjv
 conj
 advb
-552919	pron
+advb
+pron
 adjv
 verb
 verb
@@ -37128,7 +37140,7 @@ adjv
 conj
 verb
 verb
-553653	advb
+553720	advb
 verb
 advb
 verb
@@ -39187,7 +39199,8 @@ conj
 subs
 nega
 verb
-555714	conj
+advb
+conj
 prin
 prep
 adjv
@@ -39796,7 +39809,7 @@ conj
 subs
 nega
 verb
-556324	subs
+556390	subs
 verb
 advb
 conj
@@ -43815,7 +43828,7 @@ verb
 nmpr
 adjv
 verb
-560344	prps
+560410	prps
 conj
 prps
 verb
@@ -45943,7 +45956,7 @@ advb
 nmpr
 nega
 verb
-562473	prps
+562539	prps
 prps
 advb
 conj
@@ -46697,7 +46710,8 @@ verb
 prps
 subs
 subs
-563229	prep
+advb
+prep
 pron
 verb
 verb
@@ -47787,7 +47801,7 @@ subs
 verb
 subs
 prep
-564320	prps
+564385	prps
 advb
 verb
 conj
@@ -47795,7 +47809,7 @@ subs
 subs
 verb
 prep
-564329	prps
+564394	prps
 conj
 subs
 verb
@@ -47967,10 +47981,7 @@ prps
 subs
 verb
 prep
-prps
-advb
-conj
-subs
+564568	subs
 prps
 advb
 verb
@@ -48375,7 +48386,7 @@ verb
 advb
 advb
 subs
-564911	conj
+564975	conj
 adjv
 verb
 nmpr
@@ -49061,7 +49072,7 @@ verb
 advb
 nmpr
 prep
-565598	prps
+565662	prps
 conj
 verb
 prep
@@ -49280,7 +49291,8 @@ verb
 prps
 prps
 subs
-565819	advb
+advb
+advb
 subs
 prps
 verb
@@ -49463,7 +49475,7 @@ prps
 verb
 pron
 prep
-566003	prps
+566066	prps
 verb
 subs
 adjv
@@ -50339,7 +50351,7 @@ advb
 subs
 inrg
 verb
-566880	prps
+566943	prps
 conj
 verb
 advb
@@ -52728,7 +52740,7 @@ advb
 advb
 verb
 prep
-569270	prps
+569333	prps
 verb
 prep
 subs
@@ -52916,7 +52928,7 @@ prps
 prps
 verb
 pron
-569459	verb
+569522	verb
 conj
 verb
 prps
@@ -52934,7 +52946,7 @@ verb
 prde
 advb
 prep
-569478	prps
+569541	prps
 nega
 verb
 conj
@@ -53329,7 +53341,7 @@ subs
 advb
 verb
 prep
-569874	prps
+569937	prps
 verb
 conj
 pron
@@ -54344,7 +54356,7 @@ subs
 verb
 prps
 prep
-570890	prps
+570953	prps
 conj
 advb
 verb
@@ -54471,7 +54483,7 @@ subs
 adjv
 verb
 conj
-571019	verb
+571082	verb
 prps
 conj
 verb
@@ -54710,7 +54722,7 @@ conj
 nega
 verb
 prps
-571259	verb
+571322	verb
 prps
 prps
 advb
@@ -55035,7 +55047,7 @@ verb
 verb
 subs
 prep
-571585	prps
+571648	prps
 advb
 verb
 prep
@@ -55613,7 +55625,7 @@ nega
 advb
 verb
 prep
-572164	prps
+572227	prps
 conj
 pron
 verb
@@ -56056,7 +56068,7 @@ prps
 prps
 subs
 prep
-572608	prps
+572671	prps
 subs
 pron
 verb
@@ -56221,7 +56233,7 @@ subs
 adjv
 verb
 prep
-572774	prps
+572837	prps
 prps
 verb
 prps
@@ -56998,7 +57010,7 @@ conj
 verb
 nmpr
 prep
-573552	prps
+573615	prps
 prde
 verb
 conj
@@ -57985,7 +57997,7 @@ verb
 advb
 advb
 prep
-574540	prps
+574603	prps
 subs
 nmpr
 advb
@@ -58565,7 +58577,7 @@ subs
 adjv
 adjv
 subs
-575123	conj
+575186	conj
 conj
 prde
 verb
@@ -59132,7 +59144,7 @@ subs
 subs
 advb
 advb
-575692	subs
+575755	subs
 subs
 verb
 verb
@@ -59793,7 +59805,7 @@ verb
 conj
 verb
 conj
-576354	verb
+576417	verb
 prde
 subs
 prep
@@ -60694,7 +60706,7 @@ prep
 pron
 pron
 subs
-577256	advb
+577319	advb
 subs
 pron
 verb
@@ -61035,7 +61047,7 @@ subs
 conj
 subs
 adjv
-577598	pron
+577661	pron
 prps
 pron
 verb
@@ -67204,7 +67216,7 @@ advb
 nega
 prep
 subs
-583768	prps
+583831	prps
 verb
 verb
 prep
@@ -69086,7 +69098,7 @@ prep
 adjv
 subs
 verb
-585651	subs
+585714	subs
 adjv
 verb
 verb
@@ -69714,7 +69726,8 @@ prde
 prep
 prps
 conj
-586281	conj
+advb
+conj
 subs
 adjv
 verb
@@ -70689,7 +70702,7 @@ inrg
 pron
 verb
 adjv
-587258	verb
+587320	verb
 prps
 conj
 verb
@@ -70748,7 +70761,7 @@ conj
 pron
 prde
 verb
-587318	verb
+587380	verb
 subs
 adjv
 advb
@@ -70801,7 +70814,7 @@ pron
 nega
 advb
 verb
-587373	verb
+587435	verb
 pron
 subs
 subs
@@ -71454,7 +71467,7 @@ verb
 subs
 subs
 verb
-588051	verb
+588113	verb
 advb
 nmpr
 adjv
@@ -71597,7 +71610,7 @@ pron
 verb
 advb
 verb
-588212	conj
+588274	conj
 verb
 prep
 prps
@@ -71891,7 +71904,7 @@ subs
 prep
 subs
 prps
-588518	conj
+588580	conj
 advb
 prin
 verb
@@ -71925,7 +71938,7 @@ verb
 prde
 verb
 prps
-588565	conj
+588627	conj
 prps
 verb
 subs
@@ -72299,7 +72312,7 @@ verb
 prep
 subs
 prde
-588947	conj
+589009	conj
 conj
 adjv
 subs
@@ -73019,7 +73032,7 @@ prin
 verb
 prep
 prps
-589701	verb
+589763	verb
 advb
 prde
 nmpr
@@ -73042,7 +73055,7 @@ prps
 conj
 verb
 subs
-589725	pron
+589787	pron
 verb
 prep
 adjv
@@ -73242,7 +73255,7 @@ pron
 nega
 verb
 verb
-589954	verb
+590013	verb
 nmpr
 verb
 conj
@@ -73596,7 +73609,7 @@ verb
 prps
 verb
 prep
-590309	prps
+590368	prps
 advb
 nmpr
 verb
@@ -73716,7 +73729,7 @@ conj
 subs
 adjv
 verb
-590458	conj
+590517	conj
 conj
 verb
 verb
@@ -74006,7 +74019,7 @@ pron
 conj
 advb
 verb
-590763	verb
+590821	verb
 subs
 nmpr
 subs
@@ -74025,7 +74038,7 @@ adjv
 verb
 conj
 nmpr
-590810	conj
+590868	conj
 verb
 subs
 conj
@@ -74520,7 +74533,7 @@ adjv
 verb
 subs
 verb
-591329	advb
+591387	advb
 prde
 prep
 subs
@@ -74559,7 +74572,7 @@ adjv
 verb
 pron
 verb
-591384	conj
+591442	conj
 conj
 prde
 verb
@@ -74833,7 +74846,7 @@ verb
 prps
 verb
 subs
-591674	verb
+591732	verb
 advb
 subs
 nmpr
@@ -74961,7 +74974,7 @@ verb
 verb
 nmpr
 verb
-591803	conj
+591861	conj
 verb
 prps
 subs
@@ -75128,7 +75141,7 @@ pron
 advb
 nega
 verb
-591993	verb
+592052	verb
 prep
 subs
 prde
@@ -75145,7 +75158,7 @@ verb
 conj
 nega
 verb
-592039	verb
+592098	verb
 advb
 verb
 prps
@@ -75563,7 +75576,7 @@ verb
 subs
 adjv
 prep
-592458	prps
+592517	prps
 pron
 verb
 subs
@@ -75630,7 +75643,7 @@ verb
 subs
 adjv
 prep
-592526	prps
+592585	prps
 verb
 conj
 advb
@@ -76090,10 +76103,7 @@ pron
 prep
 adjv
 adjv
-verb
-advb
-conj
-pron
+593047	pron
 prep
 adjv
 prep
@@ -76721,7 +76731,7 @@ advb
 nega
 verb
 subs
-593618	subs
+593676	subs
 advb
 prep
 subs
@@ -78122,7 +78132,7 @@ advb
 subs
 nega
 verb
-595020	advb
+595078	advb
 verb
 pron
 advb
@@ -79729,7 +79739,7 @@ adjv
 verb
 conj
 verb
-596639	verb
+596697	verb
 advb
 subs
 conj
@@ -80061,14 +80071,20 @@ verb
 verb
 prps
 verb
-596972	subs
+conj
+conj
+subs
 prep
+subs
 subs
+conj
+conj
 subs
-596977	subs
 prep
 verb
-596981	pron
+conj
+conj
+pron
 verb
 prep
 subs
@@ -80147,7 +80163,7 @@ verb
 verb
 adjv
 prep
-597061	prps
+597122	prps
 pron
 adjv
 prep
@@ -80177,7 +80193,7 @@ subs
 subs
 verb
 nega
-597092	prps
+597153	prps
 verb
 adjv
 conj
@@ -80395,7 +80411,7 @@ advb
 subs
 verb
 subs
-597322	advb
+597383	advb
 advb
 advb
 verb
@@ -80557,16 +80573,24 @@ conj
 pron
 prps
 verb
-597485	advb
+conj
+conj
+advb
 verb
 subs
+verb
+conj
+conj
 verb
-597490	verb
 subs
+verb
+conj
+conj
+advb
 verb
-597494	advb
+conj
+conj
 verb
-597497	verb
 subs
 verb
 prep
@@ -80771,7 +80795,7 @@ prps
 subs
 verb
 prep
-597703	prps
+597768	prps
 verb
 prep
 subs
@@ -80779,7 +80803,7 @@ adjv
 pron
 nega
 verb
-597712	prps
+597777	prps
 prep
 prps
 pron
@@ -82269,9 +82293,9 @@ conj
 subs
 nega
 verb
-599203	subs
+599268	subs
 verb
-599206	prep
+599271	prep
 subs
 subs
 verb
@@ -82759,8 +82783,9 @@ prep
 adjv
 subs
 conj
-599696	prps
+advb
 prps
+prps
 verb
 pron
 advb
@@ -83244,7 +83269,7 @@ adjv
 conj
 prps
 subs
-600182	subs
+600246	subs
 verb
 prin
 advb
@@ -85008,8 +85033,9 @@ advb
 conj
 prde
 verb
-601948	subs
+advb
 subs
+subs
 verb
 advb
 pron
@@ -85024,9 +85050,10 @@ verb
 conj
 verb
 conj
+verb
 verb
+advb
 verb
-601968	verb
 advb
 pron
 prep
@@ -85040,7 +85067,8 @@ subs
 adjv
 adjv
 adjv
-601984	verb
+advb
+verb
 nmpr
 advb
 pron
@@ -85049,8 +85077,9 @@ verb
 conj
 prep
 subs
+verb
+advb
 verb
-601996	verb
 advb
 pron
 prps
@@ -85318,10 +85347,14 @@ prep
 prps
 conj
 subs
+verb
+conj
+conj
+advb
 verb
-602266	advb
+conj
+conj
 verb
-602269	verb
 conj
 pron
 prin
@@ -85529,7 +85562,7 @@ nega
 verb
 verb
 subs
-602478	prps
+602540	prps
 subs
 verb
 prps
@@ -85790,7 +85823,7 @@ verb
 adjv
 advb
 conj
-602740	prps
+602802	prps
 verb
 nega
 advb
@@ -86170,7 +86203,9 @@ subs
 verb
 pron
 subs
-603121	verb
+conj
+conj
+verb
 adjv
 subs
 verb
@@ -86351,11 +86386,17 @@ verb
 subs
 advb
 verb
-603303	subs
+conj
+conj
+subs
 verb
-603306	subs
+conj
+conj
+subs
 verb
-603309	subs
+conj
+conj
+subs
 verb
 prep
 subs
@@ -86468,7 +86509,7 @@ subs
 pron
 verb
 subs
-603423	prps
+603489	prps
 verb
 pron
 advb
@@ -86837,7 +86878,9 @@ pron
 prep
 subs
 verb
-603793	subs
+conj
+conj
+subs
 prin
 verb
 prep
@@ -87133,10 +87176,14 @@ conj
 subs
 subs
 prps
+conj
+conj
 conj
-604091	advb
+advb
 prps
-604094	prde
+conj
+conj
+prde
 advb
 verb
 conj
@@ -87166,7 +87213,8 @@ subs
 adjv
 nega
 verb
-604126	nmpr
+advb
+nmpr
 verb
 conj
 advb
@@ -88163,14 +88211,18 @@ nmpr
 verb
 subs
 adjv
-605124	advb
+conj
+conj
+advb
 verb
 prep
 adjv
 subs
 conj
 subs
-605132	verb
+conj
+conj
+verb
 prep
 adjv
 subs
@@ -88803,7 +88855,7 @@ nmpr
 verb
 verb
 advb
-605766	prps
+605836	prps
 verb
 conj
 inrg
@@ -89105,7 +89157,7 @@ prep
 subs
 subs
 verb
-606069	prps
+606139	prps
 prep
 pron
 subs
@@ -89146,7 +89198,7 @@ subs
 subs
 nega
 advb
-606111	prps
+606181	prps
 verb
 conj
 nmpr
@@ -89552,11 +89604,15 @@ conj
 nega
 prep
 subs
-606518	advb
+conj
+conj
+advb
 subs
 verb
 subs
-606523	adjv
+conj
+conj
+adjv
 verb
 prps
 subs
@@ -89739,7 +89795,7 @@ conj
 prep
 pron
 verb
-606707	prps
+606779	prps
 advb
 subs
 subs
@@ -89957,7 +90013,7 @@ prep
 subs
 conj
 subs
-606928	prde
+607000	prde
 advb
 verb
 subs
@@ -90183,7 +90239,7 @@ prps
 pron
 verb
 subs
-607155	prep
+607227	prep
 prps
 pron
 verb
@@ -90338,7 +90394,7 @@ nega
 advb
 verb
 conj
-607311	prps
+607383	prps
 verb
 advb
 subs
@@ -91122,11 +91178,11 @@ conj
 prps
 prep
 prps
-608096	prps
+608168	prps
 verb
 conj
 verb
-608101	prps
+608173	prps
 prps
 prps
 advb
@@ -91967,7 +92023,7 @@ adjv
 verb
 conj
 prps
-608943	advb
+609015	advb
 verb
 subs
 subs
@@ -92030,7 +92086,7 @@ prde
 subs
 verb
 inrg
-609007	subs
+609079	subs
 advb
 verb
 conj
@@ -92167,7 +92223,7 @@ verb
 prep
 prps
 advb
-609146	verb
+609218	verb
 verb
 prep
 subs
@@ -92192,7 +92248,7 @@ subs
 subs
 prep
 prps
-609172	prps
+609244	prps
 verb
 conj
 verb
@@ -92382,7 +92438,7 @@ nmpr
 nmpr
 pron
 verb
-609363	prps
+609435	prps
 prep
 subs
 adjv
@@ -92519,7 +92575,7 @@ prep
 subs
 nmpr
 nmpr
-609532	conj
+609604	conj
 advb
 verb
 prps
@@ -92664,8 +92720,9 @@ pron
 verb
 prep
 subs
-609689	conj
-609692	nmpr
+609761	conj
+advb
+nmpr
 pron
 prps
 conj
@@ -92696,8 +92753,8 @@ prps
 prep
 subs
 verb
-609736	prep
-609738	advb
+609806	prep
+609808	advb
 pron
 verb
 verb
@@ -92719,7 +92776,7 @@ pron
 verb
 pron
 verb
-609831	conj
+609901	conj
 advb
 verb
 nmpr
@@ -92845,7 +92902,7 @@ nega
 verb
 pron
 subs
-609973	verb
+610043	verb
 conj
 advb
 pron
@@ -92880,7 +92937,7 @@ advb
 prep
 prps
 nmpr
-610028	nega
+610098	nega
 verb
 subs
 subs
@@ -92979,7 +93036,7 @@ prde
 verb
 subs
 nmpr
-610139	verb
+610209	verb
 prep
 prps
 pron
@@ -93049,7 +93106,7 @@ prps
 verb
 prep
 prde
-610243	subs
+610313	subs
 prep
 subs
 verb
@@ -93430,7 +93487,7 @@ prps
 pron
 prps
 verb
-610654	advb
+610723	advb
 verb
 advb
 subs
@@ -93683,7 +93740,7 @@ advb
 subs
 subs
 verb
-610919	verb
+610988	verb
 advb
 advb
 pron
@@ -93715,7 +93772,7 @@ subs
 subs
 subs
 verb
-610969	verb
+611036	verb
 advb
 prin
 prps
@@ -93940,7 +93997,7 @@ advb
 verb
 advb
 verb
-611220	adjv
+611287	adjv
 adjv
 subs
 verb
@@ -93970,7 +94027,7 @@ pron
 conj
 advb
 prep
-611251	prps
+611318	prps
 advb
 subs
 verb
@@ -94001,7 +94058,7 @@ verb
 subs
 nega
 verb
-611300	pron
+611367	pron
 advb
 verb
 prep
@@ -94058,7 +94115,7 @@ nmpr
 subs
 nega
 verb
-611373	prps
+611439	prps
 advb
 verb
 verb
@@ -94712,7 +94769,7 @@ conj
 adjv
 verb
 prep
-612028	prps
+612094	prps
 prep
 adjv
 adjv
@@ -94731,7 +94788,7 @@ subs
 verb
 subs
 prep
-612048	prps
+612114	prps
 conj
 verb
 verb
@@ -94814,7 +94871,7 @@ nmpr
 prep
 prps
 subs
-612197	pron
+612263	pron
 verb
 verb
 subs
@@ -94841,7 +94898,7 @@ prde
 prep
 subs
 verb
-612225	subs
+612291	subs
 nmpr
 conj
 verb
@@ -95128,7 +95185,7 @@ subs
 conj
 verb
 pron
-612590	prep
+612656	prep
 pron
 adjv
 subs
@@ -95191,7 +95248,7 @@ subs
 prps
 pron
 verb
-612654	prps
+612720	prps
 verb
 subs
 prep
@@ -95298,7 +95355,7 @@ inrg
 verb
 subs
 verb
-612780	conj
+612846	conj
 verb
 verb
 subs
@@ -95370,7 +95427,7 @@ subs
 prep
 subs
 subs
-612881	prde
+612947	prde
 advb
 verb
 verb
@@ -95421,7 +95478,7 @@ advb
 subs
 prep
 subs
-612952	conj
+613018	conj
 verb
 verb
 subs
@@ -95469,7 +95526,7 @@ conj
 verb
 prps
 nmpr
-613018	advb
+613084	advb
 verb
 verb
 adjv
@@ -95491,7 +95548,7 @@ conj
 verb
 subs
 verb
-613041	prps
+613107	prps
 prep
 subs
 conj
@@ -96174,7 +96231,7 @@ verb
 adjv
 conj
 verb
-613725	conj
+613791	conj
 prep
 subs
 prep
@@ -96296,7 +96353,7 @@ verb
 conj
 conj
 verb
-613891	prps
+613957	prps
 advb
 verb
 nmpr
@@ -96397,7 +96454,7 @@ adjv
 verb
 subs
 subs
-614041	conj
+614107	conj
 prin
 advb
 subs
@@ -96480,7 +96537,7 @@ prps
 adjv
 subs
 conj
-614125	prps
+614191	prps
 verb
 subs
 subs
@@ -96495,7 +96552,7 @@ verb
 advb
 subs
 verb
-614141	prps
+614207	prps
 verb
 verb
 advb
@@ -97138,7 +97195,7 @@ prps
 pron
 adjv
 verb
-614814	advb
+614880	advb
 subs
 adjv
 adjv
@@ -97591,7 +97648,7 @@ subs
 adjv
 prep
 subs
-615337	pron
+615403	pron
 verb
 prps
 prep
@@ -97936,7 +97993,7 @@ verb
 prep
 subs
 subs
-615707	advb
+615773	advb
 advb
 verb
 nmpr
@@ -97988,8 +98045,8 @@ pron
 subs
 subs
 advb
-615792	conj
-615804	prps
+615858	conj
+615870	prps
 conj
 verb
 verb
@@ -98034,7 +98091,7 @@ advb
 verb
 prde
 prep
-615850	prps
+615916	prps
 pron
 advb
 prps
@@ -98154,7 +98211,7 @@ pron
 prep
 subs
 subs
-616593	nmpr
+616659	nmpr
 conj
 nmpr
 conj
@@ -98433,8 +98490,7 @@ subs
 subs
 subs
 subs
-verb
-616874	verb
+616940	verb
 prep
 subs
 subs
@@ -99369,9 +99425,13 @@ verb
 verb
 prep
 prps
+conj
+conj
+conj
+verb
+conj
 conj
-617811	verb
-617813	verb
+verb
 advb
 conj
 prde
@@ -100176,7 +100236,7 @@ verb
 subs
 conj
 conj
-618619	prps
+618687	prps
 subs
 verb
 prps
@@ -100198,7 +100258,7 @@ prin
 nega
 verb
 verb
-618642	verb
+618710	verb
 verb
 advb
 prep
@@ -100299,7 +100359,7 @@ nmpr
 conj
 pron
 prps
-619548	advb
+619612	advb
 adjv
 subs
 prep
@@ -100320,7 +100380,7 @@ advb
 verb
 conj
 adjv
-620107	advb
+620170	advb
 adjv
 conj
 advb
@@ -100336,14 +100396,14 @@ verb
 prde
 adjv
 verb
-620622	conj
+620683	conj
 prin
 nmpr
 verb
 advb
 prps
 verb
-620840	conj
+620901	conj
 adjv
 subs
 subs
@@ -100365,7 +100425,7 @@ pron
 verb
 subs
 subs
-620975	prde
+621036	prde
 advb
 verb
 conj
@@ -100375,7 +100435,7 @@ subs
 verb
 subs
 adjv
-621199	verb
+621260	verb
 prep
 subs
 conj
@@ -100461,7 +100521,7 @@ subs
 verb
 subs
 verb
-621312	verb
+621373	verb
 verb
 prep
 prps
@@ -100886,7 +100946,7 @@ pron
 subs
 adjv
 adjv
-621920	verb
+621981	verb
 prde
 subs
 conj
@@ -101422,7 +101482,7 @@ conj
 subs
 adjv
 intj
-622593	advb
+622654	advb
 verb
 prps
 subs
@@ -101433,7 +101493,7 @@ subs
 prep
 subs
 adjv
-622742	nega
+622803	nega
 advb
 subs
 verb
@@ -101443,14 +101503,14 @@ adjv
 prep
 pron
 verb
-622808	advb
+622869	advb
 advb
 advb
 verb
 pron
 adjv
 prps
-623267	advb
+623328	advb
 conj
 prps
 verb
@@ -101458,7 +101518,7 @@ verb
 advb
 conj
 prde
-623563	conj
+623624	conj
 prep
 prps
 verb
@@ -101469,11 +101529,11 @@ subs
 advb
 advb
 prep
-623575	prps
+623636	prps
 verb
 prep
 subs
-623728	pron
+623789	pron
 advb
 pron
 subs
@@ -101483,7 +101543,7 @@ adjv
 verb
 subs
 subs
-624097	verb
+624156	verb
 advb
 prin
 verb
@@ -101496,7 +101556,7 @@ prep
 subs
 nmpr
 subs
-624189	advb
+624248	advb
 advb
 prep
 subs
@@ -101506,7 +101566,7 @@ advb
 verb
 prps
 nmpr
-624364	prep
+624423	prep
 advb
 adjv
 subs
@@ -101514,7 +101574,7 @@ subs
 verb
 verb
 nmpr
-625597	advb
+625654	advb
 conj
 verb
 verb
@@ -101533,7 +101593,7 @@ adjv
 conj
 verb
 subs
-625987	subs
+626044	subs
 conj
 prep
 adjv
@@ -101542,18 +101602,18 @@ nmpr
 nmpr
 conj
 nmpr
-626227	pron
+626284	pron
 adjv
 nega
 verb
 subs
-626811	subs
+626866	subs
 adjv
 conj
 subs
 verb
 verb
-627580	pron
+627635	pron
 advb
 adjv
 subs
@@ -101566,7 +101626,7 @@ verb
 verb
 pron
 subs
-627636	prin
+627691	prin
 verb
 subs
 adjv
@@ -101580,7 +101640,7 @@ subs
 advb
 nega
 verb
-627911	intj
+627966	intj
 prin
 subs
 inrg
@@ -101593,24 +101653,24 @@ subs
 verb
 subs
 subs
-627993	nega
+628048	nega
 verb
 subs
 adjv
 prde
 advb
 verb
-628350	advb
+628404	advb
 advb
 verb
 prep
 adjv
 adjv
-628410	verb
+628464	verb
 prep
 adjv
 subs
-629226	pron
+629277	pron
 advb
 nega
 subs
@@ -101618,12 +101678,12 @@ advb
 advb
 subs
 subs
-629463	advb
+629514	advb
 subs
 adjv
 adjv
 subs
-629751	prep
+629802	prep
 pron
 conj
 prde
@@ -101634,12 +101694,12 @@ verb
 subs
 verb
 verb
-630172	advb
+630221	advb
 subs
 adjv
 verb
 adjv
-630668	verb
+630717	verb
 advb
 conj
 subs
@@ -101656,7 +101716,7 @@ pron
 verb
 subs
 subs
-631094	prep
+631143	prep
 pron
 advb
 subs
@@ -101667,7 +101727,7 @@ verb
 prep
 subs
 subs
-631518	conj
+631567	conj
 verb
 conj
 nega
@@ -101682,7 +101742,7 @@ nega
 verb
 prep
 prps
-631581	pron
+631630	pron
 verb
 prps
 verb
@@ -101694,7 +101754,7 @@ nega
 verb
 subs
 verb
-631730	verb
+631779	verb
 prps
 subs
 conj
@@ -101740,7 +101800,7 @@ verb
 conj
 verb
 adjv
-631909	prin
+631957	prin
 verb
 subs
 advb
@@ -101752,7 +101812,7 @@ nmpr
 nega
 verb
 nmpr
-632529	prps
+632577	prps
 prep
 subs
 verb
@@ -101771,7 +101831,7 @@ advb
 pron
 prep
 subs
-632782	conj
+632831	conj
 adjv
 subs
 advb
@@ -101789,13 +101849,13 @@ verb
 adjv
 prep
 subs
-633126	nega
+633175	nega
 prep
 prde
 verb
 conj
 verb
-633239	verb
+633288	verb
 prps
 conj
 subs
@@ -101814,7 +101874,7 @@ prep
 subs
 conj
 subs
-633383	intj
+633432	intj
 prps
 verb
 pron
@@ -101826,7 +101886,7 @@ verb
 subs
 prde
 adjv
-633511	prps
+633560	prps
 advb
 verb
 verb
@@ -101836,11 +101896,11 @@ conj
 subs
 verb
 subs
-633608	adjv
+633657	adjv
 verb
 verb
 prps
-633632	verb
+633681	verb
 prps
 subs
 verb
@@ -102055,7 +102115,7 @@ subs
 verb
 prep
 subs
-633848	prps
+633897	prps
 verb
 subs
 prep
@@ -102092,7 +102152,7 @@ prde
 adjv
 prep
 nmpr
-633886	verb
+633935	verb
 intj
 verb
 subs
@@ -102127,7 +102187,7 @@ prep
 prps
 subs
 adjv
-634059	subs
+634108	subs
 nmpr
 nmpr
 pron
@@ -102282,8 +102342,8 @@ advb
 intj
 prps
 verb
-634215	conj
-634217	subs
+634264	conj
+634266	subs
 conj
 subs
 verb
@@ -102821,7 +102881,7 @@ advb
 subs
 verb
 conj
-634757	verb
+634806	verb
 prps
 advb
 conj
@@ -103378,8 +103438,8 @@ conj
 adjv
 verb
 conj
-635315	adjv
-635317	adjv
+635364	adjv
+635366	adjv
 verb
 prps
 verb
@@ -103573,10 +103633,10 @@ prep
 subs
 subs
 subs
-635513	conj
+635562	conj
 prep
 subs
-635518	adjv
+635567	adjv
 verb
 adjv
 subs
@@ -103711,7 +103771,7 @@ prep
 subs
 subs
 verb
-635655	adjv
+635704	adjv
 prep
 verb
 prep
@@ -103814,7 +103874,7 @@ verb
 verb
 verb
 subs
-635759	verb
+635808	verb
 prps
 conj
 adjv
@@ -103886,7 +103946,7 @@ subs
 adjv
 subs
 conj
-635833	adjv
+635882	adjv
 verb
 prep
 subs
@@ -104469,7 +104529,7 @@ conj
 verb
 subs
 verb
-636419	adjv
+636468	adjv
 verb
 prep
 pron
@@ -105304,7 +105364,7 @@ conj
 subs
 adjv
 subs
-637256	adjv
+637305	adjv
 adjv
 verb
 subs
@@ -105744,7 +105804,7 @@ subs
 adjv
 verb
 subs
-637698	conj
+637747	conj
 verb
 adjv
 subs
@@ -105752,7 +105812,7 @@ adjv
 conj
 verb
 subs
-637709	verb
+637758	verb
 subs
 prde
 verb
@@ -106021,7 +106081,7 @@ prep
 subs
 subs
 conj
-637980	adjv
+638029	adjv
 pron
 prep
 subs
@@ -106238,7 +106298,7 @@ advb
 verb
 prde
 subs
-638200	conj
+638249	conj
 verb
 verb
 subs
@@ -106593,7 +106653,7 @@ prde
 subs
 verb
 subs
-638557	conj
+638606	conj
 verb
 subs
 adjv
@@ -106849,7 +106909,7 @@ conj
 subs
 prps
 verb
-638816	conj
+638865	conj
 verb
 conj
 intj
@@ -106861,7 +106921,7 @@ nmpr
 conj
 conj
 prde
-638831	adjv
+638880	adjv
 verb
 subs
 prps
@@ -106917,7 +106977,7 @@ verb
 subs
 advb
 prde
-638890	adjv
+638939	adjv
 pron
 verb
 verb
@@ -107096,7 +107156,7 @@ prep
 subs
 subs
 verb
-639070	verb
+639119	verb
 subs
 subs
 conj
@@ -107301,7 +107361,7 @@ subs
 subs
 prep
 subs
-639277	conj
+639326	conj
 verb
 pron
 subs
@@ -109322,7 +109382,7 @@ advb
 conj
 subs
 prps
-641299	verb
+641348	verb
 subs
 prep
 subs
@@ -109694,8 +109754,8 @@ verb
 verb
 prps
 verb
-641672	conj
-641674	subs
+641721	conj
+641723	subs
 conj
 subs
 prps
@@ -109918,7 +109978,7 @@ verb
 verb
 subs
 prps
-641900	subs
+641949	subs
 subs
 subs
 pron
@@ -110068,7 +110128,7 @@ subs
 subs
 prep
 prde
-642051	verb
+642100	verb
 prep
 prps
 pron
@@ -110308,8 +110368,8 @@ prep
 subs
 adjv
 prps
-642292	conj
-642294	adjv
+642341	conj
+642343	adjv
 conj
 adjv
 subs
@@ -110461,7 +110521,7 @@ nmpr
 nmpr
 conj
 pron
-668479	subs
+668474	subs
 subs
 nmpr
 nmpr
@@ -114146,6 +114206,7 @@ subs
 adjv
 verb
 verb
+conj
 verb
 subs
 subs

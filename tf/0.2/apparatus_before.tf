@@ -15,962 +15,962 @@
 @valueType=str
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:05+00:00Z
+@dateWritten=2026-10-11T09:21:46+00:00Z
 
-1419	+ et O Σ 𝔠
-2174	+ et vixit 𝔠.; + et vixit Enoch C Σ Λ
-3992	+ et 𝔠
-4286	+ et 𝔠
-4824	+ et veni O C Σ Λ M 𝔠
-4921	+ et O
-6114	+ et T M Φ 𝔠
-6989	+ Abraham O M Φ 𝔠
-7589	+ et 𝔠
-7614	+ et 𝔠
-7673	+ et 𝔠
-9238	+ et G; + at 𝔠
-9581	+ et 𝔠
-10921	+ procidens 𝔠
-10998	+ et 𝔠
-11393	+ et facti sunt 𝔠
-12081	+ et C M Φ
-12890	+ et M Φ 𝔠
-13277	+ et C
-14521	+ et 𝔠
-16766	+ et 𝔠
-17846	+ et 𝔠
-20627	+ et T M Φ 𝔠
-20991	+ et Ioseph C
-23456	+ et C 𝔠
-23530	+ et 𝔠.
-23537	+ et C 𝔠
-26640	+ et O C Σ M 𝔠
-26850	+ et O C 𝔠
-27227	+ et Λ T M Φ 𝔠
-27474	+ de C.; + pro Φ
-28177	+ et Σ T 𝔠
-28422	+ et T M Φ 𝔠
-28434	+ et Λ 𝔠
-28992	+ et C Λ 𝔠
-29111	+ et C 𝔠
-29820	+ et C 𝔠
-30510	+ et T Φ 𝔠
-32334	+ et G T Φ
-32503	+ et 𝔠
-32713	+ et 𝔠
-32774	+ ita A Φ 𝔠
-32834	+ et 𝔠.
-34281	+ et 𝔠.
-35199	+ in T M Φ 𝔠
-35223	+ et O.
-35750	+ et O Σ
-37622	+ et Λ 𝔠
-37979	+ et 𝔠.
-38490	+ facies et 𝔠.
-41346	+ et G
-42677	+ et Λ 𝔠
-43515	+ et C; + in O.
-43519	+ et 𝔠
-43755	+ et 𝔠
-44949	+ fecit 𝔠
-49067	+ et C
-50161	+ et C
-50571	+ et l 𝔠
-50599	+ et A 𝔠
-51386	+ et O
-52855	+ et G
-54242	+ et G A C.
-55985	+ et A
-59055	+ et C
-59844	+ et Λ.
-60855	+ et 𝔠
-63398	+ a 𝔠
-64601	+ et O 𝔠
-64985	+ et Σ.
-67463	+ si A 𝔠.
-71956	+ et O
-71997	+ profectique C; + profecitque G.
-72000	+ et C
-72050	+ quia C l.
-76004	+ et 𝔠.
-76797	+ et C M.
-77575	+ et C Σ S
-78112	+ et C 𝔠
-79226	+ et A Λ T M Φ 𝔠; + ut O.
-80200	+ et O
-82120	+ et A
-84123	+ et 𝔠
-86085	+ et A C Λ S M
-87066	+ et 𝔠.
-87426	+ et 𝔠
-87843	+ ut 𝔠.
-87846	+ haec 𝔠.
-87902	+ et O C.
-87923	+ et l 𝔠
-91736	+ et A M
-93226	+ et A Λ S M 𝔠
-94054	+ et O S.
-95808	+ et M Φ 𝔠
-96532	+ ut L T M Φ 𝔠
-101916	+ et 𝔠.
-104706	+ et C
-105139	+ et L 𝔠
-105152	+ et 𝔠.
-105348	+ et 𝔠
-106179	+ et 𝔠
-106188	+ et Σ 𝔠
-106205	+ et 𝔠
-106215	+ et 𝔠.
-106221	+ et C 𝔠
-106255	+ et 𝔠.
-106261	+ et 𝔠
-106281	+ et O L T.
-106293	+ et 𝔠
-106313	+ et 𝔠
-106358	+ et Φ 𝔠
-106372	+ et F 𝔠
-106396	+ et 𝔠
-107595	+ et A Λ S M 𝔠
-107618	+ et 𝔠
-107628	+ et A O S
-107687	+ et S 𝔠
-107873	+ et 𝔠
-107940	+ et A C L 𝔠
-108104	+ et 𝔠
-108183	+ et 𝔠
-108766	+ et Σ 𝔠
-113582	+ et M Φ 𝔠
-119705	+ ibi V; + ubi L 𝔠
-120931	+ dixitque Michas 𝔠.
-121269	+ et C
-123022	+ et T M Φ 𝔠
-123250	+ cum C Σ Λ L 𝔠
-124255	+ et 𝔠
-126365	+ et Σ Λ Φ 𝔠
-126516	+ et 𝔠
-127540	+ et 𝔠.
-128819	+ eo 𝔠
-129759	+ et C
-131948	+ et A C
-133427	+ et D 𝔠
-133455	+ porro Σ Λ Φ 𝔠
-133750	+ et dum (cum 𝔠) venisset Samuhel ad Saul Σ Λ 𝔠
-136365	+ et R Λ
-136550	+ et Σ h 𝔠
-141415	+ et 𝔠
-142024	+ et 𝔠.
-142419	+ et 𝔠
-142553	+ et 𝔠
-144260	+ et C Λ Φ 𝔠
-144398	+ eo 𝔠
-145963	+ et 𝔠.
-147185	+ quia C Σ Λ Φ; + quod 𝔠
-149163	+ et Σ 𝔠
-149351	+ et 𝔠
-152535	+ pedites 𝔠
-152581	+ quia 𝔠
-153916	+ festinanter Σ
-154108	+ et Σ 𝔠
-154113	+ et Λ Φ 𝔠
-155769	+ et sepeliar Σ Λ Φ 𝔠
-155994	+ redi C.
-156660	+ sed C Σ Λ Φ 𝔠
-156899	+ et C
-156991	+ iam Σ 𝔠
-157070	+ et Λ Φ 𝔠; + qui m
-157328	+ et 𝔠
-157432	+ et R Λ D Φ
-158000	+ o 𝔠
-158197	+ et C
-159256	+ et C
-160406	+ et 𝔠.
-160636	+ et 𝔠
-161610	+ e C Σ Λ Φ 𝔠
-162242	+ et Λ Φ 𝔠
-162699	+ de 𝔠
-166786	+ et C
-166909	+ et Σ 𝔠
-167575	+ servus Salomonis 𝔠
-168318	+ vade C Λ Φ 𝔠; + revertere Σ
-170492	+ et 𝔠
-172021	+ et 𝔠
-172253	+ quia 𝔠
-172304	+ et Φ 𝔠
-172368	+ et Σ 𝔠
-174201	+ et C.
-176484	+ quia C
-179899	+ ipse C
-180118	+ sed Λ 𝔠
-182243	+ et percusserunt eum 𝔠
-182912	+ et C
-182936	+ et 𝔠
-183762	+ et 𝔠
-184038	+ et 𝔠
-184264	+ et 𝔠
-184344	+ sed Λ 𝔠
-184458	+ sed 𝔠.
-184779	+ in 𝔠
-187079	+ et 𝔠
-188815	+ et Λ D Φ 𝔠
-189200	+ et 𝔠
-189854	+ et 𝔠.
-190972	+ et R Σ Λ D Φ 𝔠
-191572	+ et Σ Λ 𝔠
-192840	+ et Φ 𝔠
-193166	+ hii C Σ 𝔠
-193970	+ et C Σ.
-196249	+ filii A C Σ 𝔠; + filii quoque S.
-198534	+ et 𝔠.
-198854	+ et 𝔠.
-199832	+ et C Σ.
-200300	+ et C Σ
-200370	+ et G C Σ Φ
-203779	+ filii C Σ 𝔠.; + et Φ
-203984	+ et A S
-206304	+ et C Σ Λ
-206450	+ et 𝔠.
-206521	+ de C Σ 𝔠.
-206944	+ et A
-207716	+ et vini metretas viginti milia 𝔠.
-208935	+ et C Σ S i
-209463	+ et D 𝔠
-209897	+ et C Σ
-211209	+ et 𝔠.
-214322	+ et Λ
-214543	+ ipsi C Σ 𝔠.
-215277	+ in Λ 𝔠
-216265	+ et Φ 𝔠
-216886	+ et 𝔠
-220324	+ et C Σ 𝔠
-220662	+ et Λ D S Φ 𝔠
-224299	+ et 𝔠
-225483	+ et S 𝔠
-227379	+ in A
-227547	+ in A
-227666	+ ut 𝔠
-228140	+ in A
-228506	+ et 𝔠.
-229528	+ et S Φ 𝔠
-229532	+ et 𝔠
-229661	+ in A K
-230414	+ et A K 𝔠
-231487	+ et A K S Φ 𝔠
-232119	+ et C Σ.
-232136	+ et A K 𝔠
-232171	+ et A L S Φ 𝔠
-232446	+ et S Φ 𝔠
-232594	+ et A K
-232603	+ et 𝔠.
-234558	+ et A S Φ
-234608	+ et Λ 𝔠
-235358	+ et A K 𝔠
-235391	+ et A.
-235771	+ et C Σ.
-236058	+ in A K
-236471	+ et Λ S 𝔠.
-236779	+ et S 𝔠
-238019	+ quem A S 𝔠
-238442	+ et 𝔠
-238679	+ et A K 𝔠
-238856	+ cum 𝔠
-239252	+ ab A K.
-240712	+ et A S Φ 𝔠
-240836	+ quae A S Φ 𝔠
-240846	+ et A S Φ 𝔠
-241751	+ et 𝔠
-241862	+ et 𝔠.
-243488	+ et 𝔠
-244041	+ et 𝔠
-244875	+ et A K S 𝔠
-245203	+ et 𝔠 𝔯
-245985	+ et 𝔠
-246056	+ in C Σ; + et Φ 𝔠
-246602	+ in S 𝔠
-248321	+ et A 𝔠
-248416	+ et A S
-249195	+ et 𝔠
-249199	+ accepit stolam novam A S 𝔠
-250009	+ honorem Λ
-250150	+ et L S
-250254	+ et praecepit eunucho Λ 𝔠
-254793	+ qui A K S 𝔠
-255021	+ et A K.
-256061	+ adhuc L D S Φ 𝔠
-256742	+ ubi est D K Φ 𝔠
-257197	+ et L C Λ S Φ
-258195	+ et C
-259586	+ qui C Λ 𝔠
-260384	+ et D K 𝔠
-260668	+ et C Σ Λ 𝔠
-261450	+ et C Σ Λ D K S 𝔠
-263716	+ eo C Λ S 𝔠
-267112	+ et L
-267582	+ et Λ K 𝔠
-267741	+ et L A s
-267905	+ et Σ 𝔠
-267916	+ et S Φ 𝔠
-268488	+ et 𝔠
-268594	+ et I W S K Φ 𝔠
-269149	+ et I 𝔠
-269644	+ ut 𝔠
-270578	+ in finem F S.
-270881	+ et R W S K Φ 𝔠
-270932	+ et R L.
-271029	+ et L S 𝔠
-271034	+ et L.
-271311	+ et 𝔠
-272561	+ in finem I L W 𝔠
-272811	+ in finem K 𝔠
-272945	+ psalmus I L W 𝔠.
-274329	+ et in eis W S K 𝔠
-274377	+ psalmus I L W
-274516	+ et F L.
-274730	+ et H I S K 𝔠
-274748	+ et H I.
-274777	+ et I L
-275093	+ et S K Φ 𝔠
-275132	+ psalmus 𝔠.
-275643	+ et 𝔠
-276712	+ et 𝔠
-276760	+ in finem I
-276789	+ et W 𝔠
-277765	+ et H I W K Φ 𝔠
-277833	+ simul 𝔠
-278049	+ et 𝔠
-278455	+ et W S K Φ 𝔠
-278523	+ et W S K Φ 𝔠
-278882	+ et H I 𝔠
-278894	+ et 𝔠
-278902	+ et 𝔠
-278910	+ et 𝔠
-279403	※ R
-279562	+ et 𝔠
-280471	+ et I W S K Φ 𝔠
-281054	+ et W S K 𝔠
-281193	+ et W S K 𝔠
-282096	÷ R.
-282160	+ in finem H W K
-282219	+ et I S 𝔠
-282494	+ psalmus H K 𝔠
-282660	+ et R 𝔠.
-282899	+ et W S K Φ 𝔠
-283042	+ in finem H W
-283229	om. R
-283275	+ et 𝔠
-283492	+ et H
-283640	+ et H I W S K 𝔠
-283673	+ et I W S K 𝔠
-284011	+ et S K 𝔠
-284076	+ et R
-284454	+ et F S
-284840	+ et 𝔠
-285341	+ in finem H.
-285485	+ et H I
-285556	+ et 𝔠
-286161	+ in finem H W
-286598	+ et H I.
-286713	+ et H I S K Φ 𝔠
-286984	+ et H I W S K 𝔠
-287178	+ et R W S K Φ 𝔠
-287295	om. R
-288339	+ et 𝔠
-289931	+ et W S K Φ 𝔠
-290385	+ et 𝔠
-290808	+ et 𝔠.
-291120	+ et I W S K k 𝔠
-291499	+ et W 𝔠
-291671	+ et I W S K Φ 𝔠
-292118	+ et Φ 𝔠
-292460	+ et F S K Φ 𝔠
-292735	+ et F I W S K Φ 𝔠
-292824	+ et R I
-293763	+ et R 𝔠
-294096	+ et 𝔠
-294392	+ et I
-294422	+ quia 𝔠
-294442	+ et 𝔠
-295505	+ et R Φ 𝔠
-296370	+ psalmus 𝔠; + ipsi W.
-296494	+ et R L K Φ
-296573	+ et S 𝔠
-296934	+ et 𝔠
-297044	+ et W 𝔠
-297049	+ in finem I K
-297216	+ et 𝔠
-297508	+ psalmus 𝔠
-297521	+ et F I W S K Φ 𝔠
-298611	+ et F C Σ Θ S 𝔥
-298879	+ et C A K Θ S
-300977	+ et R Σ.
-300987	+ et C Θ
-301132	+ et C
-301244	+ et I A K.
-301698	+ et C
-302913	+ et F Σ L 𝔥
-306006	+ et I
-306798	+ et R C
-307390	+ et R C Σ A K Θ S L 𝔥
-307602	+ et C I Σ A Θ S
-309108	+ et C
-309243	+ et C
-310195	+ et S.
-310205	+ et C
-310238	+ et F C Σ Θ S L 𝔥
-311627	+ et R Θ S
-311835	+ in I A K Θ S L 𝔥
-312197	+ et R Θ S
-313061	+ et F C I Σ A K Θ S L 𝔥
-314464	+ et C
-315214	+ a I.
-315535	+ et R I Σ A K Θ S L 𝔥
-316102	+ et I A K S.
-316166	+ et F C I
-316215	+ et C I Σ A K Θ
-316410	+ et C Σ Θ
-316791	+ et A K Θ S 𝔥
-319301	+ et R I A K 𝔥
-319708	+ et C
-319834	+ et C
-319991	+ et F Σ L 𝔥
-320174	+ alleluia F Σ K Θ S L 𝔥
-320234	+ et Σ Θ S L 𝔥
-320369	+ et C Σ A Θ S L 𝔥
-320843	+ et R F Σ Θ S L 𝔥
-321346	+ alleluia F Σ Θ S L 𝔥
-321553	+ alleluia F Σ K Θ S L 𝔥
-321803	+ alleluia F Σ Θ S L 𝔥
-321887	+ alleluia I A K S L 𝔥
-321976	+ alleluia F C Σ A K Θ S L 𝔥
-321997	+ alleluia F C Σ K Θ S L 𝔥
-322103	+ et R
-322282	+ alleluia F S L 𝔥.
-322418	+ in F I A K S L 𝔥
-322649	C 𝔰; + in cet.
-325354	+ alleluia F Σ K Θ S L 𝔥
-326475	+ et I Σ A K
-327396	+ alleluia F I A K S
-327419	+ et R
-327469	+ et F L
-327486	+ alleluia F Σ
-327630	+ alleluia F Σ L
-327722	+ alleluia F L.
-328227	+ et C A 𝔠
-328510	+ et C Σ 𝔠
-328745	+ et A
-329195	+ et C Z Φ
-329625	+ fili 𝔠.
-329771	+ et G Σ
-330256	+ et C 𝔠
-331768	+ et C A Σ M 𝔠
-333909	+ et C
-334371	+ fili mi C
-335261	+ et C
-335281	+ et 𝔠
-335665	+ non A T.; + nam C Σ Z Φ 𝔯
-335869	+ et A
-336036	+ et 𝔠.
-336281	+ et 𝔠
-337412	+ et 𝔠.
-338063	+ et 𝔠
-338075	+ et Φ 𝔠
-338334	+ et A M Φ
-340783	+ et 𝔠.
-342516	+ et 𝔠
-344317	+ et Z.
-344601	+ ecce 𝔠
-344691	+ cuius 𝔠; + et Σ Z.
-344710	+ et C
-344852	+ et A
-344904	+ et T S
-345328	+ et T Λ S M Φ 𝔠
-345613	+ benignus Σ
-345899	+ et A Λ M Φ m 𝔠
-346155	+ nam 𝔠
-346184	+ et Λ Φ 𝔠
-346586	+ et C.
-346901	+ isti sitientes Λ
-347347	+ et A C Σ Λ M Φ
-347588	+ in A M Φ 𝔠
-347857	+ et 𝔠
-348173	+ et Λ M Φ 𝔠
-348209	+ et C S M 𝔠
-348226	+ et Z.
-348938	+ sed Λ Φ 𝔠
-349861	+ eadem C Σ.
-350848	+ et 𝔠
-351043	+ et 𝔠.
-351100	+ fili C Σ Λ Φ 𝔠
-351335	+ quis enim 𝔠.
-351360	+ et protector est (om. M) Λ S M Φ 𝔠
-351387	+ et 𝔠
-351397	+ et C 𝔠
-351537	+ et Λ Z T Φ m 𝔠
-351685	+ et Φ 𝔠
-351690	+ et T m 𝔠
-353126	+ fili 𝔠
-353724	+ et A Λ M Φ 𝔠
-353803	+ et Φ 𝔠
-354643	+ et A
-354854	+ et mors appropinquet 𝔠
-355000	+ et C Σ Λ Z T Φ 𝔠
-355279	+ sic C
-355328	+ et C 𝔠.
-355463	+ et 𝔠.
-355519	+ et C Λ S M
-355880	+ indigens A Λ Φ; + sed indigens 𝔠.
-356182	+ et Z Φ 𝔠
-356406	+ et C.
-356665	+ sed A Λ Z S M Φ 𝔠
-356746	+ et A Λ S
-356877	+ et C Σ Λ Z T S Φ 𝔠
-356995	+ et A Λ S M Φ 𝔠
-357344	+ et A Z T 𝔠
-358815	+ cum dormiente (dormitante T.) loquitur Z T 𝔠
-359156	+ et C Λ T S
-359487	+ donec moriatur C Λ T S
-359590	+ et C 𝔠
-359603	G Σ Z 𝔯; + eo cet.
-359665	+ et C Λ S
-359735	+ et Σ M Φ 𝔠
-359744	+ et C M Φ 𝔠
-359946	+ et G C M
-360110	+ et M Φ 𝔠
-360137	+ et 𝔠
-360304	+ et A
-360342	+ qui A; + quae C Σ Z 𝔠
-360555	+ ingemuit vir eius Z 𝔠
-360569	+ sicut C Σ Λ Z S 𝔠
-360661	+ et A
-361523	+ et A
-362210	+ et A C Z 𝔯
-362903	+ et 𝔠
-363490	+ et 𝔠
-363579	+ et A M Φ 𝔠
-364006	+ nec adest C Z; + nec respicit A Σ Λ S M Φ 𝔠
-364914	+ sed C Λ Z Φ 𝔠
-364930	+ et Z S 𝔠.
-364990	+ ex quo C Σ 𝔠
-365019	+ in 𝔠; + hic A
-365132	+ auditas A.
-365204	+ in his curans mitigavit dolorem T.
-365560	+ et A Z
-365766	+ et S Φ 𝔠
-365889	+ et 𝔠.
-366410	+ fili A
-366421	+ et 𝔠.
-366858	+ et A 𝔠
-366899	+ et A Λ M Φ 𝔠
-367003	+ et A T M Φ m 𝔠
-367228	+ et A S
-367332	+ et A Z M Φ 𝔠
-367501	+ et Λ Φ 𝔠
-367558	+ et Φ 𝔠
-367573	+ et A 𝔠
-367657	+ glorificantes Dominum A S M Φ 𝔠
-367717	+ incipit T s
-367889	+ et A C Σ Λ T S M Φ 𝔠
-368129	+ et G Λ Z T S M Φ s 𝔠
-368170	+ et Λ S 𝔠
-368253	+ et 𝔠
-368345	+ et Φ 𝔠
-369784	+ et A Λ M Φ 𝔠
-369905	+ sic 𝔠.
-370100	+ et 𝔠
-370649	+ et A C Σ Λ S 𝔠
-370653	+ et 𝔠
-370729	+ et A C Σ Λ M Φ 𝔠
-370831	+ et A
-371274	+ et 𝔠
-372032	+ et S 𝔠
-372291	+ et O 𝔠
-372449	+ in Λ 𝔠
-372610	+ et A O
-373117	+ et A C Σ
-375764	+ et C Σ.
-376278	+ cum his Σ 𝔠
-377273	+ ad 𝔠.
-377344	+ et 𝔠
-377558	+ et maerebunt C Σ
-379293	+ et C
-379393	+ et A Λ 𝔠
-381636	+ et non declinetis 𝔠
-382008	+ et 𝔠.
-382457	+ et Σ 𝔠
-385046	+ et C
-386378	+ et C Σ Λ
-386462	+ et C Σ Λ
-386511	+ et C 𝔠
-386577	+ et 𝔠
-388219	+ et C Σ
-389184	+ et A C T Φ 𝔠
-389348	+ ecce 𝔠
-393673	+ et C Σ Φ
-393736	+ et A T Φ l 𝔠
-393930	+ et Σ Λ O 𝔠
-394026	+ et A Λ T Φ l 𝔠
-394558	+ et C 𝔠.
-395375	+ et C Σ.
-395865	+ et Σ Λ 𝔠
-396800	+ aut Φ 𝔠
-399372	+ numquid 𝔠
-400233	+ et C Σ.
-400297	+ et A O
-407066	+ et 𝔠
-408212	+ et A
-408548	+ et T 𝔠
-408591	+ et 𝔠.
-408921	+ quia 𝔠; + et O
-410500	+ et A S 𝔠
-412671	+ et C 𝔠
-412701	+ et 𝔠
-417980	+ et 𝔠.
-418871	+ et A
-418916	+ et A.
-421470	+ et C Σ
-422155	+ prae 𝔠
-422375	+ et Σ 𝔠
-424188	+ et 𝔠
-424214	+ a A
-424500	+ et 𝔠.
-425083	+ et 𝔠.
-425088	+ et 𝔠
-425151	+ et retiacula et mala granata A Φ; + et fuerunt malogranata 𝔠.
-425154	+ et A Φ 𝔠
-425390	+ et factum est postquam in captivitatem redactus (-e reductus Λ) est Israel Λ 𝔠 | + et Ierusalem deserta est Λ 𝔠 | + sedit Ieremias propheta (om. Λ) flens Λ 𝔠 | + et planxit lamentatione hac (-em hanc Λ) in Ierusalem Λ 𝔠 | + et amaro animo suspirans et eiulans (om. om. om. om. om. Λ) dixit Λ 𝔠
-426005	+ et 𝔠
-426362	+ et A Φ 𝔠
-426687	+ et C Σ
-427390	+ et S T Φ 𝔠
-428107	+ et 𝔠
-429140	+ nam 𝔠
-431216	+ ac 𝔠
-431628	+ et C
-432051	+ ipsi et 𝔠
-433188	+ et A 𝔠
-433264	+ et Λ O 𝔠
-433333	+ et 𝔠
-434772	+ et A O
-435377	+ et T 𝔠
-436215	+ et 𝔠
-436565	+ et 𝔠
-436990	+ et 𝔠
-437539	+ quia A O
-438186	+ et A O
-439657	+ et 𝔠
-439739	+ et A O
-439825	+ et 𝔠
-440422	+ et 𝔠
-441036	+ et Φ
-441610	+ et C 𝔠
-441855	+ et A
-443023	+ et A Σ O
-443493	+ et 𝔠
-445322	+ et 𝔠
-446184	+ et Φ 𝔠
-446606	+ pro 𝔠
-446672	+ et A O T M Φ 𝔠
-447376	+ mense A O
-448440	+ et 𝔠
-448603	+ et M 𝔠
-448899	+ et 𝔠
-449379	+ et Φ 𝔠
-449579	+ in omnes
-451824	+ et 𝔠
-451897	+ hi 𝔠
-451971	+ et 𝔠; + ut M
-453133	+ et A O
-453576	+ et Φ 𝔠
-453591	+ et 𝔠
-454445	+ et C Σ
-455124	+ et 𝔠
-456033	+ non Σ Λ S M 𝔠
-456109	+ de A O k
-456468	+ et S 𝔠
-456744	+ de Λ; + in 𝔠
-456782	+ de 𝔠
-457101	+ et C Σ
-457505	+ super Λ M Φ s 𝔠
-458168	+ et A O
-458361	+ et M 𝔠
-460718	+ et 𝔠
-461394	+ et C Σ
-462262	+ et A Φ 𝔠
-462718	+ et Λ 𝔠
-462913	+ et Φ 𝔠
-464302	+ et S 𝔠
-466702	+ et O Φ 𝔠
-466911	+ et O S 𝔠
-467444	+ et A
-468067	+ et A O Z
-470523	+ et C; + sed Σ
-470904	+ et C Σ
-471262	+ et C Σ Φ 𝔠
-472405	+ et A Σ Φ 𝔠
-472595	+ et S 𝔠
-473527	+ sicut M 𝔠
-473622	+ et A
-478011	+ paenituit A
-478724	+ et Σ O 𝔠
-479443	+ et A 𝔠
-480084	+ et 𝔠
-480093	+ et Σ S 𝔠
-480102	+ et C O
-480451	+ et C Σ
-480863	+ et Λ Φ 𝔠
-482728	+ et Φ 𝔠
-482748	+ et C Σ
-483905	+ et 𝔠
-484113	+ et C Σ
-484386	+ et 𝔠
-486850	+ et M
-488167	+ et 𝔠
-489437	+ et C Λ Φ
-490105	+ et Λ S M 𝔠
-491277	+ nunc 𝔠
-492220	+ et 𝔠
-492283	+ et 𝔠
-493352	+ et 𝔠
-495740	+ et C
-495744	+ et 𝔠
-496349	+ sed 𝔠
-497216	+ et C Σ Λ
-497848	+ et Z 𝔠
-498936	+ et A S
-500492	+ et iecerunt iacula in populum 𝔠
-501112	+ et tres 𝔠; + id est tres Z
-504009	+ et 𝔠
-504543	+ et Λ M 𝔠
-504574	+ ad 𝔠
-504852	+ et 𝔠
-505861	+ et Σ Λ
-506555	+ et 𝔠
-506628	+ et Σ
-508563	+ et 𝔠
-508908	+ ipsos M; + hos 𝔠; + quos Φ
-509201	+ et 𝔠
-510447	+ tu autem 𝔠
-510983	+ et 𝔠
-511211	+ et Z Φ 𝔠
-511754	+ eo 𝔠 et 𝔡 lapsu
-512693	+ at Z 𝔠
-513194	+ omnipotentis 𝔠
-514188	+ et Z 𝔠
-515327	+ et S Z M
-516026	+ in Φ 𝔠
-517532	+ et N M P Φ 𝔠
-518979	s A; + et cet.
-519049	+ ipsae Z G C Φ 𝔠
-519706	+ et D 𝔠
-520536	+ Domine Z Φ 𝔠
-526342	+ et Z Φ
-529088	+ et N P G D C Φ 𝔠 𝔬
-529619	+ et Z
-530148	+ et A F 𝔬
-530232	+ et A F 𝔬
-531290	+ missi A Z P D C Φ 𝔠 𝔬
-531360	+ et Z F G
-531850	+ et A M 𝔬
-532261	+ vah Z F P Φ 𝔠
-533445	+ et D
-534691	+ et Z
-535233	+ et A M
-537863	+ et G 𝔠
-538706	+ et dixit Z Φ; + et benedixit G.
-539019	+ et G Φ 𝔠
-539068	+ qui autem reliquerit M.
-539777	+ quia A M G 𝔠 𝔬
-539954	+ et 𝔠
-540267	+ ut s P G D C
-540743	+ nonne Z
-546670	+ et A
-546804	+ et Z F P D Φ 𝔠 𝔬
-547378	+ et F 𝔠
-547564	+ et 𝔠
-549252	+ et G 𝔠
-552468	+ et Z Φ
-552939	+ quia s Z P Φ
-553515	+ et Z Φ
-553820	+ et cui A; + et cui simile esse existimabo illut N.
-555474	+ et Z Φ.
-556465	+ amen Z P Φ
-557491	+ et M Z P D C Φ 𝔠 𝔬
-558381	+ et Z P C Φ 𝔠 𝔬
-558480	+ et A M F G
-560616	+ et S D
-562357	+ et F P Φ 𝔠
-566181	+ et scio eum Z C
-567008	+ et 𝔠
-567676	+ et Z P 𝔠
-568086	+ et Z F Φ 𝔠
-568122	+ et Z Φ
-568408	+ et 𝔠.
-568577	+ tunc P.
-569218	+ et Z.
-569633	+ et M Z F C Φ 𝔠 𝔬
-570786	+ cui A M F G 𝔬
-571620	+ et Z Φ.
-572410	+ in 𝔠
-572636	+ et Z
-573871	+ et Z 𝔠
-574769	+ et A M F G Φ 𝔠 𝔬
-576313	+ et 𝔠.
-577411	+ (+ in C Λ.) id quod factum erat (fuerat A 𝔠) codd. 𝔠
-577555	+ ad C Λ 𝔠
-580998	+ is 𝔠.
-583296	+ et C 𝔠
-583920	+ et A I C 𝔠
-585851	+ et F S Φ.
-587468	+ sicut 𝔠.
-589240	+ eum S Φ
-590873	+ et I
-591095	+ in 𝔠
-591929	+ et C
-592391	+ ita A Φ 𝔠 𝔬
-592594	+ et 𝔠.
-593280	+ in omnes et F C 𝔠
-593699	+ nec F Φ 𝔠; + non S K
-595879	+ et non dilectam dilectam S 𝔠
-596742	+ et A R F K C Λ Φ l 𝔠 𝔬
-596928	G R; + et cet.
-598082	+ sed R K
-598190	+ et oretis F
-599106	+ nam R
-601212	+ quod R
-601425	+ et R F Φ 𝔠
-601576	+ quare G S Φ 𝔠; + et C
-601605	+ et Φ 𝔠
-601813	+ vos autem G S
-603414	+ ad S K C Λ Φ 𝔠
-603862	+ sed R
-604250	+ qui R F S K Φ 𝔠
-604884	+ quoniam F S 𝔠; + quia C
-607348	+ insuper A K Φ 𝔠
-608277	+ nam Φ 𝔠; + sed F
-608529	G.; + ut cet.
-610074	+ ut G R F S Λ Φ 𝔠 𝔬
-611157	+ patientia R 𝔠
-611160	+ mansuetudo Φ 𝔠
-611617	+ nos 𝔠
-611710	+ et G 𝔠
-611789	+ et 𝔠
-611872	+ cuius R F S C Φ 𝔠
-612391	+ et G S
-613376	+ et R F.
-613400	+ et G
-615354	+ in R C
-615370	+ et A.
-615783	+ sed 𝔠
-615840	+ et Λ 𝔠
-619262	+ pudicum R S C Λ
-619861	+ si quis fidelis vel F S C Φ
-620244	+ et F S Λ Φ 𝔠
-620791	+ nisi R F S C Λ Φ 𝔠
-621719	+ et F
-621953	A K 𝔠 𝔬; + et cet.
-622211	+ quod est 𝔠.; + quod F; + quae R.
-626722	G; + et cet.
-626781	+ et S
-627429	+ et A R S Λ 𝔠
-627893	+ et S.
-628141	+ et A R S Λ 𝔠
-628335	+ et A Φ 𝔠
-628449	+ et 𝔠
-628505	+ per A
-629193	+ his A S Λ Φ 𝔠 𝔬
-629867	+ his 𝔠
-629879	+ in quibus nunc obstupescunt G
-631610	+ et 𝔠
-631844	+ et S 𝔠
-632150	+ et F A R S Φ 𝔠 𝔬
-633122	+ et G
-634044	+ cui A
-634927	+ et 𝔠
-634969	+ et I S Λ 𝔠
-635219	+ ecce F S Λ Φ 𝔠
-635472	+ et 𝔠
-636930	+ ita Φ 𝔠
-637160	+ et 𝔠
-637258	+ et C 𝔠
-637296	+ et 𝔠
-637472	+ ego 𝔠
-638008	+ et F I S Λ
-638042	+ perdendi G
-638248	+ et 𝔠
-638930	+ et G.
-640253	+ et A I
-641260	+ et Λ Φ 𝔠
-641669	+ et F Φ
-641776	+ et 𝔠
-641884	+ et 𝔠
-641922	+ et 𝔠.
-641952	+ et F Λ.
-642370	+ et Λ 𝔠
-642515	+ benignus 𝔠.
-642603	+ quare 𝔠.
-642790	+ et A S
-643285	+ et A2 𝔠
-643324	+ et A
-643343	+ et S Ω 𝔠
-643368	+ porro S; + et Ω 𝔠
-643407	+ et A*
-643607	+ et 𝔠
-644077	+ non tantum 𝔠
-644850	+ o A2
-645240	+ et Ω
-645494	+ ut A*
-645595	+ in Ω 𝔠
-646363	+ et Ω 𝔠
-646697	+ et dederunt carra Ω 𝔠
-646707	+ et facerent rates Ω 𝔠
-647305	+ et Ω 𝔠
-647309	+ et A
-648308	+ et Ω
-648601	+ et 𝔠
-649372	+ ad 𝔠
-649455	+ et A* Q Ω
-649481	+ et 𝔠
-650181	+ et Q Ω 𝔠
-650186	+ et Q Ω 𝔠
-652018	+ tunc A
-652166	+ nonne C M E 𝔟 𝔳
-652242	+ et 𝔠
-652305	+ et C M E 𝔠
-653116	+ sic C M E 𝔟 𝔳
-653240	+ et 𝔠
-653675	+ et C M E 𝔳
-654486	+ eos 𝔠
-654645	+ an 𝔟 𝔳.
-654927	+ oro 𝔠
-655694	+ coeperunt 𝔠
-655803	+ et M E 𝔠
-656666	+ et 𝔳.
-657940	+ in S2 𝔠 𝔟
-658393	+ et C M E 𝔳
-658803	+ et memorabor 𝔠
-658977	+ ut A2 𝔟 𝔳
-658985	+ eis 𝔠
-659048	+ et in 𝔠; + in S C M E
-659231	+ et 𝔠
-659406	+ et C M E 𝔠
-659794	+ simul id 𝔠
-660549	+ cum S
-660684	+ et 𝔠
-660941	+ et 𝔠
-662100	+ et S2 𝔠
-662373	+ et C M E
-662689	+ et A
-663136	+ hi sunt 𝔠
-663525	+ hi sunt 𝔠
-664196	+ et 𝔠
-664666	+ et 𝔠
-664821	+ quoniam S 𝔠 𝔟
-665206	+ et 𝔠
-665465	+ et S C M E 𝔠 𝔟
-665561	+ et S C M E 𝔠 𝔟
-665722	+ sic S C M E 𝔠 𝔟
-665831	+ in (et 𝔠; vel E) singulis arboribus S C M E 𝔠 𝔟
-666022	+ et A
-666198	+ et A
-666697	+ sed Q B D
-666716	+ perveniant C Λ
-666739	+ in B C Λ
+1421	+ et O Σ 𝔠
+2177	+ et vixit 𝔠.; + et vixit Enoch C Σ Λ
+3999	+ et 𝔠
+4293	+ et 𝔠
+4832	+ et veni O C Σ Λ M 𝔠
+4930	+ et O
+6124	+ et T M Φ 𝔠
+7003	+ Abraham O M Φ 𝔠
+7605	+ et 𝔠
+7630	+ et 𝔠
+7689	+ et 𝔠
+9257	+ et G; + at 𝔠
+9602	+ et 𝔠
+10946	+ procidens 𝔠
+11023	+ et 𝔠
+11420	+ et facti sunt 𝔠
+12109	+ et C M Φ
+12919	+ et M Φ 𝔠
+13309	+ et C
+14554	+ et 𝔠
+16803	+ et 𝔠
+17885	+ et 𝔠
+20673	+ et T M Φ 𝔠
+21038	+ et Ioseph C
+23505	+ et C 𝔠
+23579	+ et 𝔠.
+23586	+ et C 𝔠
+26697	+ et O C Σ M 𝔠
+26907	+ et O C 𝔠
+27281	+ et Λ T M Φ 𝔠
+27529	+ de C.; + pro Φ
+28232	+ et Σ T 𝔠
+28477	+ et T M Φ 𝔠
+28489	+ et Λ 𝔠
+29047	+ et C Λ 𝔠
+29166	+ et C 𝔠
+29875	+ et C 𝔠
+30565	+ et T Φ 𝔠
+32392	+ et G T Φ
+32561	+ et 𝔠
+32773	+ et 𝔠
+32834	+ ita A Φ 𝔠
+32895	+ et 𝔠.
+34345	+ et 𝔠.
+35268	+ in T M Φ 𝔠
+35292	+ et O.
+35819	+ et O Σ
+37689	+ et Λ 𝔠
+38047	+ et 𝔠.
+38558	+ facies et 𝔠.
+41417	+ et G
+42750	+ et Λ 𝔠
+43590	+ et C; + in O.
+43594	+ et 𝔠
+43830	+ et 𝔠
+45025	+ fecit 𝔠
+49148	+ et C
+50248	+ et C
+50658	+ et l 𝔠
+50686	+ et A 𝔠
+51474	+ et O
+52946	+ et G
+54337	+ et G A C.
+56077	+ et A
+59144	+ et C
+59933	+ et Λ.
+60943	+ et 𝔠
+63488	+ a 𝔠
+64691	+ et O 𝔠
+65076	+ et Σ.
+67568	+ si A 𝔠.
+72074	+ et O
+72115	+ profectique C; + profecitque G.
+72118	+ et C
+72168	+ quia C l.
+76132	+ et 𝔠.
+76925	+ et C M.
+77706	+ et C Σ S
+78244	+ et C 𝔠
+79358	+ et A Λ T M Φ 𝔠; + ut O.
+80333	+ et O
+82252	+ et A
+84252	+ et 𝔠
+86213	+ et A C Λ S M
+87192	+ et 𝔠.
+87552	+ et 𝔠
+87968	+ ut 𝔠.
+87971	+ haec 𝔠.
+88027	+ et O C.
+88048	+ et l 𝔠
+91863	+ et A M
+93355	+ et A Λ S M 𝔠
+94184	+ et O S.
+95937	+ et M Φ 𝔠
+96659	+ ut L T M Φ 𝔠
+102052	+ et 𝔠.
+104848	+ et C
+105281	+ et L 𝔠
+105294	+ et 𝔠.
+105490	+ et 𝔠
+106321	+ et 𝔠
+106330	+ et Σ 𝔠
+106347	+ et 𝔠
+106357	+ et 𝔠.
+106363	+ et C 𝔠
+106397	+ et 𝔠.
+106403	+ et 𝔠
+106423	+ et O L T.
+106435	+ et 𝔠
+106455	+ et 𝔠
+106500	+ et Φ 𝔠
+106514	+ et F 𝔠
+106538	+ et 𝔠
+107738	+ et A Λ S M 𝔠
+107761	+ et 𝔠
+107771	+ et A O S
+107830	+ et S 𝔠
+108016	+ et 𝔠
+108083	+ et A C L 𝔠
+108247	+ et 𝔠
+108326	+ et 𝔠
+108911	+ et Σ 𝔠
+113732	+ et M Φ 𝔠
+119872	+ ibi V; + ubi L 𝔠
+121101	+ dixitque Michas 𝔠.
+121439	+ et C
+123194	+ et T M Φ 𝔠
+123422	+ cum C Σ Λ L 𝔠
+124429	+ et 𝔠
+126539	+ et Σ Λ Φ 𝔠
+126689	+ et 𝔠
+127711	+ et 𝔠.
+128992	+ eo 𝔠
+129932	+ et C
+132124	+ et A C
+133609	+ et D 𝔠
+133637	+ porro Σ Λ Φ 𝔠
+133934	+ et dum (cum 𝔠) venisset Samuhel ad Saul Σ Λ 𝔠
+136552	+ et R Λ
+136738	+ et Σ h 𝔠
+141605	+ et 𝔠
+142215	+ et 𝔠.
+142607	+ et 𝔠
+142741	+ et 𝔠
+144445	+ et C Λ Φ 𝔠
+144583	+ eo 𝔠
+146146	+ et 𝔠.
+147372	+ quia C Σ Λ Φ; + quod 𝔠
+149352	+ et Σ 𝔠
+149540	+ et 𝔠
+152729	+ pedites 𝔠
+152775	+ quia 𝔠
+154115	+ festinanter Σ
+154309	+ et Σ 𝔠
+154314	+ et Λ Φ 𝔠
+155971	+ et sepeliar Σ Λ Φ 𝔠
+156196	+ redi C.
+156863	+ sed C Σ Λ Φ 𝔠
+157100	+ et C
+157192	+ iam Σ 𝔠
+157271	+ et Λ Φ 𝔠; + qui m
+157529	+ et 𝔠
+157633	+ et R Λ D Φ
+158203	+ o 𝔠
+158400	+ et C
+159463	+ et C
+160613	+ et 𝔠.
+160842	+ et 𝔠
+161819	+ e C Σ Λ Φ 𝔠
+162451	+ et Λ Φ 𝔠
+162907	+ de 𝔠
+166994	+ et C
+167117	+ et Σ 𝔠
+167785	+ servus Salomonis 𝔠
+168529	+ vade C Λ Φ 𝔠; + revertere Σ
+170705	+ et 𝔠
+172240	+ et 𝔠
+172473	+ quia 𝔠
+172525	+ et Φ 𝔠
+172589	+ et Σ 𝔠
+174426	+ et C.
+176712	+ quia C
+180138	+ ipse C
+180358	+ sed Λ 𝔠
+182492	+ et percusserunt eum 𝔠
+183167	+ et C
+183191	+ et 𝔠
+184017	+ et 𝔠
+184294	+ et 𝔠
+184520	+ et 𝔠
+184600	+ sed Λ 𝔠
+184714	+ sed 𝔠.
+185036	+ in 𝔠
+187340	+ et 𝔠
+189072	+ et Λ D Φ 𝔠
+189459	+ et 𝔠
+190113	+ et 𝔠.
+191231	+ et R Σ Λ D Φ 𝔠
+191830	+ et Σ Λ 𝔠
+193098	+ et Φ 𝔠
+193426	+ hii C Σ 𝔠
+194231	+ et C Σ.
+196511	+ filii A C Σ 𝔠; + filii quoque S.
+198799	+ et 𝔠.
+199119	+ et 𝔠.
+200097	+ et C Σ.
+200567	+ et C Σ
+200637	+ et G C Σ Φ
+204050	+ filii C Σ 𝔠.; + et Φ
+204255	+ et A S
+206576	+ et C Σ Λ
+206721	+ et 𝔠.
+206792	+ de C Σ 𝔠.
+207215	+ et A
+207986	+ et vini metretas viginti milia 𝔠.
+209206	+ et C Σ S i
+209735	+ et D 𝔠
+210168	+ et C Σ
+211482	+ et 𝔠.
+214603	+ et Λ
+214824	+ ipsi C Σ 𝔠.
+215559	+ in Λ 𝔠
+216551	+ et Φ 𝔠
+217175	+ et 𝔠
+220622	+ et C Σ 𝔠
+220960	+ et Λ D S Φ 𝔠
+224602	+ et 𝔠
+225787	+ et S 𝔠
+227683	+ in A
+227851	+ in A
+227970	+ ut 𝔠
+228444	+ in A
+228810	+ et 𝔠.
+229834	+ et S Φ 𝔠
+229838	+ et 𝔠
+229967	+ in A K
+230719	+ et A K 𝔠
+231793	+ et A K S Φ 𝔠
+232425	+ et C Σ.
+232442	+ et A K 𝔠
+232477	+ et A L S Φ 𝔠
+232752	+ et S Φ 𝔠
+232900	+ et A K
+232909	+ et 𝔠.
+234865	+ et A S Φ
+234915	+ et Λ 𝔠
+235666	+ et A K 𝔠
+235699	+ et A.
+236079	+ et C Σ.
+236366	+ in A K
+236779	+ et Λ S 𝔠.
+237087	+ et S 𝔠
+238328	+ quem A S 𝔠
+238753	+ et 𝔠
+238990	+ et A K 𝔠
+239165	+ cum 𝔠
+239560	+ ab A K.
+241018	+ et A S Φ 𝔠
+241143	+ quae A S Φ 𝔠
+241153	+ et A S Φ 𝔠
+242064	+ et 𝔠
+242175	+ et 𝔠.
+243803	+ et 𝔠
+244356	+ et 𝔠
+245193	+ et A K S 𝔠
+245522	+ et 𝔠 𝔯
+246304	+ et 𝔠
+246375	+ in C Σ; + et Φ 𝔠
+246920	+ in S 𝔠
+248643	+ et A 𝔠
+248738	+ et A S
+249520	+ et 𝔠
+249524	+ accepit stolam novam A S 𝔠
+250335	+ honorem Λ
+250476	+ et L S
+250581	+ et praecepit eunucho Λ 𝔠
+255126	+ qui A K S 𝔠
+255355	+ et A K.
+256400	+ adhuc L D S Φ 𝔠
+257081	+ ubi est D K Φ 𝔠
+257536	+ et L C Λ S Φ
+258533	+ et C
+259922	+ qui C Λ 𝔠
+260720	+ et D K 𝔠
+261003	+ et C Σ Λ 𝔠
+261783	+ et C Σ Λ D K S 𝔠
+264049	+ eo C Λ S 𝔠
+267444	+ et L
+267914	+ et Λ K 𝔠
+268073	+ et L A s
+268235	+ et Σ 𝔠
+268246	+ et S Φ 𝔠
+268816	+ et 𝔠
+268922	+ et I W S K Φ 𝔠
+269473	+ et I 𝔠
+269968	+ ut 𝔠
+270902	+ in finem F S.
+271205	+ et R W S K Φ 𝔠
+271256	+ et R L.
+271353	+ et L S 𝔠
+271358	+ et L.
+271635	+ et 𝔠
+272883	+ in finem I L W 𝔠
+273132	+ in finem K 𝔠
+273266	+ psalmus I L W 𝔠.
+274649	+ et in eis W S K 𝔠
+274697	+ psalmus I L W
+274836	+ et F L.
+275050	+ et H I S K 𝔠
+275068	+ et H I.
+275097	+ et I L
+275413	+ et S K Φ 𝔠
+275452	+ psalmus 𝔠.
+275961	+ et 𝔠
+277030	+ et 𝔠
+277078	+ in finem I
+277107	+ et W 𝔠
+278083	+ et H I W K Φ 𝔠
+278151	+ simul 𝔠
+278366	+ et 𝔠
+278771	+ et W S K Φ 𝔠
+278839	+ et W S K Φ 𝔠
+279198	+ et H I 𝔠
+279210	+ et 𝔠
+279218	+ et 𝔠
+279226	+ et 𝔠
+279719	※ R
+279878	+ et 𝔠
+280785	+ et I W S K Φ 𝔠
+281368	+ et W S K 𝔠
+281507	+ et W S K 𝔠
+282408	÷ R.
+282472	+ in finem H W K
+282531	+ et I S 𝔠
+282806	+ psalmus H K 𝔠
+282972	+ et R 𝔠.
+283211	+ et W S K Φ 𝔠
+283354	+ in finem H W
+283541	om. R
+283587	+ et 𝔠
+283801	+ et H
+283949	+ et H I W S K 𝔠
+283982	+ et I W S K 𝔠
+284320	+ et S K 𝔠
+284385	+ et R
+284763	+ et F S
+285149	+ et 𝔠
+285650	+ in finem H.
+285792	+ et H I
+285863	+ et 𝔠
+286468	+ in finem H W
+286905	+ et H I.
+287020	+ et H I S K Φ 𝔠
+287289	+ et H I W S K 𝔠
+287483	+ et R W S K Φ 𝔠
+287600	om. R
+288644	+ et 𝔠
+290234	+ et W S K Φ 𝔠
+290688	+ et 𝔠
+291111	+ et 𝔠.
+291423	+ et I W S K k 𝔠
+291802	+ et W 𝔠
+291974	+ et I W S K Φ 𝔠
+292421	+ et Φ 𝔠
+292762	+ et F S K Φ 𝔠
+293037	+ et F I W S K Φ 𝔠
+293126	+ et R I
+294065	+ et R 𝔠
+294398	+ et 𝔠
+294694	+ et I
+294724	+ quia 𝔠
+294744	+ et 𝔠
+295804	+ et R Φ 𝔠
+296665	+ psalmus 𝔠; + ipsi W.
+296789	+ et R L K Φ
+296868	+ et S 𝔠
+297229	+ et 𝔠
+297339	+ et W 𝔠
+297344	+ in finem I K
+297511	+ et 𝔠
+297803	+ psalmus 𝔠
+297816	+ et F I W S K Φ 𝔠
+298904	+ et F C Σ Θ S 𝔥
+299171	+ et C A K Θ S
+301266	+ et R Σ.
+301276	+ et C Θ
+301421	+ et C
+301533	+ et I A K.
+301987	+ et C
+303201	+ et F Σ L 𝔥
+306291	+ et I
+307082	+ et R C
+307673	+ et R C Σ A K Θ S L 𝔥
+307885	+ et C I Σ A Θ S
+309386	+ et C
+309521	+ et C
+310473	+ et S.
+310483	+ et C
+310516	+ et F C Σ Θ S L 𝔥
+311905	+ et R Θ S
+312113	+ in I A K Θ S L 𝔥
+312475	+ et R Θ S
+313337	+ et F C I Σ A K Θ S L 𝔥
+314740	+ et C
+315490	+ a I.
+315811	+ et R I Σ A K Θ S L 𝔥
+316378	+ et I A K S.
+316442	+ et F C I
+316491	+ et C I Σ A K Θ
+316686	+ et C Σ Θ
+317067	+ et A K Θ S 𝔥
+319575	+ et R I A K 𝔥
+319982	+ et C
+320108	+ et C
+320265	+ et F Σ L 𝔥
+320448	+ alleluia F Σ K Θ S L 𝔥
+320508	+ et Σ Θ S L 𝔥
+320643	+ et C Σ A Θ S L 𝔥
+321117	+ et R F Σ Θ S L 𝔥
+321620	+ alleluia F Σ Θ S L 𝔥
+321827	+ alleluia F Σ K Θ S L 𝔥
+322077	+ alleluia F Σ Θ S L 𝔥
+322161	+ alleluia I A K S L 𝔥
+322250	+ alleluia F C Σ A K Θ S L 𝔥
+322271	+ alleluia F C Σ K Θ S L 𝔥
+322377	+ et R
+322556	+ alleluia F S L 𝔥.
+322692	+ in F I A K S L 𝔥
+322923	C 𝔰; + in cet.
+325625	+ alleluia F Σ K Θ S L 𝔥
+326745	+ et I Σ A K
+327665	+ alleluia F I A K S
+327688	+ et R
+327738	+ et F L
+327755	+ alleluia F Σ
+327899	+ alleluia F Σ L
+327991	+ alleluia F L.
+328496	+ et C A 𝔠
+328779	+ et C Σ 𝔠
+329014	+ et A
+329463	+ et C Z Φ
+329893	+ fili 𝔠.
+330039	+ et G Σ
+330522	+ et C 𝔠
+332034	+ et C A Σ M 𝔠
+334175	+ et C
+334637	+ fili mi C
+335524	+ et C
+335544	+ et 𝔠
+335928	+ non A T.; + nam C Σ Z Φ 𝔯
+336132	+ et A
+336299	+ et 𝔠.
+336544	+ et 𝔠
+337675	+ et 𝔠.
+338326	+ et 𝔠
+338338	+ et Φ 𝔠
+338598	+ et A M Φ
+341041	+ et 𝔠.
+342773	+ et 𝔠
+344572	+ et Z.
+344855	+ ecce 𝔠
+344944	+ cuius 𝔠; + et Σ Z.
+344963	+ et C
+345105	+ et A
+345157	+ et T S
+345578	+ et T Λ S M Φ 𝔠
+345863	+ benignus Σ
+346149	+ et A Λ M Φ m 𝔠
+346405	+ nam 𝔠
+346434	+ et Λ Φ 𝔠
+346836	+ et C.
+347151	+ isti sitientes Λ
+347595	+ et A C Σ Λ M Φ
+347836	+ in A M Φ 𝔠
+348104	+ et 𝔠
+348418	+ et Λ M Φ 𝔠
+348454	+ et C S M 𝔠
+348471	+ et Z.
+349178	+ sed Λ Φ 𝔠
+350098	+ eadem C Σ.
+351084	+ et 𝔠
+351279	+ et 𝔠.
+351336	+ fili C Σ Λ Φ 𝔠
+351571	+ quis enim 𝔠.
+351596	+ et protector est (om. M) Λ S M Φ 𝔠
+351623	+ et 𝔠
+351633	+ et C 𝔠
+351773	+ et Λ Z T Φ m 𝔠
+351921	+ et Φ 𝔠
+351926	+ et T m 𝔠
+353361	+ fili 𝔠
+353952	+ et A Λ M Φ 𝔠
+354031	+ et Φ 𝔠
+354869	+ et A
+355080	+ et mors appropinquet 𝔠
+355226	+ et C Σ Λ Z T Φ 𝔠
+355505	+ sic C
+355554	+ et C 𝔠.
+355689	+ et 𝔠.
+355745	+ et C Λ S M
+356106	+ indigens A Λ Φ; + sed indigens 𝔠.
+356408	+ et Z Φ 𝔠
+356632	+ et C.
+356891	+ sed A Λ Z S M Φ 𝔠
+356972	+ et A Λ S
+357103	+ et C Σ Λ Z T S Φ 𝔠
+357221	+ et A Λ S M Φ 𝔠
+357569	+ et A Z T 𝔠
+359039	+ cum dormiente (dormitante T.) loquitur Z T 𝔠
+359380	+ et C Λ T S
+359711	+ donec moriatur C Λ T S
+359814	+ et C 𝔠
+359827	G Σ Z 𝔯; + eo cet.
+359889	+ et C Λ S
+359959	+ et Σ M Φ 𝔠
+359968	+ et C M Φ 𝔠
+360170	+ et G C M
+360334	+ et M Φ 𝔠
+360361	+ et 𝔠
+360528	+ et A
+360566	+ qui A; + quae C Σ Z 𝔠
+360779	+ ingemuit vir eius Z 𝔠
+360793	+ sicut C Σ Λ Z S 𝔠
+360885	+ et A
+361747	+ et A
+362434	+ et A C Z 𝔯
+363127	+ et 𝔠
+363714	+ et 𝔠
+363803	+ et A M Φ 𝔠
+364230	+ nec adest C Z; + nec respicit A Σ Λ S M Φ 𝔠
+365138	+ sed C Λ Z Φ 𝔠
+365154	+ et Z S 𝔠.
+365214	+ ex quo C Σ 𝔠
+365243	+ in 𝔠; + hic A
+365356	+ auditas A.
+365428	+ in his curans mitigavit dolorem T.
+365783	+ et A Z
+365988	+ et S Φ 𝔠
+366111	+ et 𝔠.
+366632	+ fili A
+366643	+ et 𝔠.
+367080	+ et A 𝔠
+367121	+ et A Λ M Φ 𝔠
+367224	+ et A T M Φ m 𝔠
+367449	+ et A S
+367551	+ et A Z M Φ 𝔠
+367720	+ et Λ Φ 𝔠
+367777	+ et Φ 𝔠
+367792	+ et A 𝔠
+367876	+ glorificantes Dominum A S M Φ 𝔠
+367936	+ incipit T s
+368108	+ et A C Σ Λ T S M Φ 𝔠
+368348	+ et G Λ Z T S M Φ s 𝔠
+368389	+ et Λ S 𝔠
+368472	+ et 𝔠
+368564	+ et Φ 𝔠
+370001	+ et A Λ M Φ 𝔠
+370122	+ sic 𝔠.
+370317	+ et 𝔠
+370866	+ et A C Σ Λ S 𝔠
+370870	+ et 𝔠
+370946	+ et A C Σ Λ M Φ 𝔠
+371048	+ et A
+371489	+ et 𝔠
+372247	+ et S 𝔠
+372505	+ et O 𝔠
+372663	+ in Λ 𝔠
+372824	+ et A O
+373328	+ et A C Σ
+375973	+ et C Σ.
+376487	+ cum his Σ 𝔠
+377479	+ ad 𝔠.
+377550	+ et 𝔠
+377764	+ et maerebunt C Σ
+379498	+ et C
+379598	+ et A Λ 𝔠
+381840	+ et non declinetis 𝔠
+382210	+ et 𝔠.
+382658	+ et Σ 𝔠
+385245	+ et C
+386566	+ et C Σ Λ
+386650	+ et C Σ Λ
+386699	+ et C 𝔠
+386765	+ et 𝔠
+388400	+ et C Σ
+389360	+ et A C T Φ 𝔠
+389524	+ ecce 𝔠
+393839	+ et C Σ Φ
+393902	+ et A T Φ l 𝔠
+394096	+ et Σ Λ O 𝔠
+394192	+ et A Λ T Φ l 𝔠
+394722	+ et C 𝔠.
+395537	+ et C Σ.
+396027	+ et Σ Λ 𝔠
+396961	+ aut Φ 𝔠
+399531	+ numquid 𝔠
+400392	+ et C Σ.
+400456	+ et A O
+407214	+ et 𝔠
+408360	+ et A
+408695	+ et T 𝔠
+408738	+ et 𝔠.
+409067	+ quia 𝔠; + et O
+410647	+ et A S 𝔠
+412817	+ et C 𝔠
+412847	+ et 𝔠
+418127	+ et 𝔠.
+419019	+ et A
+419064	+ et A.
+421618	+ et C Σ
+422303	+ prae 𝔠
+422523	+ et Σ 𝔠
+424336	+ et 𝔠
+424362	+ a A
+424648	+ et 𝔠.
+425233	+ et 𝔠.
+425238	+ et 𝔠
+425301	+ et retiacula et mala granata A Φ; + et fuerunt malogranata 𝔠.
+425304	+ et A Φ 𝔠
+425540	+ et factum est postquam in captivitatem redactus (-e reductus Λ) est Israel Λ 𝔠 | + et Ierusalem deserta est Λ 𝔠 | + sedit Ieremias propheta (om. Λ) flens Λ 𝔠 | + et planxit lamentatione hac (-em hanc Λ) in Ierusalem Λ 𝔠 | + et amaro animo suspirans et eiulans (om. om. om. om. om. Λ) dixit Λ 𝔠
+426155	+ et 𝔠
+426512	+ et A Φ 𝔠
+426836	+ et C Σ
+427539	+ et S T Φ 𝔠
+428256	+ et 𝔠
+429289	+ nam 𝔠
+431340	+ ac 𝔠
+431742	+ et C
+432168	+ ipsi et 𝔠
+433301	+ et A 𝔠
+433377	+ et Λ O 𝔠
+433446	+ et 𝔠
+434883	+ et A O
+435488	+ et T 𝔠
+436327	+ et 𝔠
+436675	+ et 𝔠
+437099	+ et 𝔠
+437646	+ quia A O
+438291	+ et A O
+439760	+ et 𝔠
+439842	+ et A O
+439928	+ et 𝔠
+440525	+ et 𝔠
+441139	+ et Φ
+441712	+ et C 𝔠
+441957	+ et A
+443125	+ et A Σ O
+443597	+ et 𝔠
+445423	+ et 𝔠
+446285	+ et Φ 𝔠
+446706	+ pro 𝔠
+446771	+ et A O T M Φ 𝔠
+447473	+ mense A O
+448536	+ et 𝔠
+448699	+ et M 𝔠
+448995	+ et 𝔠
+449475	+ et Φ 𝔠
+449674	+ in omnes
+451916	+ et 𝔠
+451989	+ hi 𝔠
+452063	+ et 𝔠; + ut M
+453225	+ et A O
+453668	+ et Φ 𝔠
+453683	+ et 𝔠
+454537	+ et C Σ
+455217	+ et 𝔠
+456127	+ non Σ Λ S M 𝔠
+456204	+ de A O k
+456563	+ et S 𝔠
+456839	+ de Λ; + in 𝔠
+456877	+ de 𝔠
+457197	+ et C Σ
+457602	+ super Λ M Φ s 𝔠
+458264	+ et A O
+458457	+ et M 𝔠
+460807	+ et 𝔠
+461482	+ et C Σ
+462349	+ et A Φ 𝔠
+462804	+ et Λ 𝔠
+462999	+ et Φ 𝔠
+464386	+ et S 𝔠
+466792	+ et O Φ 𝔠
+467001	+ et O S 𝔠
+467534	+ et A
+468158	+ et A O Z
+470612	+ et C; + sed Σ
+470993	+ et C Σ
+471351	+ et C Σ Φ 𝔠
+472494	+ et A Σ Φ 𝔠
+472684	+ et S 𝔠
+473615	+ sicut M 𝔠
+473710	+ et A
+478095	+ paenituit A
+478807	+ et Σ O 𝔠
+479526	+ et A 𝔠
+480167	+ et 𝔠
+480176	+ et Σ S 𝔠
+480185	+ et C O
+480534	+ et C Σ
+480946	+ et Λ Φ 𝔠
+482811	+ et Φ 𝔠
+482831	+ et C Σ
+483988	+ et 𝔠
+484196	+ et C Σ
+484468	+ et 𝔠
+486931	+ et M
+488247	+ et 𝔠
+489517	+ et C Λ Φ
+490185	+ et Λ S M 𝔠
+491356	+ nunc 𝔠
+492299	+ et 𝔠
+492362	+ et 𝔠
+493431	+ et 𝔠
+495819	+ et C
+495823	+ et 𝔠
+496428	+ sed 𝔠
+497294	+ et C Σ Λ
+497924	+ et Z 𝔠
+499012	+ et A S
+500566	+ et iecerunt iacula in populum 𝔠
+501186	+ et tres 𝔠; + id est tres Z
+504080	+ et 𝔠
+504614	+ et Λ M 𝔠
+504645	+ ad 𝔠
+504923	+ et 𝔠
+505929	+ et Σ Λ
+506624	+ et 𝔠
+506697	+ et Σ
+508634	+ et 𝔠
+508979	+ ipsos M; + hos 𝔠; + quos Φ
+509270	+ et 𝔠
+510513	+ tu autem 𝔠
+511048	+ et 𝔠
+511276	+ et Z Φ 𝔠
+511818	+ eo 𝔠 et 𝔡 lapsu
+512757	+ at Z 𝔠
+513259	+ omnipotentis 𝔠
+514255	+ et Z 𝔠
+515393	+ et S Z M
+516092	+ in Φ 𝔠
+517599	+ et N M P Φ 𝔠
+519046	s A; + et cet.
+519116	+ ipsae Z G C Φ 𝔠
+519773	+ et D 𝔠
+520603	+ Domine Z Φ 𝔠
+526409	+ et Z Φ
+529155	+ et N P G D C Φ 𝔠 𝔬
+529686	+ et Z
+530215	+ et A F 𝔬
+530299	+ et A F 𝔬
+531357	+ missi A Z P D C Φ 𝔠 𝔬
+531427	+ et Z F G
+531917	+ et A M 𝔬
+532328	+ vah Z F P Φ 𝔠
+533512	+ et D
+534756	+ et Z
+535297	+ et A M
+537931	+ et G 𝔠
+538774	+ et dixit Z Φ; + et benedixit G.
+539087	+ et G Φ 𝔠
+539136	+ qui autem reliquerit M.
+539846	+ quia A M G 𝔠 𝔬
+540023	+ et 𝔠
+540335	+ ut s P G D C
+540811	+ nonne Z
+546738	+ et A
+546872	+ et Z F P D Φ 𝔠 𝔬
+547446	+ et F 𝔠
+547632	+ et 𝔠
+549320	+ et G 𝔠
+552536	+ et Z Φ
+553006	+ quia s Z P Φ
+553582	+ et Z Φ
+553887	+ et cui A; + et cui simile esse existimabo illut N.
+555541	+ et Z Φ.
+556531	+ amen Z P Φ
+557557	+ et M Z P D C Φ 𝔠 𝔬
+558447	+ et Z P C Φ 𝔠 𝔬
+558546	+ et A M F G
+560682	+ et S D
+562423	+ et F P Φ 𝔠
+566244	+ et scio eum Z C
+567071	+ et 𝔠
+567739	+ et Z P 𝔠
+568149	+ et Z F Φ 𝔠
+568185	+ et Z Φ
+568471	+ et 𝔠.
+568640	+ tunc P.
+569281	+ et Z.
+569696	+ et M Z F C Φ 𝔠 𝔬
+570849	+ cui A M F G 𝔬
+571683	+ et Z Φ.
+572473	+ in 𝔠
+572699	+ et Z
+573934	+ et Z 𝔠
+574832	+ et A M F G Φ 𝔠 𝔬
+576376	+ et 𝔠.
+577474	+ (+ in C Λ.) id quod factum erat (fuerat A 𝔠) codd. 𝔠
+577618	+ ad C Λ 𝔠
+581061	+ is 𝔠.
+583359	+ et C 𝔠
+583983	+ et A I C 𝔠
+585914	+ et F S Φ.
+587530	+ sicut 𝔠.
+589302	+ eum S Φ
+590931	+ et I
+591153	+ in 𝔠
+591987	+ et C
+592450	+ ita A Φ 𝔠 𝔬
+592653	+ et 𝔠.
+593338	+ in omnes et F C 𝔠
+593757	+ nec F Φ 𝔠; + non S K
+595937	+ et non dilectam dilectam S 𝔠
+596800	+ et A R F K C Λ Φ l 𝔠 𝔬
+596986	G R; + et cet.
+598147	+ sed R K
+598255	+ et oretis F
+599171	+ nam R
+601276	+ quod R
+601489	+ et R F Φ 𝔠
+601640	+ quare G S Φ 𝔠; + et C
+601669	+ et Φ 𝔠
+601877	+ vos autem G S
+603480	+ ad S K C Λ Φ 𝔠
+603929	+ sed R
+604318	+ qui R F S K Φ 𝔠
+604952	+ quoniam F S 𝔠; + quia C
+607420	+ insuper A K Φ 𝔠
+608349	+ nam Φ 𝔠; + sed F
+608601	G.; + ut cet.
+610144	+ ut G R F S Λ Φ 𝔠 𝔬
+611224	+ patientia R 𝔠
+611227	+ mansuetudo Φ 𝔠
+611683	+ nos 𝔠
+611776	+ et G 𝔠
+611855	+ et 𝔠
+611938	+ cuius R F S C Φ 𝔠
+612457	+ et G S
+613442	+ et R F.
+613466	+ et G
+615420	+ in R C
+615436	+ et A.
+615849	+ sed 𝔠
+615906	+ et Λ 𝔠
+619326	+ pudicum R S C Λ
+619925	+ si quis fidelis vel F S C Φ
+620307	+ et F S Λ Φ 𝔠
+620852	+ nisi R F S C Λ Φ 𝔠
+621780	+ et F
+622014	A K 𝔠 𝔬; + et cet.
+622272	+ quod est 𝔠.; + quod F; + quae R.
+626778	G; + et cet.
+626836	+ et S
+627484	+ et A R S Λ 𝔠
+627948	+ et S.
+628195	+ et A R S Λ 𝔠
+628389	+ et A Φ 𝔠
+628503	+ et 𝔠
+628559	+ per A
+629244	+ his A S Λ Φ 𝔠 𝔬
+629918	+ his 𝔠
+629930	+ in quibus nunc obstupescunt G
+631659	+ et 𝔠
+631892	+ et S 𝔠
+632198	+ et F A R S Φ 𝔠 𝔬
+633171	+ et G
+634093	+ cui A
+634976	+ et 𝔠
+635018	+ et I S Λ 𝔠
+635268	+ ecce F S Λ Φ 𝔠
+635521	+ et 𝔠
+636979	+ ita Φ 𝔠
+637209	+ et 𝔠
+637307	+ et C 𝔠
+637345	+ et 𝔠
+637521	+ ego 𝔠
+638057	+ et F I S Λ
+638091	+ perdendi G
+638297	+ et 𝔠
+638979	+ et G.
+640302	+ et A I
+641309	+ et Λ Φ 𝔠
+641718	+ et F Φ
+641825	+ et 𝔠
+641933	+ et 𝔠
+641971	+ et 𝔠.
+642001	+ et F Λ.
+642419	+ et Λ 𝔠
+642564	+ benignus 𝔠.
+642652	+ quare 𝔠.
+642838	+ et A S
+643333	+ et A2 𝔠
+643372	+ et A
+643391	+ et S Ω 𝔠
+643416	+ porro S; + et Ω 𝔠
+643455	+ et A*
+643655	+ et 𝔠
+644126	+ non tantum 𝔠
+644899	+ o A2
+645286	+ et Ω
+645539	+ ut A*
+645640	+ in Ω 𝔠
+646408	+ et Ω 𝔠
+646743	+ et dederunt carra Ω 𝔠
+646753	+ et facerent rates Ω 𝔠
+647351	+ et Ω 𝔠
+647355	+ et A
+648354	+ et Ω
+648646	+ et 𝔠
+649417	+ ad 𝔠
+649500	+ et A* Q Ω
+649526	+ et 𝔠
+650225	+ et Q Ω 𝔠
+650230	+ et Q Ω 𝔠
+652061	+ tunc A
+652209	+ nonne C M E 𝔟 𝔳
+652285	+ et 𝔠
+652348	+ et C M E 𝔠
+653156	+ sic C M E 𝔟 𝔳
+653280	+ et 𝔠
+653715	+ et C M E 𝔳
+654526	+ eos 𝔠
+654685	+ an 𝔟 𝔳.
+654967	+ oro 𝔠
+655734	+ coeperunt 𝔠
+655843	+ et M E 𝔠
+656678	+ et 𝔳.
+657950	+ in S2 𝔠 𝔟
+658403	+ et C M E 𝔳
+658810	+ et memorabor 𝔠
+658984	+ ut A2 𝔟 𝔳
+658992	+ eis 𝔠
+659055	+ et in 𝔠; + in S C M E
+659238	+ et 𝔠
+659413	+ et C M E 𝔠
+659801	+ simul id 𝔠
+660553	+ cum S
+660688	+ et 𝔠
+660945	+ et 𝔠
+662102	+ et S2 𝔠
+662375	+ et C M E
+662690	+ et A
+663135	+ hi sunt 𝔠
+663523	+ hi sunt 𝔠
+664194	+ et 𝔠
+664663	+ et 𝔠
+664818	+ quoniam S 𝔠 𝔟
+665203	+ et 𝔠
+665462	+ et S C M E 𝔠 𝔟
+665558	+ et S C M E 𝔠 𝔟
+665719	+ sic S C M E 𝔠 𝔟
+665828	+ in (et 𝔠; vel E) singulis arboribus S C M E 𝔠 𝔟
+666019	+ et A
+666195	+ et A
+666692	+ sed Q B D
+666711	+ perveniant C Λ
+666734	+ in B C Λ

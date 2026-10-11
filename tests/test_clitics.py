@@ -19,57 +19,6 @@ def test_read_declared_reads_the_clitic_of_each_form_and_place_none_for_whole(tm
     )
 
 
-def test_treebank_divisions_read_divided_and_whole_forms_by_most_occurrences():
-    tokens = [
-        token("dixit", ""),
-        token("que"),
-        token("itaque"),
-        token("Deus"),
-        token("ne", ""),
-        token("que"),
-        token("neque"),
-        token("ne", ""),
-        token("que"),
-    ]
-    assert clitics.treebank_divisions(tokens) == {"dixitque": "que", "itaque": None, "neque": "que"}
-
-
-def test_divisions_follow_the_declaration_then_the_treebank_then_divide_que_only():
-    forms = [
-        "Dixitque",
-        "abiitque",
-        "aeque",
-        "itaque",
-        "neque",
-        "putasne",
-        "tune",
-        "grandine",
-        "triduumve",
-        "grave",
-        "mecum",
-        "que",
-        "et",
-    ]
-    treebank = {"itaque": None, "neque": "que", "putasne": "ne"}
-    declared = {"aeque": None, "tune": "ne", "triduumve": "ve", "mecum": "cum"}
-    assert clitics.divisions(forms, treebank, clitics.Declared(declared, {})) == {
-        "dixitque": "que",
-        "abiitque": "que",
-        "neque": "que",
-        "putasne": "ne",
-        "tune": "ne",
-        "triduumve": "ve",
-        "mecum": "cum",
-    }
-
-
-def test_divisions_reject_a_declared_form_the_text_lacks_or_the_treebank_decides():
-    with pytest.raises(ValueError, match="declared forms the text lacks: 'sicine'"):
-        clitics.divisions(["et"], {}, clitics.Declared({"sicine": "ne"}, {}))
-    with pytest.raises(ValueError, match="declared forms the treebank decides: 'neque'"):
-        clitics.divisions(["neque"], {"neque": "que"}, clitics.Declared({"neque": None}, {}))
-
-
 def test_divide_cuts_the_clitics_of_a_listed_form_and_leaves_other_forms_whole():
     table = {"dixitque": "que", "mecum": "cum", "huiusmodi": "modi", "tecumque": "que", "tecum": "cum"}
     assert clitics.divide("Dixitque", table) == ["Dixit", "que"]
@@ -79,6 +28,57 @@ def test_divide_cuts_the_clitics_of_a_listed_form_and_leaves_other_forms_whole()
     assert clitics.divide("itaque", table) == ["itaque"]
 
 
-def test_divisions_reject_a_declared_place_whose_form_the_treebank_decides():
-    with pytest.raises(ValueError, match="declared forms the treebank decides: 'neque'"):
-        clitics.divisions(["neque"], {"neque": "que"}, clitics.Declared({}, {("Mt", 5, 17, "neque"): None}))
+def test_divisions_follow_the_declaration_then_divide_que_only():
+    forms = [
+        "Dixitque",
+        "abiitque",
+        "aeque",
+        "neque",
+        "putasne",
+        "tune",
+        "grandine",
+        "triduumve",
+        "grave",
+        "mecum",
+        "que",
+    ]
+    declared = clitics.Declared({"aeque": None, "neque": None, "tune": "ne", "triduumve": "ve", "mecum": "cum"}, {})
+    assert clitics.divisions(forms, declared) == {
+        "dixitque": "que",
+        "abiitque": "que",
+        "tune": "ne",
+        "triduumve": "ve",
+        "mecum": "cum",
+    }
+
+
+def test_divisions_reject_a_declared_form_the_text_lacks():
+    with pytest.raises(ValueError, match="declared forms the text lacks: 'sicine'"):
+        clitics.divisions(["et"], clitics.Declared({"sicine": "ne"}, {}))
+
+
+def test_units_join_a_clitic_to_its_host_where_the_joined_form_is_a_written_word():
+    tokens = [
+        token("dixit", ""),
+        token("que"),
+        token("me", ""),
+        token("cum"),
+        token("est", ""),
+        token("cum"),
+        token("ne", ""),
+        token("que"),
+    ]
+    found = clitics.units(tokens, {"dixitque", "mecum", "neque", "cum"})
+    assert [[t.form for t in unit] for unit in found] == [
+        ["dixit", "que"],
+        ["me", "cum"],
+        ["est"],
+        ["cum"],
+        ["ne", "que"],
+    ]
+
+
+def test_cut_divides_a_form_into_its_host_and_the_given_clitics():
+    assert clitics.cut("Dixitque", ["que"]) == ["Dixit", "que"]
+    assert clitics.cut("tecumque", ["cum", "que"]) == ["te", "cum", "que"]
+    assert clitics.cut("neque", []) == ["neque"]

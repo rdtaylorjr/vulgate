@@ -16,9 +16,9 @@
 @values=indicative subjunctive imperative infinitive participle gerund gerundive supine NA unknown
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:06+00:00Z
+@dateWritten=2026-10-11T09:21:47+00:00Z
 
-516464	NA
+516531	NA
 NA
 NA
 NA
@@ -2557,7 +2557,7 @@ NA
 NA
 NA
 indicative
-519004	indicative
+519071	indicative
 NA
 NA
 indicative
@@ -2708,7 +2708,7 @@ NA
 indicative
 NA
 indicative
-519156	indicative
+519223	indicative
 indicative
 NA
 NA
@@ -4729,7 +4729,7 @@ indicative
 NA
 NA
 NA
-521178	NA
+521245	NA
 NA
 NA
 NA
@@ -8472,7 +8472,7 @@ NA
 NA
 indicative
 NA
-524923	NA
+524990	NA
 NA
 NA
 NA
@@ -8621,7 +8621,7 @@ NA
 NA
 infinitive
 subjunctive
-525073	NA
+525140	NA
 NA
 subjunctive
 NA
@@ -8931,7 +8931,7 @@ participle
 NA
 NA
 participle
-525402	NA
+525469	NA
 indicative
 NA
 NA
@@ -9384,7 +9384,7 @@ NA
 NA
 NA
 NA
-525857	NA
+525924	NA
 NA
 indicative
 NA
@@ -10101,9 +10101,7 @@ NA
 NA
 imperative
 imperative
-NA
-NA
-subjunctive
+526643	subjunctive
 NA
 NA
 NA
@@ -12248,8 +12246,7 @@ NA
 NA
 NA
 NA
-indicative
-528723	subjunctive
+528790	subjunctive
 NA
 NA
 NA
@@ -12291,7 +12288,7 @@ NA
 NA
 NA
 indicative
-528766	participle
+528833	participle
 indicative
 infinitive
 NA
@@ -12579,7 +12576,7 @@ NA
 NA
 NA
 indicative
-529055	NA
+529122	NA
 NA
 NA
 indicative
@@ -15794,7 +15791,7 @@ NA
 NA
 indicative
 imperative
-532271	NA
+532338	NA
 NA
 NA
 NA
@@ -17143,7 +17140,8 @@ NA
 NA
 NA
 subjunctive
-533622	NA
+NA
+NA
 NA
 NA
 indicative
@@ -17864,7 +17862,8 @@ NA
 NA
 NA
 subjunctive
-534345	NA
+NA
+NA
 infinitive
 NA
 NA
@@ -17924,7 +17923,7 @@ NA
 NA
 NA
 NA
-534406	NA
+534471	NA
 subjunctive
 NA
 indicative
@@ -17936,7 +17935,7 @@ NA
 NA
 indicative
 NA
-534419	NA
+534484	NA
 participle
 indicative
 NA
@@ -18407,7 +18406,7 @@ NA
 NA
 NA
 subjunctive
-534891	participle
+534956	participle
 indicative
 NA
 NA
@@ -18714,7 +18713,8 @@ indicative
 NA
 NA
 NA
-535200	NA
+NA
+NA
 NA
 NA
 NA
@@ -18926,7 +18926,9 @@ subjunctive
 NA
 NA
 NA
-535413	subjunctive
+NA
+NA
+subjunctive
 NA
 indicative
 NA
@@ -19062,7 +19064,7 @@ NA
 indicative
 NA
 NA
-535550	NA
+535615	NA
 indicative
 NA
 NA
@@ -19110,7 +19112,7 @@ NA
 NA
 participle
 NA
-535599	NA
+535664	NA
 NA
 NA
 indicative
@@ -19211,7 +19213,7 @@ indicative
 NA
 imperative
 infinitive
-535701	imperative
+535766	imperative
 NA
 NA
 indicative
@@ -19496,7 +19498,7 @@ NA
 NA
 indicative
 NA
-535987	indicative
+536052	indicative
 NA
 participle
 NA
@@ -19616,7 +19618,7 @@ NA
 indicative
 infinitive
 NA
-536108	indicative
+536173	indicative
 NA
 NA
 indicative
@@ -19655,7 +19657,9 @@ NA
 NA
 NA
 NA
-536148	subjunctive
+NA
+NA
+subjunctive
 NA
 NA
 NA
@@ -19704,7 +19708,9 @@ indicative
 NA
 NA
 NA
-536198	subjunctive
+NA
+NA
+subjunctive
 NA
 NA
 NA
@@ -19726,7 +19732,7 @@ NA
 participle
 NA
 NA
-536221	NA
+536288	NA
 NA
 NA
 participle
@@ -20134,7 +20140,9 @@ NA
 NA
 NA
 indicative
-536630	participle
+NA
+NA
+participle
 subjunctive
 NA
 NA
@@ -20744,7 +20752,7 @@ NA
 NA
 NA
 subjunctive
-537241	subjunctive
+537309	subjunctive
 NA
 subjunctive
 participle
@@ -20760,7 +20768,7 @@ NA
 NA
 indicative
 NA
-537258	indicative
+537326	indicative
 NA
 subjunctive
 NA
@@ -20960,7 +20968,7 @@ NA
 indicative
 NA
 indicative
-537459	indicative
+537527	indicative
 NA
 participle
 indicative
@@ -20975,7 +20983,7 @@ NA
 participle
 NA
 indicative
-537475	indicative
+537543	indicative
 NA
 NA
 NA
@@ -21793,7 +21801,7 @@ NA
 participle
 indicative
 NA
-538294	indicative
+538362	indicative
 NA
 infinitive
 indicative
@@ -22492,7 +22500,7 @@ NA
 indicative
 participle
 NA
-538994	NA
+539062	NA
 NA
 NA
 indicative
@@ -23117,7 +23125,9 @@ subjunctive
 NA
 NA
 indicative
-539620	subjunctive
+NA
+NA
+subjunctive
 NA
 NA
 NA
@@ -23455,7 +23465,8 @@ participle
 NA
 indicative
 NA
-539960	NA
+NA
+NA
 indicative
 NA
 NA
@@ -23592,7 +23603,7 @@ NA
 indicative
 NA
 NA
-540098	NA
+540166	NA
 NA
 indicative
 NA
@@ -23662,7 +23673,7 @@ NA
 NA
 indicative
 NA
-540169	NA
+540237	NA
 indicative
 NA
 NA
@@ -24341,7 +24352,7 @@ NA
 NA
 imperative
 NA
-540849	NA
+540917	NA
 indicative
 NA
 NA
@@ -24457,7 +24468,7 @@ NA
 subjunctive
 NA
 NA
-540966	subjunctive
+541034	subjunctive
 NA
 subjunctive
 NA
@@ -24818,7 +24829,7 @@ NA
 NA
 participle
 NA
-541328	NA
+541396	NA
 NA
 participle
 NA
@@ -25594,7 +25605,7 @@ NA
 NA
 NA
 subjunctive
-542105	indicative
+542173	indicative
 NA
 NA
 NA
@@ -26207,7 +26218,7 @@ NA
 indicative
 NA
 imperative
-542719	NA
+542787	NA
 participle
 NA
 NA
@@ -27751,7 +27762,7 @@ infinitive
 NA
 NA
 NA
-544264	NA
+544332	NA
 indicative
 NA
 NA
@@ -28395,7 +28406,7 @@ NA
 NA
 NA
 NA
-544910	NA
+544978	NA
 NA
 indicative
 NA
@@ -31964,7 +31975,7 @@ NA
 NA
 indicative
 NA
-548480	NA
+548548	NA
 NA
 participle
 NA
@@ -32573,7 +32584,7 @@ NA
 NA
 NA
 subjunctive
-549090	NA
+549158	NA
 NA
 NA
 subjunctive
@@ -33078,7 +33089,7 @@ indicative
 NA
 NA
 NA
-549596	NA
+549664	NA
 NA
 indicative
 infinitive
@@ -34359,7 +34370,7 @@ indicative
 NA
 NA
 NA
-550879	NA
+550947	NA
 indicative
 NA
 NA
@@ -34606,7 +34617,7 @@ indicative
 participle
 indicative
 NA
-551128	NA
+551196	NA
 NA
 participle
 NA
@@ -36395,7 +36406,8 @@ NA
 NA
 NA
 NA
-552919	NA
+NA
+NA
 NA
 indicative
 indicative
@@ -37128,7 +37140,7 @@ NA
 NA
 indicative
 participle
-553653	NA
+553720	NA
 indicative
 NA
 infinitive
@@ -39187,10 +39199,11 @@ NA
 NA
 NA
 indicative
-555714	NA
 NA
 NA
 NA
+NA
+NA
 indicative
 indicative
 NA
@@ -39796,7 +39809,7 @@ NA
 NA
 NA
 indicative
-556324	NA
+556390	NA
 indicative
 NA
 NA
@@ -43815,7 +43828,7 @@ indicative
 NA
 NA
 imperative
-560344	NA
+560410	NA
 NA
 NA
 participle
@@ -45943,7 +45956,7 @@ NA
 NA
 NA
 indicative
-562473	NA
+562539	NA
 NA
 NA
 NA
@@ -46697,7 +46710,8 @@ indicative
 NA
 NA
 NA
-563229	NA
+NA
+NA
 NA
 subjunctive
 indicative
@@ -47787,7 +47801,7 @@ NA
 indicative
 NA
 NA
-564320	NA
+564385	NA
 NA
 indicative
 NA
@@ -47795,7 +47809,7 @@ NA
 NA
 infinitive
 NA
-564329	NA
+564394	NA
 NA
 NA
 indicative
@@ -47967,10 +47981,7 @@ NA
 NA
 indicative
 NA
-NA
-NA
-NA
-NA
+564568	NA
 NA
 NA
 indicative
@@ -48375,7 +48386,7 @@ subjunctive
 NA
 NA
 NA
-564911	NA
+564975	NA
 NA
 indicative
 NA
@@ -49061,7 +49072,7 @@ participle
 NA
 NA
 NA
-565598	NA
+565662	NA
 NA
 subjunctive
 NA
@@ -49280,7 +49291,8 @@ imperative
 NA
 NA
 NA
-565819	NA
+NA
+NA
 NA
 NA
 indicative
@@ -49463,7 +49475,7 @@ NA
 subjunctive
 NA
 NA
-566003	NA
+566066	NA
 indicative
 NA
 NA
@@ -50339,7 +50351,7 @@ NA
 NA
 NA
 indicative
-566880	NA
+566943	NA
 NA
 indicative
 NA
@@ -52728,7 +52740,7 @@ NA
 NA
 participle
 NA
-569270	NA
+569333	NA
 indicative
 NA
 NA
@@ -52916,7 +52928,7 @@ NA
 NA
 indicative
 NA
-569459	indicative
+569522	indicative
 NA
 indicative
 NA
@@ -52934,7 +52946,7 @@ subjunctive
 NA
 NA
 NA
-569478	NA
+569541	NA
 NA
 indicative
 NA
@@ -53329,7 +53341,7 @@ NA
 NA
 indicative
 NA
-569874	NA
+569937	NA
 indicative
 NA
 NA
@@ -54344,7 +54356,7 @@ NA
 indicative
 NA
 NA
-570890	NA
+570953	NA
 NA
 NA
 indicative
@@ -54471,7 +54483,7 @@ NA
 NA
 indicative
 NA
-571019	subjunctive
+571082	subjunctive
 NA
 NA
 indicative
@@ -54710,7 +54722,7 @@ NA
 NA
 indicative
 NA
-571259	indicative
+571322	indicative
 NA
 NA
 NA
@@ -55035,7 +55047,7 @@ indicative
 infinitive
 NA
 NA
-571585	NA
+571648	NA
 NA
 indicative
 NA
@@ -55613,7 +55625,7 @@ NA
 NA
 indicative
 NA
-572164	NA
+572227	NA
 NA
 NA
 indicative
@@ -56056,7 +56068,7 @@ NA
 NA
 NA
 NA
-572608	NA
+572671	NA
 NA
 NA
 indicative
@@ -56221,7 +56233,7 @@ NA
 NA
 participle
 NA
-572774	NA
+572837	NA
 NA
 indicative
 NA
@@ -56961,287 +56973,6 @@ NA
 indicative
 NA
 NA
-NA
-NA
-NA
-indicative
-infinitive
-NA
-NA
-NA
-NA
-subjunctive
-NA
-indicative
-participle
-NA
-subjunctive
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-573552	NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-indicative
-participle
-imperative
-imperative
-indicative
-NA
-NA
-imperative
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
 NA
 NA
 NA
@@ -57251,7 +56982,69 @@ NA
 NA
 NA
 NA
+subjunctive
+NA
 indicative
+participle
+NA
+subjunctive
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+573615	NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 subjunctive
@@ -57259,7 +57052,36 @@ NA
 NA
 NA
 NA
+subjunctive
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
 indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
 NA
 participle
 indicative
@@ -57270,43 +57092,77 @@ indicative
 NA
 NA
 NA
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
 indicative
 NA
 NA
 NA
 NA
+subjunctive
 NA
 indicative
-NA
-indicative
-NA
-NA
 NA
 NA
 NA
 indicative
-indicative
-NA
-NA
-indicative
-infinitive
 NA
 NA
 NA
 indicative
-infinitive
+NA
+NA
 NA
 indicative
+NA
+NA
+NA
 NA
 NA
 subjunctive
 NA
 NA
 NA
-NA
-NA
+indicative
 NA
 subjunctive
+NA
+NA
+NA
+indicative
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
 participle
 NA
 NA
@@ -57316,28 +57172,30 @@ NA
 NA
 NA
 NA
-indicative
 NA
 indicative
 NA
-infinitive
-NA
-NA
 NA
 indicative
-participle
 NA
 NA
-indicative
 NA
 indicative
 NA
 NA
 NA
 NA
+indicative
 NA
 NA
 indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
 indicative
 NA
 NA
@@ -57346,23 +57204,14 @@ NA
 subjunctive
 NA
 NA
-indicative
 NA
 NA
 NA
 indicative
-NA
-NA
-NA
-NA
-NA
 indicative
 NA
 NA
-NA
-NA
-indicative
-NA
+participle
 NA
 NA
 NA
@@ -57375,929 +57224,16 @@ NA
 NA
 NA
 NA
+subjunctive
+NA
+NA
+NA
 NA
 indicative
+participle
 imperative
 imperative
-imperative
-NA
 indicative
-NA
-NA
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-NA
-indicative
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-indicative
-NA
-NA
-indicative
-participle
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-imperative
-infinitive
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-subjunctive
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-subjunctive
-NA
-NA
-NA
-subjunctive
-NA
-NA
-subjunctive
-participle
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-indicative
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-subjunctive
-NA
-indicative
-indicative
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-indicative
-participle
-indicative
-NA
-participle
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-subjunctive
-NA
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-subjunctive
-participle
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-infinitive
-indicative
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-indicative
-participle
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-participle
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-infinitive
-indicative
-NA
-NA
-NA
-574540	NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-participle
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-subjunctive
-participle
-indicative
-NA
-NA
-indicative
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-participle
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-imperative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-indicative
-NA
-NA
-NA
-participle
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-imperative
-NA
-infinitive
-NA
-NA
-infinitive
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-NA
-NA
-imperative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-participle
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-indicative
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-participle
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-subjunctive
-indicative
-NA
-indicative
-NA
-imperative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-imperative
-NA
-NA
 NA
 NA
 imperative
@@ -58308,109 +57244,11 @@ imperative
 NA
 NA
 NA
-imperative
-NA
-NA
-NA
-NA
-imperative
-infinitive
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
 indicative
 NA
 NA
 NA
 indicative
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-participle
-NA
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-subjunctive
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-subjunctive
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
 NA
 NA
 NA
@@ -58421,6 +57259,1180 @@ NA
 NA
 indicative
 infinitive
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+indicative
+NA
+participle
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+indicative
+infinitive
+NA
+NA
+NA
+indicative
+infinitive
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+participle
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+infinitive
+NA
+NA
+NA
+indicative
+participle
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+imperative
+imperative
+imperative
+NA
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+NA
+indicative
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+participle
+indicative
+NA
+NA
+indicative
+participle
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+imperative
+infinitive
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+subjunctive
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+subjunctive
+NA
+NA
+NA
+subjunctive
+NA
+NA
+subjunctive
+participle
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+indicative
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+subjunctive
+NA
+indicative
+indicative
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+indicative
+participle
+indicative
+NA
+participle
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+subjunctive
+participle
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+infinitive
+indicative
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+indicative
+participle
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+participle
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+infinitive
+indicative
+NA
+NA
+NA
+574603	NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+participle
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+subjunctive
+participle
+indicative
+NA
+NA
+indicative
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+participle
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+imperative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+indicative
+NA
+NA
+NA
+participle
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+imperative
+NA
+infinitive
+NA
+NA
+infinitive
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+NA
+NA
+imperative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+participle
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+participle
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+indicative
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+participle
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+subjunctive
+indicative
+NA
+indicative
+NA
+imperative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+participle
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+imperative
+NA
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+NA
+imperative
+infinitive
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+participle
+NA
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+subjunctive
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+subjunctive
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+infinitive
 indicative
 NA
 indicative
@@ -58565,7 +58577,7 @@ NA
 NA
 NA
 NA
-575123	NA
+575186	NA
 NA
 NA
 subjunctive
@@ -59132,7 +59144,7 @@ NA
 NA
 NA
 NA
-575692	NA
+575755	NA
 NA
 indicative
 infinitive
@@ -59793,7 +59805,7 @@ subjunctive
 NA
 subjunctive
 NA
-576354	subjunctive
+576417	subjunctive
 NA
 NA
 NA
@@ -60694,7 +60706,7 @@ NA
 NA
 NA
 NA
-577256	NA
+577319	NA
 NA
 NA
 indicative
@@ -61035,7 +61047,7 @@ NA
 NA
 NA
 NA
-577598	NA
+577661	NA
 NA
 NA
 indicative
@@ -67204,7 +67216,7 @@ NA
 NA
 NA
 NA
-583768	NA
+583831	NA
 indicative
 participle
 NA
@@ -69086,7 +69098,7 @@ NA
 NA
 NA
 indicative
-585651	NA
+585714	NA
 NA
 indicative
 participle
@@ -69714,7 +69726,8 @@ NA
 NA
 NA
 NA
-586281	NA
+NA
+NA
 NA
 NA
 indicative
@@ -70689,7 +70702,7 @@ NA
 NA
 subjunctive
 NA
-587258	subjunctive
+587320	subjunctive
 NA
 NA
 subjunctive
@@ -70748,7 +70761,7 @@ NA
 NA
 NA
 indicative
-587318	indicative
+587380	indicative
 NA
 NA
 NA
@@ -70801,7 +70814,7 @@ NA
 NA
 NA
 indicative
-587373	subjunctive
+587435	subjunctive
 NA
 NA
 NA
@@ -71454,7 +71467,7 @@ participle
 NA
 NA
 imperative
-588051	indicative
+588113	indicative
 NA
 NA
 NA
@@ -71597,7 +71610,7 @@ NA
 indicative
 NA
 indicative
-588212	NA
+588274	NA
 indicative
 NA
 NA
@@ -71891,7 +71904,7 @@ NA
 NA
 NA
 NA
-588518	NA
+588580	NA
 NA
 NA
 indicative
@@ -71925,7 +71938,7 @@ infinitive
 NA
 participle
 NA
-588565	NA
+588627	NA
 NA
 indicative
 NA
@@ -72299,7 +72312,7 @@ indicative
 NA
 NA
 NA
-588947	NA
+589009	NA
 NA
 NA
 NA
@@ -73019,7 +73032,7 @@ NA
 subjunctive
 NA
 NA
-589701	indicative
+589763	indicative
 NA
 NA
 NA
@@ -73042,7 +73055,7 @@ NA
 NA
 infinitive
 NA
-589725	NA
+589787	NA
 infinitive
 NA
 NA
@@ -73242,7 +73255,7 @@ NA
 NA
 indicative
 infinitive
-589954	indicative
+590013	indicative
 NA
 infinitive
 NA
@@ -73596,7 +73609,7 @@ indicative
 NA
 infinitive
 NA
-590309	NA
+590368	NA
 NA
 NA
 participle
@@ -73716,7 +73729,7 @@ NA
 NA
 NA
 indicative
-590458	NA
+590517	NA
 NA
 subjunctive
 indicative
@@ -74006,7 +74019,7 @@ NA
 NA
 NA
 indicative
-590763	indicative
+590821	indicative
 NA
 NA
 NA
@@ -74025,7 +74038,7 @@ NA
 infinitive
 NA
 NA
-590810	NA
+590868	NA
 indicative
 NA
 NA
@@ -74520,7 +74533,7 @@ NA
 indicative
 NA
 infinitive
-591329	NA
+591387	NA
 NA
 NA
 NA
@@ -74559,7 +74572,7 @@ NA
 indicative
 NA
 participle
-591384	NA
+591442	NA
 NA
 NA
 subjunctive
@@ -74833,7 +74846,7 @@ indicative
 NA
 infinitive
 NA
-591674	indicative
+591732	indicative
 NA
 NA
 NA
@@ -74961,7 +74974,7 @@ participle
 indicative
 NA
 infinitive
-591803	NA
+591861	NA
 participle
 NA
 NA
@@ -75128,7 +75141,7 @@ NA
 NA
 NA
 indicative
-591993	imperative
+592052	imperative
 NA
 NA
 NA
@@ -75145,7 +75158,7 @@ indicative
 NA
 NA
 indicative
-592039	participle
+592098	participle
 NA
 subjunctive
 NA
@@ -75563,7 +75576,7 @@ subjunctive
 NA
 NA
 NA
-592458	NA
+592517	NA
 NA
 indicative
 NA
@@ -75630,7 +75643,7 @@ indicative
 NA
 NA
 NA
-592526	NA
+592585	NA
 participle
 NA
 NA
@@ -76090,10 +76103,7 @@ NA
 NA
 NA
 NA
-indicative
-NA
-NA
-NA
+593047	NA
 NA
 NA
 NA
@@ -76721,7 +76731,7 @@ NA
 NA
 indicative
 NA
-593618	NA
+593676	NA
 NA
 NA
 NA
@@ -78122,7 +78132,7 @@ NA
 NA
 NA
 indicative
-595020	NA
+595078	NA
 indicative
 NA
 NA
@@ -79729,7 +79739,7 @@ NA
 infinitive
 NA
 imperative
-596639	imperative
+596697	imperative
 NA
 NA
 NA
@@ -80061,22 +80071,28 @@ participle
 indicative
 NA
 participle
-596972	NA
 NA
 NA
 NA
-596977	NA
-NA
-gerund
-596981	NA
-indicative
 NA
 NA
 NA
-indicative
+NA
+NA
+NA
 NA
 gerund
 NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+gerund
+NA
 indicative
 NA
 NA
@@ -80147,7 +80163,7 @@ imperative
 infinitive
 NA
 NA
-597061	NA
+597122	NA
 NA
 NA
 NA
@@ -80177,7 +80193,7 @@ NA
 NA
 participle
 NA
-597092	NA
+597153	NA
 participle
 NA
 NA
@@ -80395,7 +80411,7 @@ NA
 NA
 indicative
 NA
-597322	NA
+597383	NA
 NA
 NA
 indicative
@@ -80557,16 +80573,24 @@ NA
 NA
 NA
 indicative
-597485	NA
+NA
+NA
+NA
 indicative
 NA
 indicative
-597490	indicative
+NA
 NA
 indicative
-597494	NA
+NA
 indicative
-597497	indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
 NA
 indicative
 NA
@@ -80771,7 +80795,7 @@ NA
 NA
 indicative
 NA
-597703	NA
+597768	NA
 imperative
 NA
 NA
@@ -80779,7 +80803,7 @@ NA
 NA
 NA
 indicative
-597712	NA
+597777	NA
 NA
 NA
 NA
@@ -82269,9 +82293,9 @@ NA
 NA
 NA
 indicative
-599203	NA
+599268	NA
 indicative
-599206	NA
+599271	NA
 NA
 NA
 indicative
@@ -82759,7 +82783,8 @@ NA
 NA
 NA
 NA
-599696	NA
+NA
+NA
 NA
 indicative
 NA
@@ -83244,7 +83269,7 @@ NA
 NA
 NA
 NA
-600182	NA
+600246	NA
 infinitive
 NA
 NA
@@ -85008,7 +85033,8 @@ NA
 NA
 NA
 indicative
-601948	NA
+NA
+NA
 NA
 subjunctive
 NA
@@ -85026,7 +85052,8 @@ infinitive
 NA
 indicative
 infinitive
-601968	subjunctive
+NA
+subjunctive
 NA
 NA
 NA
@@ -85040,7 +85067,8 @@ NA
 NA
 NA
 NA
-601984	subjunctive
+NA
+subjunctive
 NA
 NA
 NA
@@ -85050,7 +85078,8 @@ NA
 NA
 NA
 indicative
-601996	subjunctive
+NA
+subjunctive
 NA
 NA
 NA
@@ -85319,9 +85348,13 @@ NA
 NA
 NA
 indicative
-602266	NA
+NA
+NA
+NA
 indicative
-602269	indicative
+NA
+NA
+indicative
 NA
 NA
 NA
@@ -85529,7 +85562,7 @@ NA
 participle
 infinitive
 NA
-602478	NA
+602540	NA
 NA
 indicative
 NA
@@ -85790,7 +85823,7 @@ indicative
 NA
 NA
 NA
-602740	NA
+602802	NA
 subjunctive
 NA
 NA
@@ -86170,7 +86203,9 @@ NA
 indicative
 NA
 NA
-603121	indicative
+NA
+NA
+indicative
 NA
 NA
 indicative
@@ -86351,11 +86386,17 @@ indicative
 NA
 NA
 indicative
-603303	NA
+NA
+NA
+NA
 indicative
-603306	NA
+NA
+NA
+NA
 indicative
-603309	NA
+NA
+NA
+NA
 indicative
 NA
 NA
@@ -86468,7 +86509,7 @@ NA
 NA
 indicative
 NA
-603423	NA
+603489	NA
 indicative
 NA
 NA
@@ -86837,7 +86878,9 @@ NA
 NA
 NA
 subjunctive
-603793	NA
+NA
+NA
+NA
 NA
 indicative
 NA
@@ -87134,25 +87177,8 @@ NA
 NA
 NA
 NA
-604091	NA
-NA
-604094	NA
-NA
-indicative
 NA
 NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
 NA
 NA
 NA
@@ -87162,11 +87188,33 @@ NA
 indicative
 NA
 NA
+indicative
 NA
 NA
 NA
 indicative
-604126	NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
 indicative
 NA
 NA
@@ -88163,14 +88211,18 @@ NA
 indicative
 NA
 NA
-605124	NA
+NA
+NA
+NA
 indicative
 NA
 NA
 NA
 NA
 NA
-605132	indicative
+NA
+NA
+indicative
 NA
 NA
 NA
@@ -88803,7 +88855,7 @@ NA
 indicative
 indicative
 NA
-605766	NA
+605836	NA
 infinitive
 NA
 NA
@@ -89105,7 +89157,7 @@ NA
 NA
 NA
 participle
-606069	NA
+606139	NA
 NA
 NA
 NA
@@ -89146,7 +89198,7 @@ NA
 NA
 NA
 NA
-606111	NA
+606181	NA
 indicative
 NA
 NA
@@ -89552,11 +89604,15 @@ NA
 NA
 NA
 NA
-606518	NA
+NA
+NA
+NA
 NA
 indicative
 NA
-606523	NA
+NA
+NA
+NA
 indicative
 NA
 NA
@@ -89739,7 +89795,7 @@ NA
 NA
 NA
 subjunctive
-606707	NA
+606779	NA
 NA
 NA
 NA
@@ -89957,7 +90013,7 @@ NA
 NA
 NA
 NA
-606928	NA
+607000	NA
 NA
 participle
 NA
@@ -90183,7 +90239,7 @@ NA
 NA
 indicative
 NA
-607155	NA
+607227	NA
 NA
 NA
 participle
@@ -90338,7 +90394,7 @@ NA
 NA
 indicative
 NA
-607311	NA
+607383	NA
 indicative
 NA
 NA
@@ -91122,11 +91178,11 @@ NA
 NA
 NA
 NA
-608096	NA
+608168	NA
 participle
 NA
 participle
-608101	NA
+608173	NA
 NA
 NA
 NA
@@ -91967,7 +92023,7 @@ NA
 indicative
 NA
 NA
-608943	NA
+609015	NA
 indicative
 NA
 NA
@@ -92030,7 +92086,7 @@ NA
 NA
 indicative
 NA
-609007	NA
+609079	NA
 NA
 indicative
 NA
@@ -92167,7 +92223,7 @@ indicative
 NA
 NA
 NA
-609146	participle
+609218	participle
 indicative
 NA
 NA
@@ -92192,7 +92248,7 @@ NA
 NA
 NA
 NA
-609172	NA
+609244	NA
 imperative
 NA
 indicative
@@ -92382,7 +92438,7 @@ NA
 NA
 NA
 indicative
-609363	NA
+609435	NA
 NA
 NA
 NA
@@ -92519,7 +92575,7 @@ NA
 NA
 NA
 NA
-609532	NA
+609604	NA
 NA
 indicative
 NA
@@ -92664,8 +92720,9 @@ NA
 indicative
 NA
 NA
-609689	NA
-609692	NA
+609761	NA
+NA
+NA
 NA
 NA
 NA
@@ -92696,8 +92753,8 @@ NA
 NA
 NA
 subjunctive
-609736	NA
-609738	NA
+609806	NA
+609808	NA
 NA
 indicative
 infinitive
@@ -92719,7 +92776,7 @@ NA
 indicative
 NA
 indicative
-609831	NA
+609901	NA
 NA
 subjunctive
 NA
@@ -92845,7 +92902,7 @@ NA
 indicative
 NA
 NA
-609973	subjunctive
+610043	subjunctive
 NA
 NA
 NA
@@ -92880,7 +92937,7 @@ NA
 NA
 NA
 NA
-610028	NA
+610098	NA
 indicative
 NA
 NA
@@ -92979,7 +93036,7 @@ NA
 indicative
 NA
 NA
-610139	indicative
+610209	indicative
 NA
 NA
 NA
@@ -93049,7 +93106,7 @@ NA
 indicative
 NA
 NA
-610243	NA
+610313	NA
 NA
 NA
 indicative
@@ -93430,7 +93487,7 @@ NA
 NA
 NA
 indicative
-610654	NA
+610723	NA
 indicative
 NA
 NA
@@ -93683,7 +93740,7 @@ NA
 NA
 NA
 infinitive
-610919	indicative
+610988	indicative
 NA
 NA
 NA
@@ -93715,7 +93772,7 @@ NA
 NA
 NA
 indicative
-610969	indicative
+611036	indicative
 NA
 NA
 NA
@@ -93940,7 +93997,7 @@ NA
 participle
 NA
 participle
-611220	NA
+611287	NA
 NA
 NA
 imperative
@@ -93970,7 +94027,7 @@ NA
 NA
 NA
 NA
-611251	NA
+611318	NA
 NA
 NA
 indicative
@@ -94001,7 +94058,7 @@ infinitive
 NA
 NA
 indicative
-611300	NA
+611367	NA
 NA
 indicative
 NA
@@ -94058,7 +94115,7 @@ NA
 NA
 NA
 subjunctive
-611373	NA
+611439	NA
 NA
 subjunctive
 infinitive
@@ -94712,7 +94769,7 @@ NA
 NA
 subjunctive
 NA
-612028	NA
+612094	NA
 NA
 NA
 NA
@@ -94731,7 +94788,7 @@ NA
 participle
 NA
 NA
-612048	NA
+612114	NA
 NA
 participle
 indicative
@@ -94814,7 +94871,7 @@ NA
 NA
 NA
 NA
-612197	NA
+612263	NA
 participle
 indicative
 NA
@@ -94841,7 +94898,7 @@ NA
 NA
 NA
 infinitive
-612225	NA
+612291	NA
 NA
 NA
 infinitive
@@ -95128,7 +95185,7 @@ NA
 NA
 subjunctive
 NA
-612590	NA
+612656	NA
 NA
 NA
 NA
@@ -95191,7 +95248,7 @@ NA
 NA
 NA
 participle
-612654	NA
+612720	NA
 indicative
 NA
 NA
@@ -95298,7 +95355,7 @@ NA
 subjunctive
 NA
 participle
-612780	NA
+612846	NA
 imperative
 infinitive
 NA
@@ -95370,7 +95427,7 @@ NA
 NA
 NA
 NA
-612881	NA
+612947	NA
 NA
 imperative
 participle
@@ -95419,54 +95476,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-612952	NA
-imperative
-infinitive
-NA
-NA
-NA
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-infinitive
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-indicative
-imperative
-NA
-indicative
-NA
-imperative
-NA
-NA
-NA
-indicative
 NA
 NA
 613018	NA
@@ -95474,6 +95483,54 @@ imperative
 infinitive
 NA
 NA
+NA
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+infinitive
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+indicative
+imperative
+NA
+indicative
+NA
+imperative
+NA
+NA
+NA
+indicative
+NA
+NA
+613084	NA
+imperative
+infinitive
+NA
+NA
 participle
 NA
 subjunctive
@@ -95491,7 +95548,7 @@ NA
 imperative
 NA
 participle
-613041	NA
+613107	NA
 NA
 NA
 NA
@@ -95843,561 +95900,6 @@ NA
 NA
 NA
 NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-subjunctive
-infinitive
-NA
-NA
-NA
-NA
-NA
-participle
-infinitive
-imperative
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-indicative
-NA
-infinitive
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-indicative
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-indicative
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-subjunctive
-613725	NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-infinitive
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-participle
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-participle
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-indicative
-613891	NA
-NA
-infinitive
-NA
-indicative
-NA
-infinitive
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-subjunctive
-indicative
-indicative
-NA
-NA
-NA
-NA
-participle
-infinitive
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-infinitive
-NA
-NA
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-NA
-participle
-indicative
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-subjunctive
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-imperative
-NA
-NA
-NA
-indicative
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-indicative
-NA
-NA
-NA
-participle
-NA
-NA
-614041	NA
 NA
 NA
 NA
@@ -96420,6 +95922,561 @@ imperative
 NA
 NA
 NA
+subjunctive
+infinitive
+NA
+NA
+NA
+NA
+NA
+participle
+infinitive
+imperative
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+indicative
+NA
+infinitive
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+indicative
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+subjunctive
+613791	NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+infinitive
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+participle
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+participle
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+indicative
+613957	NA
+NA
+infinitive
+NA
+indicative
+NA
+infinitive
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+subjunctive
+indicative
+indicative
+NA
+NA
+NA
+NA
+participle
+infinitive
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+infinitive
+NA
+NA
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+NA
+participle
+indicative
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+subjunctive
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
+indicative
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+indicative
+NA
+NA
+NA
+participle
+NA
+NA
+614107	NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+imperative
+NA
+NA
+NA
 NA
 subjunctive
 NA
@@ -96480,7 +96537,7 @@ NA
 NA
 NA
 NA
-614125	NA
+614191	NA
 indicative
 NA
 NA
@@ -96495,7 +96552,7 @@ participle
 NA
 NA
 indicative
-614141	NA
+614207	NA
 participle
 participle
 NA
@@ -97138,7 +97195,7 @@ NA
 NA
 NA
 indicative
-614814	NA
+614880	NA
 NA
 NA
 NA
@@ -97591,7 +97648,7 @@ NA
 NA
 NA
 NA
-615337	NA
+615403	NA
 indicative
 NA
 NA
@@ -97936,7 +97993,7 @@ subjunctive
 NA
 NA
 NA
-615707	NA
+615773	NA
 NA
 indicative
 NA
@@ -97988,8 +98045,8 @@ NA
 NA
 NA
 NA
-615792	NA
-615804	NA
+615858	NA
+615870	NA
 NA
 participle
 subjunctive
@@ -98034,7 +98091,7 @@ NA
 participle
 NA
 NA
-615850	NA
+615916	NA
 NA
 NA
 NA
@@ -98154,7 +98211,7 @@ NA
 NA
 NA
 NA
-616593	NA
+616659	NA
 NA
 NA
 NA
@@ -98433,8 +98490,7 @@ NA
 NA
 NA
 NA
-indicative
-616874	participle
+616940	participle
 NA
 NA
 NA
@@ -99370,8 +99426,12 @@ indicative
 NA
 NA
 NA
-617811	subjunctive
-617813	subjunctive
+NA
+NA
+subjunctive
+NA
+NA
+subjunctive
 NA
 NA
 NA
@@ -100176,7 +100236,7 @@ subjunctive
 NA
 NA
 NA
-618619	NA
+618687	NA
 NA
 subjunctive
 NA
@@ -100198,7 +100258,7 @@ NA
 NA
 indicative
 infinitive
-618642	subjunctive
+618710	subjunctive
 indicative
 NA
 NA
@@ -100299,7 +100359,7 @@ NA
 NA
 NA
 NA
-619548	NA
+619612	NA
 NA
 NA
 NA
@@ -100320,7 +100380,7 @@ NA
 indicative
 NA
 NA
-620107	NA
+620170	NA
 NA
 NA
 NA
@@ -100336,14 +100396,14 @@ subjunctive
 NA
 NA
 indicative
-620622	NA
+620683	NA
 NA
 NA
 indicative
 NA
 NA
 indicative
-620840	NA
+620901	NA
 NA
 NA
 NA
@@ -100365,7 +100425,7 @@ NA
 indicative
 NA
 NA
-620975	NA
+621036	NA
 NA
 imperative
 NA
@@ -100375,7 +100435,7 @@ NA
 indicative
 NA
 NA
-621199	indicative
+621260	indicative
 NA
 NA
 NA
@@ -100461,7 +100521,7 @@ NA
 indicative
 NA
 indicative
-621312	imperative
+621373	imperative
 infinitive
 NA
 NA
@@ -100886,7 +100946,7 @@ NA
 NA
 NA
 NA
-621920	imperative
+621981	imperative
 NA
 NA
 NA
@@ -101422,7 +101482,7 @@ NA
 NA
 NA
 NA
-622593	NA
+622654	NA
 indicative
 NA
 NA
@@ -101433,7 +101493,7 @@ NA
 NA
 NA
 NA
-622742	NA
+622803	NA
 NA
 NA
 indicative
@@ -101443,14 +101503,14 @@ NA
 NA
 NA
 indicative
-622808	NA
+622869	NA
 NA
 NA
 indicative
 NA
 NA
 NA
-623267	NA
+623328	NA
 NA
 NA
 participle
@@ -101458,7 +101518,7 @@ indicative
 NA
 NA
 NA
-623563	NA
+623624	NA
 NA
 NA
 indicative
@@ -101469,11 +101529,11 @@ NA
 NA
 NA
 NA
-623575	NA
+623636	NA
 infinitive
 NA
 NA
-623728	NA
+623789	NA
 NA
 NA
 NA
@@ -101483,7 +101543,7 @@ NA
 indicative
 NA
 NA
-624097	imperative
+624156	imperative
 NA
 NA
 subjunctive
@@ -101496,7 +101556,7 @@ NA
 NA
 NA
 NA
-624189	NA
+624248	NA
 NA
 NA
 NA
@@ -101506,7 +101566,7 @@ NA
 indicative
 NA
 NA
-624364	NA
+624423	NA
 NA
 NA
 NA
@@ -101514,7 +101574,7 @@ NA
 participle
 indicative
 NA
-625597	NA
+625654	NA
 NA
 participle
 participle
@@ -101533,7 +101593,7 @@ NA
 NA
 participle
 NA
-625987	NA
+626044	NA
 NA
 NA
 NA
@@ -101542,18 +101602,18 @@ NA
 NA
 NA
 NA
-626227	NA
+626284	NA
 NA
 NA
 indicative
 NA
-626811	NA
+626866	NA
 NA
 NA
 NA
 imperative
 infinitive
-627580	NA
+627635	NA
 NA
 NA
 NA
@@ -101566,7 +101626,7 @@ participle
 indicative
 NA
 NA
-627636	NA
+627691	NA
 indicative
 NA
 NA
@@ -101580,7 +101640,7 @@ NA
 NA
 NA
 subjunctive
-627911	NA
+627966	NA
 NA
 NA
 NA
@@ -101593,37 +101653,37 @@ NA
 indicative
 NA
 NA
-627993	NA
+628048	NA
 indicative
 NA
 NA
 NA
 NA
 infinitive
-628350	NA
+628404	NA
 NA
 indicative
 NA
 NA
 NA
-628410	indicative
+628464	indicative
 NA
 NA
 NA
-629226	NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-629463	NA
+629277	NA
 NA
 NA
 NA
 NA
-629751	NA
+NA
+NA
+NA
+629514	NA
+NA
+NA
+NA
+NA
+629802	NA
 NA
 NA
 NA
@@ -101634,12 +101694,12 @@ indicative
 NA
 participle
 indicative
-630172	NA
+630221	NA
 NA
 NA
 imperative
 NA
-630668	indicative
+630717	indicative
 NA
 NA
 NA
@@ -101656,7 +101716,7 @@ NA
 indicative
 NA
 NA
-631094	NA
+631143	NA
 NA
 NA
 NA
@@ -101667,7 +101727,7 @@ indicative
 NA
 NA
 NA
-631518	NA
+631567	NA
 indicative
 NA
 NA
@@ -101682,7 +101742,7 @@ NA
 indicative
 NA
 NA
-631581	NA
+631630	NA
 indicative
 NA
 infinitive
@@ -101694,7 +101754,7 @@ NA
 indicative
 NA
 indicative
-631730	indicative
+631779	indicative
 NA
 NA
 NA
@@ -101740,7 +101800,7 @@ indicative
 NA
 indicative
 NA
-631909	NA
+631957	NA
 indicative
 NA
 NA
@@ -101752,7 +101812,7 @@ NA
 NA
 indicative
 NA
-632529	NA
+632577	NA
 NA
 NA
 indicative
@@ -101771,7 +101831,7 @@ NA
 NA
 NA
 NA
-632782	NA
+632831	NA
 NA
 NA
 NA
@@ -101789,13 +101849,13 @@ indicative
 NA
 NA
 NA
-633126	NA
+633175	NA
 NA
 NA
 indicative
 NA
 subjunctive
-633239	subjunctive
+633288	subjunctive
 NA
 NA
 NA
@@ -101814,7 +101874,7 @@ NA
 NA
 NA
 NA
-633383	NA
+633432	NA
 NA
 subjunctive
 NA
@@ -101826,7 +101886,7 @@ indicative
 NA
 NA
 NA
-633511	NA
+633560	NA
 NA
 indicative
 infinitive
@@ -101836,11 +101896,11 @@ NA
 NA
 subjunctive
 NA
-633608	NA
+633657	NA
 indicative
 infinitive
 NA
-633632	indicative
+633681	indicative
 NA
 NA
 imperative
@@ -102055,7 +102115,7 @@ NA
 participle
 NA
 NA
-633848	NA
+633897	NA
 participle
 NA
 NA
@@ -102092,7 +102152,7 @@ NA
 NA
 NA
 NA
-633886	participle
+633935	participle
 NA
 indicative
 NA
@@ -102127,7 +102187,7 @@ NA
 NA
 NA
 NA
-634059	NA
+634108	NA
 NA
 NA
 NA
@@ -102282,8 +102342,8 @@ NA
 NA
 NA
 indicative
-634215	NA
-634217	NA
+634264	NA
+634266	NA
 NA
 NA
 indicative
@@ -102821,7 +102881,7 @@ NA
 NA
 imperative
 NA
-634757	indicative
+634806	indicative
 NA
 NA
 NA
@@ -103378,8 +103438,8 @@ NA
 NA
 indicative
 NA
-635315	NA
-635317	NA
+635364	NA
+635366	NA
 indicative
 NA
 infinitive
@@ -103573,10 +103633,10 @@ NA
 NA
 NA
 NA
-635513	NA
+635562	NA
 NA
 NA
-635518	NA
+635567	NA
 participle
 NA
 NA
@@ -103711,7 +103771,7 @@ NA
 NA
 NA
 indicative
-635655	NA
+635704	NA
 NA
 participle
 NA
@@ -103814,7 +103874,7 @@ participle
 indicative
 infinitive
 NA
-635759	infinitive
+635808	infinitive
 NA
 NA
 NA
@@ -103886,7 +103946,7 @@ NA
 NA
 NA
 NA
-635833	NA
+635882	NA
 indicative
 NA
 NA
@@ -104469,7 +104529,7 @@ NA
 indicative
 NA
 participle
-636419	NA
+636468	NA
 participle
 NA
 NA
@@ -105304,7 +105364,7 @@ NA
 NA
 NA
 NA
-637256	NA
+637305	NA
 NA
 indicative
 NA
@@ -105744,7 +105804,7 @@ NA
 NA
 indicative
 NA
-637698	NA
+637747	NA
 indicative
 NA
 NA
@@ -105752,7 +105812,7 @@ NA
 NA
 indicative
 NA
-637709	participle
+637758	participle
 NA
 NA
 indicative
@@ -106021,7 +106081,7 @@ NA
 NA
 NA
 NA
-637980	NA
+638029	NA
 NA
 NA
 NA
@@ -106238,7 +106298,7 @@ NA
 subjunctive
 NA
 NA
-638200	NA
+638249	NA
 participle
 indicative
 NA
@@ -106593,7 +106653,7 @@ NA
 NA
 infinitive
 NA
-638557	NA
+638606	NA
 indicative
 NA
 NA
@@ -106849,7 +106909,7 @@ NA
 NA
 NA
 indicative
-638816	NA
+638865	NA
 indicative
 NA
 NA
@@ -106861,7 +106921,7 @@ NA
 NA
 NA
 NA
-638831	NA
+638880	NA
 participle
 NA
 NA
@@ -106917,7 +106977,7 @@ infinitive
 NA
 NA
 NA
-638890	NA
+638939	NA
 NA
 participle
 indicative
@@ -107096,7 +107156,7 @@ NA
 NA
 NA
 indicative
-639070	indicative
+639119	indicative
 NA
 NA
 NA
@@ -107301,7 +107361,7 @@ NA
 NA
 NA
 NA
-639277	NA
+639326	NA
 indicative
 NA
 NA
@@ -109322,7 +109382,7 @@ NA
 NA
 NA
 NA
-641299	indicative
+641348	indicative
 NA
 NA
 NA
@@ -109694,8 +109754,8 @@ participle
 indicative
 NA
 indicative
-641672	NA
-641674	NA
+641721	NA
+641723	NA
 NA
 NA
 NA
@@ -109918,7 +109978,7 @@ participle
 indicative
 NA
 NA
-641900	NA
+641949	NA
 NA
 NA
 NA
@@ -110068,7 +110128,7 @@ NA
 NA
 NA
 NA
-642051	indicative
+642100	indicative
 NA
 NA
 NA
@@ -110308,8 +110368,8 @@ NA
 NA
 NA
 NA
-642292	NA
-642294	NA
+642341	NA
+642343	NA
 NA
 NA
 NA

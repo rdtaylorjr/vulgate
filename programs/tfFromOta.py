@@ -15,8 +15,8 @@ from tf.convert.walker import CV
 from tf.fabric import Fabric
 
 from programs import proiel
-from programs.align import align, nearby
-from programs.clitics import Place, divide, divisions, read_declared, treebank_divisions
+from programs.align import align, nearby, normal
+from programs.clitics import Place, cut, divide, divisions, read_declared, units
 from programs.lexicon import Lexeme, lexemes, ranks, read_lexicon
 from programs.morphology import FEATURES, MORPHOLOGY, NO_ANALYSIS, Key, Layer, Morphology, classed, read_classes
 from programs.ota import (
@@ -122,24 +122,6 @@ class Entry(NamedTuple):
     parts: tuple[Part, ...]
 
 
-def divided(found: Iterable[Word], table: Mapping[str, str], places: Mapping[Place, str | None]) -> list[Entry]:
-    """Divides every word at its clitic by the table, or as declared for its place, with no analysis yet."""
-    names: dict[str, str] = {}
-    unused = set(places)
-    result = []
-    for word in found:
-        name = names.setdefault(word.code, book_name(word.code))
-        place = (name, word.chapter, word.verse, word.word.lower())
-        local = {**table, place[3]: places[place]} if place in places else table
-        unused.discard(place)
-        result.append(Entry(word, tuple(Part(form, NO_ANALYSIS) for form in divide(word.word, local))))
-    if unused:
-        raise ValueError(
-            "declared places the text lacks: " + ", ".join(f"{b} {c}:{v} {f}" for b, c, v, f in sorted(unused))
-        )
-    return result
-
-
 def morphology_proiel(token: proiel.Token, classes: Mapping[Key, str]) -> Layer:
     """Writes the analysis of a treebank token in ETCBC values, classed by the lemma table."""
     key = (token.lemma, token.homograph)
@@ -152,56 +134,66 @@ def morphology_proiel(token: proiel.Token, classes: Mapping[Key, str]) -> Layer:
 
 
 def alignment(chapter: tuple[list[str], list[str], list[int], list[int]]) -> list[int | None]:
-    """Aligns the words and tokens of one chapter at most one verse apart, for parallel alignment."""
+    """Aligns the written words and treebank words of one chapter at most one verse apart, for parallel alignment."""
     words, forms, word_verses, token_verses = chapter
     return align(words, forms, nearby(word_verses, token_verses))
 
 
-def _places(entries: Sequence[Entry], codes: Mapping[str, str]) -> dict[tuple[str, int], list[tuple[int, int]]]:
-    """Gives the entry and part index of each word the treebank may cover, by its book code and chapter."""
-    names = {code: book_name(code) for code in {e.word.code for e in entries}}
-    places: dict[tuple[str, int], list[tuple[int, int]]] = defaultdict(list)
-    for e, entry in enumerate(entries):
-        code = codes.get(names[entry.word.code])
+def matched(
+    found: Sequence[Word], treebank: Sequence[tuple[proiel.Token, ...]], codes: Mapping[str, str], executor: Executor
+) -> dict[int, tuple[proiel.Token, ...]]:
+    """Gives the index of each written word the treebank analyses with its tokens, aligned chapter by chapter."""
+    units: dict[tuple[str, int], list[tuple[proiel.Token, ...]]] = defaultdict(list)
+    for unit in treebank:
+        units[(unit[0].book, unit[0].chapter)].append(unit)
+    names = {code: book_name(code) for code in {w.code for w in found}}
+    places: dict[tuple[str, int], list[int]] = defaultdict(list)
+    for index, word in enumerate(found):
+        code = codes.get(names[word.code])
         if code is not None:
-            places[(code, entry.word.chapter)].extend((e, i) for i in range(len(entry.parts)))
-    return places
-
-
-def annotate_proiel(
-    entries: Sequence[Entry],
-    treebank: Sequence[proiel.Token],
-    codes: Mapping[str, str],
-    classes: Mapping[Key, str],
-    executor: Executor,
-) -> list[Entry]:
-    """Gives the words the analyses of their treebank tokens, aligned chapter by chapter."""
-    tokens: dict[tuple[str, int], list[proiel.Token]] = defaultdict(list)
-    for token in treebank:
-        tokens[(token.book, token.chapter)].append(token)
-    places = _places(entries, codes)
-    chapters = [chapter for chapter in places if chapter in tokens]
+            places[(code, word.chapter)].append(index)
+    chapters = [chapter for chapter in places if chapter in units]
     jobs = []
     for chapter in chapters:
-        words = [entries[e] for e, _ in places[chapter]]
-        forms = [entries[e].parts[i].form for e, i in places[chapter]]
+        written = [found[i] for i in places[chapter]]
+        forms = ["".join(t.form for t in unit) for unit in units[chapter]]
         jobs.append(
-            (
-                forms,
-                [t.form for t in tokens[chapter]],
-                [w.word.verse for w in words],
-                [t.verse for t in tokens[chapter]],
-            )
+            ([w.word for w in written], forms, [w.verse for w in written], [u[0].verse for u in units[chapter]])
         )
-    analyses: dict[tuple[int, int], Layer] = {}
+    result: dict[int, tuple[proiel.Token, ...]] = {}
     for chapter, indices in zip(chapters, executor.map(alignment, jobs), strict=True):
-        for place, index in zip(places[chapter], indices, strict=True):
+        for word, index in zip(places[chapter], indices, strict=True):
             if index is not None:
-                analyses[place] = morphology_proiel(tokens[chapter][index], classes)
+                result[word] = units[chapter][index]
+    return result
+
+
+def divided(
+    found: Sequence[Word],
+    table: Mapping[str, str],
+    places: Mapping[Place, str | None],
+    treebank: Mapping[int, tuple[proiel.Token, ...]],
+    classes: Mapping[Key, str],
+) -> list[Entry]:
+    """Divides each word as the treebank divides it, with its analyses, or else as declared for its place or form."""
+    names = {code: book_name(code) for code in {w.code for w in found}}
+    unused = set(places)
     result = []
-    for e, entry in enumerate(entries):
-        parts = tuple(part._replace(proiel=analyses.get((e, i), NO_ANALYSIS)) for i, part in enumerate(entry.parts))
-        result.append(entry._replace(parts=parts))
+    for index, word in enumerate(found):
+        place = (names[word.code], word.chapter, word.verse, word.word.lower())
+        unused.discard(place)
+        if index in treebank:
+            tokens = treebank[index]
+            forms = cut(word.word, [t.form.lower() for t in tokens[1:]])
+            parts = tuple(Part(form, morphology_proiel(t, classes)) for form, t in zip(forms, tokens, strict=True))
+        else:
+            local = {**table, place[3]: places[place]} if place in places else table
+            parts = tuple(Part(form, NO_ANALYSIS) for form in divide(word.word, local))
+        result.append(Entry(word, parts))
+    if unused:
+        raise ValueError(
+            "declared places the text lacks: " + ", ".join(f"{b} {c}:{v} {f}" for b, c, v, f in sorted(unused))
+        )
     return result
 
 
@@ -338,9 +330,10 @@ def convert(
     with executor() as pool:
         found = words(records(lines), pool)
         declared = read_declared(inputs.clitics)
-        table = divisions((w.word for w in found), treebank_divisions(treebank), declared)
-        entries = annotate_proiel(
-            divided(found, table, declared.places), treebank, codes, read_classes(inputs.lemmas), pool
+        table = divisions((w.word for w in found), declared)
+        joined = units(treebank, {normal(w.word) for w in found})
+        entries = divided(
+            found, table, declared.places, matched(found, joined, codes, pool), read_classes(inputs.lemmas)
         )
     proiel_lexemes = lexemes(occurrences(entries), read_lexicon(inputs.lexicon_proiel))
     if outputs.target.exists():

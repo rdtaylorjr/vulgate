@@ -14,11 +14,11 @@
 @valueType=str
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:06+00:00Z
+@dateWritten=2026-10-11T09:21:47+00:00Z
 
-1-666884	word
-666885-666964	book
-666965-668478	chapter
-668479-672943	lex
-672944-772918	stichos
-772919-812709	verse
+1-666879	word
+666880-666959	book
+666960-668473	chapter
+668474-672939	lex
+672940-772914	stichos
+772915-812705	verse

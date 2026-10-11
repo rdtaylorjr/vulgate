@@ -16,9 +16,9 @@
 @values=present imperfect future perfect pluperfect futureperfect NA unknown
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:07+00:00Z
+@dateWritten=2026-10-11T09:21:48+00:00Z
 
-516464	NA
+516531	NA
 NA
 NA
 NA
@@ -2557,7 +2557,7 @@ NA
 NA
 NA
 present
-519004	present
+519071	present
 NA
 NA
 present
@@ -2708,7 +2708,7 @@ NA
 present
 NA
 present
-519156	present
+519223	present
 present
 NA
 NA
@@ -4729,7 +4729,7 @@ present
 NA
 NA
 NA
-521178	NA
+521245	NA
 NA
 NA
 NA
@@ -8472,7 +8472,7 @@ NA
 NA
 present
 NA
-524923	NA
+524990	NA
 NA
 NA
 NA
@@ -8621,7 +8621,7 @@ NA
 NA
 present
 present
-525073	NA
+525140	NA
 NA
 present
 NA
@@ -8931,7 +8931,7 @@ perfect
 NA
 NA
 present
-525402	NA
+525469	NA
 perfect
 NA
 NA
@@ -9384,7 +9384,7 @@ NA
 NA
 NA
 NA
-525857	NA
+525924	NA
 NA
 perfect
 NA
@@ -10101,12 +10101,10 @@ NA
 NA
 present
 present
+526643	pluperfect
 NA
 NA
-pluperfect
-NA
 NA
-NA
 perfect
 NA
 imperfect
@@ -12248,8 +12246,7 @@ NA
 NA
 NA
 NA
-present
-528723	present
+528790	present
 NA
 NA
 NA
@@ -12291,7 +12288,7 @@ NA
 NA
 NA
 present
-528766	present
+528833	present
 present
 present
 NA
@@ -12579,7 +12576,7 @@ NA
 NA
 NA
 present
-529055	NA
+529122	NA
 NA
 NA
 present
@@ -15794,7 +15791,7 @@ NA
 NA
 present
 present
-532271	NA
+532338	NA
 NA
 NA
 NA
@@ -17143,9 +17140,10 @@ NA
 NA
 NA
 imperfect
-533622	NA
+NA
 NA
 NA
+NA
 imperfect
 NA
 NA
@@ -17864,7 +17862,8 @@ NA
 NA
 NA
 imperfect
-534345	NA
+NA
+NA
 present
 NA
 NA
@@ -17924,7 +17923,7 @@ NA
 NA
 NA
 NA
-534406	NA
+534471	NA
 present
 NA
 future
@@ -17936,7 +17935,7 @@ NA
 NA
 perfect
 NA
-534419	NA
+534484	NA
 perfect
 present
 NA
@@ -18407,7 +18406,7 @@ NA
 NA
 NA
 present
-534891	perfect
+534956	perfect
 present
 NA
 NA
@@ -18711,10 +18710,11 @@ NA
 NA
 NA
 imperfect
+NA
+NA
 NA
 NA
 NA
-535200	NA
 NA
 NA
 NA
@@ -18926,8 +18926,10 @@ imperfect
 NA
 NA
 NA
-535413	imperfect
 NA
+NA
+imperfect
+NA
 perfect
 NA
 present
@@ -19062,7 +19064,7 @@ NA
 pluperfect
 NA
 NA
-535550	NA
+535615	NA
 pluperfect
 NA
 NA
@@ -19110,7 +19112,7 @@ NA
 NA
 present
 NA
-535599	NA
+535664	NA
 NA
 NA
 pluperfect
@@ -19211,7 +19213,7 @@ present
 NA
 present
 present
-535701	present
+535766	present
 NA
 NA
 perfect
@@ -19496,7 +19498,7 @@ NA
 NA
 futureperfect
 NA
-535987	futureperfect
+536052	futureperfect
 NA
 present
 NA
@@ -19616,7 +19618,7 @@ NA
 imperfect
 present
 NA
-536108	imperfect
+536173	imperfect
 NA
 NA
 imperfect
@@ -19649,13 +19651,15 @@ NA
 NA
 NA
 perfect
+NA
+NA
 NA
 NA
 NA
 NA
 NA
 NA
-536148	pluperfect
+pluperfect
 NA
 NA
 NA
@@ -19701,15 +19705,17 @@ future
 NA
 NA
 perfect
+NA
 NA
 NA
 NA
-536198	pluperfect
 NA
+pluperfect
 NA
 NA
 NA
 NA
+NA
 perfect
 present
 present
@@ -19726,7 +19732,7 @@ NA
 perfect
 NA
 NA
-536221	NA
+536288	NA
 NA
 NA
 present
@@ -20129,12 +20135,14 @@ NA
 NA
 pluperfect
 perfect
+NA
 NA
 NA
 NA
+perfect
+NA
 NA
 perfect
-536630	perfect
 imperfect
 NA
 NA
@@ -20744,7 +20752,7 @@ NA
 NA
 NA
 imperfect
-537241	imperfect
+537309	imperfect
 NA
 imperfect
 perfect
@@ -20760,7 +20768,7 @@ NA
 NA
 present
 NA
-537258	present
+537326	present
 NA
 present
 NA
@@ -20960,7 +20968,7 @@ NA
 present
 NA
 present
-537459	present
+537527	present
 NA
 perfect
 present
@@ -20975,7 +20983,7 @@ NA
 present
 NA
 present
-537475	present
+537543	present
 NA
 NA
 NA
@@ -21793,7 +21801,7 @@ NA
 perfect
 imperfect
 NA
-538294	imperfect
+538362	imperfect
 NA
 present
 imperfect
@@ -22492,7 +22500,7 @@ NA
 imperfect
 present
 NA
-538994	NA
+539062	NA
 NA
 NA
 present
@@ -23117,7 +23125,9 @@ imperfect
 NA
 NA
 perfect
-539620	pluperfect
+NA
+NA
+pluperfect
 NA
 NA
 NA
@@ -23455,7 +23465,8 @@ present
 NA
 present
 NA
-539960	NA
+NA
+NA
 present
 NA
 NA
@@ -23592,7 +23603,7 @@ NA
 future
 NA
 NA
-540098	NA
+540166	NA
 NA
 perfect
 NA
@@ -23662,7 +23673,7 @@ NA
 NA
 present
 NA
-540169	NA
+540237	NA
 present
 NA
 NA
@@ -24341,7 +24352,7 @@ NA
 NA
 present
 NA
-540849	NA
+540917	NA
 future
 NA
 NA
@@ -24457,7 +24468,7 @@ NA
 present
 NA
 NA
-540966	present
+541034	present
 NA
 present
 NA
@@ -24818,7 +24829,7 @@ NA
 NA
 present
 NA
-541328	NA
+541396	NA
 NA
 present
 NA
@@ -25594,7 +25605,7 @@ NA
 NA
 NA
 imperfect
-542105	imperfect
+542173	imperfect
 NA
 NA
 NA
@@ -26207,7 +26218,7 @@ NA
 present
 NA
 present
-542719	NA
+542787	NA
 present
 NA
 NA
@@ -27751,7 +27762,7 @@ present
 NA
 NA
 NA
-544264	NA
+544332	NA
 perfect
 NA
 NA
@@ -28395,7 +28406,7 @@ NA
 NA
 NA
 NA
-544910	NA
+544978	NA
 NA
 imperfect
 NA
@@ -31964,7 +31975,7 @@ NA
 NA
 perfect
 NA
-548480	NA
+548548	NA
 NA
 perfect
 NA
@@ -32573,7 +32584,7 @@ NA
 NA
 NA
 present
-549090	NA
+549158	NA
 NA
 NA
 present
@@ -33078,7 +33089,7 @@ pluperfect
 NA
 NA
 NA
-549596	NA
+549664	NA
 NA
 perfect
 present
@@ -34359,7 +34370,7 @@ perfect
 NA
 NA
 NA
-550879	NA
+550947	NA
 perfect
 NA
 NA
@@ -34606,7 +34617,7 @@ perfect
 perfect
 present
 NA
-551128	NA
+551196	NA
 NA
 present
 NA
@@ -36395,8 +36406,9 @@ NA
 NA
 NA
 NA
-552919	NA
 NA
+NA
+NA
 present
 present
 NA
@@ -37128,7 +37140,7 @@ NA
 NA
 imperfect
 perfect
-553653	NA
+553720	NA
 imperfect
 NA
 present
@@ -39187,10 +39199,11 @@ NA
 NA
 NA
 present
-555714	NA
+NA
 NA
 NA
 NA
+NA
 futureperfect
 future
 NA
@@ -39796,7 +39809,7 @@ NA
 NA
 NA
 present
-556324	NA
+556390	NA
 present
 NA
 NA
@@ -43815,7 +43828,7 @@ present
 NA
 NA
 present
-560344	NA
+560410	NA
 NA
 NA
 present
@@ -45943,7 +45956,7 @@ NA
 NA
 NA
 imperfect
-562473	NA
+562539	NA
 NA
 NA
 NA
@@ -46694,11 +46707,12 @@ NA
 NA
 NA
 present
+NA
 NA
 NA
 NA
-563229	NA
 NA
+NA
 present
 present
 NA
@@ -47787,7 +47801,7 @@ NA
 present
 NA
 NA
-564320	NA
+564385	NA
 NA
 perfect
 NA
@@ -47795,7 +47809,7 @@ NA
 NA
 present
 NA
-564329	NA
+564394	NA
 NA
 NA
 perfect
@@ -47966,13 +47980,10 @@ NA
 NA
 NA
 perfect
-NA
-NA
 NA
+564568	NA
 NA
 NA
-NA
-NA
 perfect
 NA
 NA
@@ -48375,7 +48386,7 @@ pluperfect
 NA
 NA
 NA
-564911	NA
+564975	NA
 NA
 present
 NA
@@ -49061,7 +49072,7 @@ present
 NA
 NA
 NA
-565598	NA
+565662	NA
 NA
 imperfect
 NA
@@ -49277,12 +49288,13 @@ NA
 NA
 present
 present
+NA
 NA
 NA
 NA
-565819	NA
 NA
 NA
+NA
 imperfect
 NA
 NA
@@ -49463,7 +49475,7 @@ NA
 present
 NA
 NA
-566003	NA
+566066	NA
 present
 NA
 NA
@@ -50339,7 +50351,7 @@ NA
 NA
 NA
 future
-566880	NA
+566943	NA
 NA
 present
 NA
@@ -52728,7 +52740,7 @@ NA
 NA
 present
 NA
-569270	NA
+569333	NA
 perfect
 NA
 NA
@@ -52916,7 +52928,7 @@ NA
 NA
 present
 NA
-569459	present
+569522	present
 NA
 present
 NA
@@ -52934,7 +52946,7 @@ present
 NA
 NA
 NA
-569478	NA
+569541	NA
 NA
 perfect
 NA
@@ -53329,7 +53341,7 @@ NA
 NA
 perfect
 NA
-569874	NA
+569937	NA
 present
 NA
 NA
@@ -54344,7 +54356,7 @@ NA
 future
 NA
 NA
-570890	NA
+570953	NA
 NA
 NA
 future
@@ -54471,7 +54483,7 @@ NA
 NA
 present
 NA
-571019	perfect
+571082	perfect
 NA
 NA
 present
@@ -54710,7 +54722,7 @@ NA
 NA
 present
 NA
-571259	present
+571322	present
 NA
 NA
 NA
@@ -55035,7 +55047,7 @@ present
 present
 NA
 NA
-571585	NA
+571648	NA
 NA
 futureperfect
 NA
@@ -55613,7 +55625,7 @@ NA
 NA
 future
 NA
-572164	NA
+572227	NA
 NA
 NA
 future
@@ -56056,7 +56068,7 @@ NA
 NA
 NA
 NA
-572608	NA
+572671	NA
 NA
 NA
 perfect
@@ -56221,7 +56233,7 @@ NA
 NA
 perfect
 NA
-572774	NA
+572837	NA
 NA
 perfect
 NA
@@ -56998,7 +57010,7 @@ NA
 perfect
 NA
 NA
-573552	NA
+573615	NA
 NA
 present
 NA
@@ -57985,7 +57997,7 @@ perfect
 NA
 NA
 NA
-574540	NA
+574603	NA
 NA
 NA
 NA
@@ -58565,7 +58577,7 @@ NA
 NA
 NA
 NA
-575123	NA
+575186	NA
 NA
 NA
 imperfect
@@ -59132,7 +59144,7 @@ NA
 NA
 NA
 NA
-575692	NA
+575755	NA
 NA
 present
 present
@@ -59793,7 +59805,7 @@ imperfect
 NA
 imperfect
 NA
-576354	pluperfect
+576417	pluperfect
 NA
 NA
 NA
@@ -60694,7 +60706,7 @@ NA
 NA
 NA
 NA
-577256	NA
+577319	NA
 NA
 NA
 present
@@ -61035,7 +61047,7 @@ NA
 NA
 NA
 NA
-577598	NA
+577661	NA
 NA
 NA
 imperfect
@@ -67204,7 +67216,7 @@ NA
 NA
 NA
 NA
-583768	NA
+583831	NA
 perfect
 present
 NA
@@ -69086,7 +69098,7 @@ NA
 NA
 NA
 present
-585651	NA
+585714	NA
 NA
 present
 present
@@ -69709,12 +69721,13 @@ NA
 NA
 perfect
 present
+NA
+NA
 NA
 NA
 NA
 NA
 NA
-586281	NA
 NA
 NA
 present
@@ -70689,7 +70702,7 @@ NA
 NA
 perfect
 NA
-587258	imperfect
+587320	imperfect
 NA
 NA
 imperfect
@@ -70748,7 +70761,7 @@ NA
 NA
 NA
 present
-587318	present
+587380	present
 NA
 NA
 NA
@@ -70801,7 +70814,7 @@ NA
 NA
 NA
 perfect
-587373	imperfect
+587435	imperfect
 NA
 NA
 NA
@@ -71454,7 +71467,7 @@ present
 NA
 NA
 present
-588051	pluperfect
+588113	pluperfect
 NA
 NA
 NA
@@ -71597,7 +71610,7 @@ NA
 perfect
 NA
 perfect
-588212	NA
+588274	NA
 perfect
 NA
 NA
@@ -71891,7 +71904,7 @@ NA
 NA
 NA
 NA
-588518	NA
+588580	NA
 NA
 NA
 present
@@ -71925,7 +71938,7 @@ present
 NA
 present
 NA
-588565	NA
+588627	NA
 NA
 perfect
 NA
@@ -72299,7 +72312,7 @@ present
 NA
 NA
 NA
-588947	NA
+589009	NA
 NA
 NA
 NA
@@ -73019,7 +73032,7 @@ NA
 imperfect
 NA
 NA
-589701	perfect
+589763	perfect
 NA
 NA
 NA
@@ -73042,7 +73055,7 @@ NA
 NA
 present
 NA
-589725	NA
+589787	NA
 present
 NA
 NA
@@ -73242,7 +73255,7 @@ NA
 NA
 imperfect
 present
-589954	present
+590013	present
 NA
 present
 NA
@@ -73596,7 +73609,7 @@ present
 NA
 present
 NA
-590309	NA
+590368	NA
 NA
 NA
 perfect
@@ -73716,7 +73729,7 @@ NA
 NA
 NA
 present
-590458	NA
+590517	NA
 NA
 imperfect
 perfect
@@ -74006,7 +74019,7 @@ NA
 NA
 NA
 present
-590763	present
+590821	present
 NA
 NA
 NA
@@ -74025,7 +74038,7 @@ NA
 present
 NA
 NA
-590810	NA
+590868	NA
 perfect
 NA
 NA
@@ -74520,7 +74533,7 @@ NA
 imperfect
 NA
 present
-591329	NA
+591387	NA
 NA
 NA
 NA
@@ -74559,7 +74572,7 @@ NA
 present
 NA
 present
-591384	NA
+591442	NA
 NA
 NA
 pluperfect
@@ -74833,7 +74846,7 @@ imperfect
 NA
 present
 NA
-591674	perfect
+591732	perfect
 NA
 NA
 NA
@@ -74961,7 +74974,7 @@ perfect
 present
 NA
 present
-591803	NA
+591861	NA
 present
 NA
 NA
@@ -75128,7 +75141,7 @@ NA
 NA
 NA
 imperfect
-591993	present
+592052	present
 NA
 NA
 NA
@@ -75145,7 +75158,7 @@ future
 NA
 NA
 future
-592039	perfect
+592098	perfect
 NA
 present
 NA
@@ -75563,7 +75576,7 @@ present
 NA
 NA
 NA
-592458	NA
+592517	NA
 NA
 perfect
 NA
@@ -75630,7 +75643,7 @@ perfect
 NA
 NA
 NA
-592526	NA
+592585	NA
 present
 NA
 NA
@@ -76090,8 +76103,7 @@ NA
 NA
 NA
 NA
-present
-NA
+593047	NA
 NA
 NA
 NA
@@ -76117,8 +76129,6 @@ NA
 NA
 NA
 NA
-NA
-NA
 present
 NA
 NA
@@ -76721,7 +76731,7 @@ NA
 NA
 present
 NA
-593618	NA
+593676	NA
 NA
 NA
 NA
@@ -78122,7 +78132,7 @@ NA
 NA
 NA
 present
-595020	NA
+595078	NA
 present
 NA
 NA
@@ -79729,7 +79739,7 @@ NA
 present
 NA
 present
-596639	present
+596697	present
 NA
 NA
 NA
@@ -80061,14 +80071,20 @@ perfect
 present
 NA
 present
-596972	NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
-596977	NA
 NA
 NA
-596981	NA
+NA
+NA
+NA
 present
 NA
 NA
@@ -80147,7 +80163,7 @@ present
 present
 NA
 NA
-597061	NA
+597122	NA
 NA
 NA
 NA
@@ -80177,7 +80193,7 @@ NA
 NA
 present
 NA
-597092	NA
+597153	NA
 present
 NA
 NA
@@ -80395,7 +80411,7 @@ NA
 NA
 present
 NA
-597322	NA
+597383	NA
 NA
 NA
 present
@@ -80547,26 +80563,34 @@ present
 NA
 NA
 present
+NA
+NA
 NA
 NA
 NA
+present
 NA
 NA
+NA
 present
+NA
 NA
 NA
+present
 NA
 present
-597485	NA
+NA
+NA
 present
 NA
 present
-597490	present
 NA
+NA
+NA
 present
-597494	NA
+NA
+NA
 present
-597497	present
 NA
 present
 NA
@@ -80771,7 +80795,7 @@ NA
 NA
 present
 NA
-597703	NA
+597768	NA
 present
 NA
 NA
@@ -80779,7 +80803,7 @@ NA
 NA
 NA
 present
-597712	NA
+597777	NA
 NA
 NA
 NA
@@ -82269,9 +82293,9 @@ NA
 NA
 NA
 perfect
-599203	NA
+599268	NA
 perfect
-599206	NA
+599271	NA
 NA
 NA
 present
@@ -82754,13 +82778,14 @@ NA
 NA
 NA
 present
+NA
 NA
 NA
 NA
 NA
 NA
-599696	NA
 NA
+NA
 present
 NA
 NA
@@ -83244,7 +83269,7 @@ NA
 NA
 NA
 NA
-600182	NA
+600246	NA
 present
 NA
 NA
@@ -85008,8 +85033,9 @@ NA
 NA
 NA
 perfect
-601948	NA
+NA
 NA
+NA
 present
 NA
 NA
@@ -85025,8 +85051,9 @@ NA
 present
 NA
 perfect
+present
+NA
 present
-601968	present
 NA
 NA
 NA
@@ -85040,8 +85067,9 @@ NA
 NA
 NA
 NA
-601984	present
 NA
+present
+NA
 NA
 NA
 NA
@@ -85050,10 +85078,11 @@ NA
 NA
 NA
 perfect
-601996	perfect
 NA
+perfect
 NA
 NA
+NA
 perfect
 NA
 perfect
@@ -85314,14 +85343,18 @@ NA
 present
 NA
 present
+NA
 NA
 NA
 NA
+present
+NA
+NA
 NA
 present
-602266	NA
+NA
+NA
 present
-602269	present
 NA
 NA
 NA
@@ -85529,7 +85562,7 @@ NA
 perfect
 present
 NA
-602478	NA
+602540	NA
 NA
 present
 NA
@@ -85790,7 +85823,7 @@ present
 NA
 NA
 NA
-602740	NA
+602802	NA
 imperfect
 NA
 NA
@@ -86168,10 +86201,12 @@ present
 NA
 NA
 present
+NA
 NA
 NA
-603121	present
 NA
+present
+NA
 NA
 present
 NA
@@ -86351,11 +86386,17 @@ present
 NA
 NA
 present
-603303	NA
+NA
+NA
+NA
 future
-603306	NA
+NA
+NA
+NA
 future
-603309	NA
+NA
+NA
+NA
 future
 NA
 NA
@@ -86468,7 +86509,7 @@ NA
 NA
 present
 NA
-603423	NA
+603489	NA
 present
 NA
 NA
@@ -86837,8 +86878,10 @@ NA
 NA
 NA
 present
-603793	NA
+NA
 NA
+NA
+NA
 present
 NA
 NA
@@ -87126,6 +87169,12 @@ NA
 NA
 NA
 perfect
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -87134,9 +87183,7 @@ NA
 NA
 NA
 NA
-604091	NA
 NA
-604094	NA
 NA
 present
 NA
@@ -87166,7 +87213,8 @@ NA
 NA
 NA
 present
-604126	NA
+NA
+NA
 perfect
 NA
 NA
@@ -88161,20 +88209,24 @@ NA
 NA
 NA
 present
+NA
+NA
+NA
 NA
 NA
-605124	NA
 present
 NA
 NA
 NA
 NA
 NA
-605132	present
 NA
 NA
+present
+NA
 NA
 NA
+NA
 present
 NA
 NA
@@ -88803,7 +88855,7 @@ NA
 present
 present
 NA
-605766	NA
+605836	NA
 present
 NA
 NA
@@ -89105,7 +89157,7 @@ NA
 NA
 NA
 present
-606069	NA
+606139	NA
 NA
 NA
 NA
@@ -89146,7 +89198,7 @@ NA
 NA
 NA
 NA
-606111	NA
+606181	NA
 present
 NA
 NA
@@ -89548,15 +89600,19 @@ NA
 NA
 NA
 present
+NA
+NA
 NA
 NA
 NA
 NA
-606518	NA
 NA
+NA
 present
+NA
 NA
-606523	NA
+NA
+NA
 present
 NA
 NA
@@ -89739,7 +89795,7 @@ NA
 NA
 NA
 present
-606707	NA
+606779	NA
 NA
 NA
 NA
@@ -89957,7 +90013,7 @@ NA
 NA
 NA
 NA
-606928	NA
+607000	NA
 NA
 present
 NA
@@ -90183,7 +90239,7 @@ NA
 NA
 perfect
 NA
-607155	NA
+607227	NA
 NA
 NA
 perfect
@@ -90338,7 +90394,7 @@ NA
 NA
 perfect
 NA
-607311	NA
+607383	NA
 perfect
 NA
 NA
@@ -91122,11 +91178,11 @@ NA
 NA
 NA
 NA
-608096	NA
+608168	NA
 present
 NA
 present
-608101	NA
+608173	NA
 NA
 NA
 NA
@@ -91967,7 +92023,7 @@ NA
 present
 NA
 NA
-608943	NA
+609015	NA
 present
 NA
 NA
@@ -92030,7 +92086,7 @@ NA
 NA
 perfect
 NA
-609007	NA
+609079	NA
 NA
 present
 NA
@@ -92167,7 +92223,7 @@ present
 NA
 NA
 NA
-609146	perfect
+609218	perfect
 present
 NA
 NA
@@ -92192,7 +92248,7 @@ NA
 NA
 NA
 NA
-609172	NA
+609244	NA
 present
 NA
 present
@@ -92382,7 +92438,7 @@ NA
 NA
 NA
 perfect
-609363	NA
+609435	NA
 NA
 NA
 NA
@@ -92519,7 +92575,7 @@ NA
 NA
 NA
 NA
-609532	NA
+609604	NA
 NA
 perfect
 NA
@@ -92662,13 +92718,14 @@ NA
 NA
 NA
 present
+NA
 NA
+609761	NA
 NA
-609689	NA
-609692	NA
 NA
 NA
 NA
+NA
 imperfect
 NA
 imperfect
@@ -92696,8 +92753,8 @@ NA
 NA
 NA
 imperfect
-609736	NA
-609738	NA
+609806	NA
+609808	NA
 NA
 imperfect
 present
@@ -92719,7 +92776,7 @@ NA
 imperfect
 NA
 perfect
-609831	NA
+609901	NA
 NA
 pluperfect
 NA
@@ -92845,7 +92902,7 @@ NA
 future
 NA
 NA
-609973	present
+610043	present
 NA
 NA
 NA
@@ -92880,7 +92937,7 @@ NA
 NA
 NA
 NA
-610028	NA
+610098	NA
 present
 NA
 NA
@@ -92979,7 +93036,7 @@ NA
 present
 NA
 NA
-610139	future
+610209	future
 NA
 NA
 NA
@@ -93049,7 +93106,7 @@ NA
 future
 NA
 NA
-610243	NA
+610313	NA
 NA
 NA
 present
@@ -93430,7 +93487,7 @@ NA
 NA
 NA
 perfect
-610654	NA
+610723	NA
 present
 NA
 NA
@@ -93683,7 +93740,7 @@ NA
 NA
 NA
 present
-610919	present
+610988	present
 NA
 NA
 NA
@@ -93715,7 +93772,7 @@ NA
 NA
 NA
 present
-610969	imperfect
+611036	imperfect
 NA
 NA
 NA
@@ -93940,7 +93997,7 @@ NA
 present
 NA
 present
-611220	NA
+611287	NA
 NA
 NA
 present
@@ -93970,7 +94027,7 @@ NA
 NA
 NA
 NA
-611251	NA
+611318	NA
 NA
 NA
 future
@@ -94001,7 +94058,7 @@ present
 NA
 NA
 present
-611300	NA
+611367	NA
 NA
 present
 NA
@@ -94058,7 +94115,7 @@ NA
 NA
 NA
 present
-611373	NA
+611439	NA
 NA
 present
 present
@@ -94712,7 +94769,7 @@ NA
 NA
 present
 NA
-612028	NA
+612094	NA
 NA
 NA
 NA
@@ -94731,7 +94788,7 @@ NA
 present
 NA
 NA
-612048	NA
+612114	NA
 NA
 present
 perfect
@@ -94814,7 +94871,7 @@ NA
 NA
 NA
 NA
-612197	NA
+612263	NA
 perfect
 present
 NA
@@ -94841,7 +94898,7 @@ NA
 NA
 NA
 present
-612225	NA
+612291	NA
 NA
 NA
 present
@@ -95128,7 +95185,7 @@ NA
 NA
 imperfect
 NA
-612590	NA
+612656	NA
 NA
 NA
 NA
@@ -95191,7 +95248,7 @@ NA
 NA
 NA
 present
-612654	NA
+612720	NA
 perfect
 NA
 NA
@@ -95298,7 +95355,7 @@ NA
 present
 NA
 present
-612780	NA
+612846	NA
 present
 present
 NA
@@ -95370,7 +95427,7 @@ NA
 NA
 NA
 NA
-612881	NA
+612947	NA
 NA
 future
 present
@@ -95413,60 +95470,12 @@ present
 NA
 NA
 imperfect
-NA
-NA
-NA
-NA
-NA
 NA
 NA
 NA
-612952	NA
-present
-present
-NA
-NA
-NA
-NA
-NA
-NA
-present
-NA
-NA
-NA
-NA
-present
-NA
-NA
-NA
-present
-NA
-present
-NA
 NA
 NA
-present
-NA
-NA
-present
-NA
-NA
-NA
-present
-NA
-present
 NA
-NA
-present
-present
-NA
-present
-NA
-present
-NA
-NA
-NA
-future
 NA
 NA
 613018	NA
@@ -95474,6 +95483,54 @@ present
 present
 NA
 NA
+NA
+NA
+NA
+NA
+present
+NA
+NA
+NA
+NA
+present
+NA
+NA
+NA
+present
+NA
+present
+NA
+NA
+NA
+present
+NA
+NA
+present
+NA
+NA
+NA
+present
+NA
+present
+NA
+NA
+present
+present
+NA
+present
+NA
+present
+NA
+NA
+NA
+future
+NA
+NA
+613084	NA
+present
+present
+NA
+NA
 present
 NA
 present
@@ -95491,7 +95548,7 @@ NA
 present
 NA
 present
-613041	NA
+613107	NA
 NA
 NA
 NA
@@ -96174,7 +96231,7 @@ present
 NA
 NA
 present
-613725	NA
+613791	NA
 NA
 NA
 NA
@@ -96296,7 +96353,7 @@ present
 NA
 NA
 future
-613891	NA
+613957	NA
 NA
 present
 NA
@@ -96397,7 +96454,7 @@ NA
 present
 NA
 NA
-614041	NA
+614107	NA
 NA
 NA
 NA
@@ -96480,7 +96537,7 @@ NA
 NA
 NA
 NA
-614125	NA
+614191	NA
 perfect
 NA
 NA
@@ -96495,7 +96552,7 @@ perfect
 NA
 NA
 perfect
-614141	NA
+614207	NA
 perfect
 present
 NA
@@ -97138,7 +97195,7 @@ NA
 NA
 NA
 present
-614814	NA
+614880	NA
 NA
 NA
 NA
@@ -97591,7 +97648,7 @@ NA
 NA
 NA
 NA
-615337	NA
+615403	NA
 perfect
 NA
 NA
@@ -97936,7 +97993,7 @@ present
 NA
 NA
 NA
-615707	NA
+615773	NA
 NA
 perfect
 NA
@@ -97988,8 +98045,8 @@ NA
 NA
 NA
 NA
-615792	NA
-615804	NA
+615858	NA
+615870	NA
 NA
 perfect
 imperfect
@@ -98034,7 +98091,7 @@ NA
 present
 NA
 NA
-615850	NA
+615916	NA
 NA
 NA
 NA
@@ -98154,7 +98211,7 @@ NA
 NA
 NA
 NA
-616593	NA
+616659	NA
 NA
 NA
 NA
@@ -98433,8 +98490,7 @@ NA
 NA
 NA
 NA
-present
-616874	present
+616940	present
 NA
 NA
 NA
@@ -99370,8 +99426,12 @@ present
 NA
 NA
 NA
-617811	present
-617813	present
+NA
+NA
+present
+NA
+NA
+present
 NA
 NA
 NA
@@ -100176,7 +100236,7 @@ perfect
 NA
 NA
 NA
-618619	NA
+618687	NA
 NA
 imperfect
 NA
@@ -100198,7 +100258,7 @@ NA
 NA
 present
 present
-618642	present
+618710	present
 present
 NA
 NA
@@ -100299,7 +100359,7 @@ NA
 NA
 NA
 NA
-619548	NA
+619612	NA
 NA
 NA
 NA
@@ -100320,7 +100380,7 @@ NA
 present
 NA
 NA
-620107	NA
+620170	NA
 NA
 NA
 NA
@@ -100336,14 +100396,14 @@ present
 NA
 NA
 present
-620622	NA
+620683	NA
 NA
 NA
 perfect
 NA
 NA
 perfect
-620840	NA
+620901	NA
 NA
 NA
 NA
@@ -100365,7 +100425,7 @@ NA
 present
 NA
 NA
-620975	NA
+621036	NA
 NA
 future
 NA
@@ -100375,7 +100435,7 @@ NA
 future
 NA
 NA
-621199	present
+621260	present
 NA
 NA
 NA
@@ -100401,182 +100461,6 @@ NA
 present
 present
 present
-NA
-NA
-NA
-NA
-NA
-future
-NA
-NA
-NA
-NA
-NA
-NA
-future
-NA
-NA
-NA
-NA
-future
-NA
-NA
-present
-NA
-NA
-NA
-NA
-NA
-NA
-future
-NA
-NA
-NA
-future
-NA
-NA
-present
-NA
-NA
-present
-NA
-present
-NA
-NA
-NA
-present
-NA
-NA
-NA
-present
-NA
-NA
-NA
-NA
-present
-NA
-NA
-perfect
-NA
-perfect
-NA
-perfect
-621312	present
-present
-NA
-NA
-NA
-NA
-NA
-NA
-perfect
-present
-NA
-NA
-NA
-perfect
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-present
-NA
-NA
-NA
-NA
-present
-NA
-present
-NA
-NA
-present
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-perfect
-NA
-NA
-NA
-perfect
-NA
-NA
-NA
-present
-present
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-perfect
-present
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-present
-NA
-NA
-perfect
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-perfect
-NA
-NA
-NA
-perfect
-NA
-NA
-present
-NA
-NA
-NA
-perfect
-NA
-perfect
-NA
-NA
-NA
-NA
-NA
-present
-NA
-present
-NA
-NA
-NA
-perfect
-present
-NA
-NA
-NA
-future
-NA
-NA
-NA
 NA
 NA
 NA
@@ -100589,6 +100473,182 @@ NA
 NA
 NA
 NA
+future
+NA
+NA
+NA
+NA
+future
+NA
+NA
+present
+NA
+NA
+NA
+NA
+NA
+NA
+future
+NA
+NA
+NA
+future
+NA
+NA
+present
+NA
+NA
+present
+NA
+present
+NA
+NA
+NA
+present
+NA
+NA
+NA
+present
+NA
+NA
+NA
+NA
+present
+NA
+NA
+perfect
+NA
+perfect
+NA
+perfect
+621373	present
+present
+NA
+NA
+NA
+NA
+NA
+NA
+perfect
+present
+NA
+NA
+NA
+perfect
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+present
+NA
+NA
+NA
+NA
+present
+NA
+present
+NA
+NA
+present
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+perfect
+NA
+NA
+NA
+perfect
+NA
+NA
+NA
+present
+present
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+perfect
+present
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+present
+NA
+NA
+perfect
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+perfect
+NA
+NA
+NA
+perfect
+NA
+NA
+present
+NA
+NA
+NA
+perfect
+NA
+perfect
+NA
+NA
+NA
+NA
+NA
+present
+NA
+present
+NA
+NA
+NA
+perfect
+present
+NA
+NA
+NA
+future
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+future
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -100886,7 +100946,7 @@ NA
 NA
 NA
 NA
-621920	present
+621981	present
 NA
 NA
 NA
@@ -101422,7 +101482,7 @@ NA
 NA
 NA
 NA
-622593	NA
+622654	NA
 perfect
 NA
 NA
@@ -101433,7 +101493,7 @@ NA
 NA
 NA
 NA
-622742	NA
+622803	NA
 NA
 NA
 perfect
@@ -101443,14 +101503,14 @@ NA
 NA
 NA
 present
-622808	NA
+622869	NA
 NA
 NA
 present
 NA
 NA
 NA
-623267	NA
+623328	NA
 NA
 NA
 perfect
@@ -101458,7 +101518,7 @@ present
 NA
 NA
 NA
-623563	NA
+623624	NA
 NA
 NA
 present
@@ -101469,11 +101529,11 @@ NA
 NA
 NA
 NA
-623575	NA
+623636	NA
 present
 NA
 NA
-623728	NA
+623789	NA
 NA
 NA
 NA
@@ -101483,7 +101543,7 @@ NA
 present
 NA
 NA
-624097	present
+624156	present
 NA
 NA
 present
@@ -101496,7 +101556,7 @@ NA
 NA
 NA
 NA
-624189	NA
+624248	NA
 NA
 NA
 NA
@@ -101506,7 +101566,7 @@ NA
 perfect
 NA
 NA
-624364	NA
+624423	NA
 NA
 NA
 NA
@@ -101514,7 +101574,7 @@ NA
 perfect
 present
 NA
-625597	NA
+625654	NA
 NA
 perfect
 perfect
@@ -101533,7 +101593,7 @@ NA
 NA
 present
 NA
-625987	NA
+626044	NA
 NA
 NA
 NA
@@ -101542,18 +101602,18 @@ NA
 NA
 NA
 NA
-626227	NA
+626284	NA
 NA
 NA
 imperfect
 NA
-626811	NA
+626866	NA
 NA
 NA
 NA
 present
 present
-627580	NA
+627635	NA
 NA
 NA
 NA
@@ -101566,7 +101626,7 @@ perfect
 present
 NA
 NA
-627636	NA
+627691	NA
 future
 NA
 NA
@@ -101580,7 +101640,7 @@ NA
 NA
 NA
 present
-627911	NA
+627966	NA
 NA
 NA
 NA
@@ -101593,37 +101653,37 @@ NA
 present
 NA
 NA
-627993	NA
+628048	NA
 present
 NA
 NA
 NA
 NA
 present
-628350	NA
+628404	NA
 NA
 present
 NA
 NA
 NA
-628410	perfect
+628464	perfect
 NA
 NA
 NA
-629226	NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-629463	NA
+629277	NA
 NA
 NA
 NA
 NA
-629751	NA
+NA
+NA
+NA
+629514	NA
+NA
+NA
+NA
+NA
+629802	NA
 NA
 NA
 NA
@@ -101634,29 +101694,29 @@ imperfect
 NA
 present
 perfect
-630172	NA
+630221	NA
 NA
 NA
 future
 NA
-630668	perfect
+630717	perfect
 NA
 NA
 NA
 NA
 NA
 NA
-NA
-NA
-NA
-future
 NA
 NA
 NA
 future
 NA
 NA
-631094	NA
+NA
+future
+NA
+NA
+631143	NA
 NA
 NA
 NA
@@ -101667,7 +101727,7 @@ present
 NA
 NA
 NA
-631518	NA
+631567	NA
 futureperfect
 NA
 NA
@@ -101682,7 +101742,7 @@ NA
 present
 NA
 NA
-631581	NA
+631630	NA
 present
 NA
 perfect
@@ -101694,7 +101754,7 @@ NA
 present
 NA
 present
-631730	present
+631779	present
 NA
 NA
 NA
@@ -101740,7 +101800,7 @@ present
 NA
 perfect
 NA
-631909	NA
+631957	NA
 present
 NA
 NA
@@ -101752,7 +101812,7 @@ NA
 NA
 present
 NA
-632529	NA
+632577	NA
 NA
 NA
 present
@@ -101771,7 +101831,7 @@ NA
 NA
 NA
 NA
-632782	NA
+632831	NA
 NA
 NA
 NA
@@ -101789,13 +101849,13 @@ present
 NA
 NA
 NA
-633126	NA
+633175	NA
 NA
 NA
 present
 NA
 present
-633239	present
+633288	present
 NA
 NA
 NA
@@ -101814,7 +101874,7 @@ NA
 NA
 NA
 NA
-633383	NA
+633432	NA
 NA
 perfect
 NA
@@ -101826,7 +101886,7 @@ present
 NA
 NA
 NA
-633511	NA
+633560	NA
 NA
 present
 present
@@ -101836,11 +101896,11 @@ NA
 NA
 present
 NA
-633608	NA
+633657	NA
 perfect
 present
 NA
-633632	present
+633681	present
 NA
 NA
 present
@@ -102055,7 +102115,7 @@ NA
 present
 NA
 NA
-633848	NA
+633897	NA
 present
 NA
 NA
@@ -102092,7 +102152,7 @@ NA
 NA
 NA
 NA
-633886	present
+633935	present
 NA
 perfect
 NA
@@ -102127,7 +102187,7 @@ NA
 NA
 NA
 NA
-634059	NA
+634108	NA
 NA
 NA
 NA
@@ -102282,8 +102342,8 @@ NA
 NA
 NA
 present
-634215	NA
-634217	NA
+634264	NA
+634266	NA
 NA
 NA
 present
@@ -102821,7 +102881,7 @@ NA
 NA
 present
 NA
-634757	present
+634806	present
 NA
 NA
 NA
@@ -103378,8 +103438,8 @@ NA
 NA
 present
 NA
-635315	NA
-635317	NA
+635364	NA
+635366	NA
 future
 NA
 present
@@ -103573,10 +103633,10 @@ NA
 NA
 NA
 NA
-635513	NA
+635562	NA
 NA
 NA
-635518	NA
+635567	NA
 present
 NA
 NA
@@ -103711,7 +103771,7 @@ NA
 NA
 NA
 future
-635655	NA
+635704	NA
 NA
 present
 NA
@@ -103814,7 +103874,7 @@ perfect
 present
 present
 NA
-635759	present
+635808	present
 NA
 NA
 NA
@@ -103886,7 +103946,7 @@ NA
 NA
 NA
 NA
-635833	NA
+635882	NA
 perfect
 NA
 NA
@@ -104469,7 +104529,7 @@ NA
 perfect
 NA
 perfect
-636419	NA
+636468	NA
 perfect
 NA
 NA
@@ -105304,7 +105364,7 @@ NA
 NA
 NA
 NA
-637256	NA
+637305	NA
 NA
 perfect
 NA
@@ -105744,7 +105804,7 @@ NA
 NA
 future
 NA
-637698	NA
+637747	NA
 future
 NA
 NA
@@ -105752,7 +105812,7 @@ NA
 NA
 future
 NA
-637709	perfect
+637758	perfect
 NA
 NA
 present
@@ -106021,7 +106081,7 @@ NA
 NA
 NA
 NA
-637980	NA
+638029	NA
 NA
 NA
 NA
@@ -106238,7 +106298,7 @@ NA
 present
 NA
 NA
-638200	NA
+638249	NA
 perfect
 present
 NA
@@ -106593,7 +106653,7 @@ NA
 NA
 present
 NA
-638557	NA
+638606	NA
 perfect
 NA
 NA
@@ -106849,7 +106909,7 @@ NA
 NA
 NA
 present
-638816	NA
+638865	NA
 perfect
 NA
 NA
@@ -106861,7 +106921,7 @@ NA
 NA
 NA
 NA
-638831	NA
+638880	NA
 present
 NA
 NA
@@ -106917,7 +106977,7 @@ present
 NA
 NA
 NA
-638890	NA
+638939	NA
 NA
 perfect
 present
@@ -107096,7 +107156,7 @@ NA
 NA
 NA
 present
-639070	present
+639119	present
 NA
 NA
 NA
@@ -107301,7 +107361,7 @@ NA
 NA
 NA
 NA
-639277	NA
+639326	NA
 perfect
 NA
 NA
@@ -109322,7 +109382,7 @@ NA
 NA
 NA
 NA
-641299	perfect
+641348	perfect
 NA
 NA
 NA
@@ -109694,8 +109754,8 @@ perfect
 present
 NA
 present
-641672	NA
-641674	NA
+641721	NA
+641723	NA
 NA
 NA
 NA
@@ -109918,7 +109978,7 @@ perfect
 present
 NA
 NA
-641900	NA
+641949	NA
 NA
 NA
 NA
@@ -110068,7 +110128,7 @@ NA
 NA
 NA
 NA
-642051	future
+642100	future
 NA
 NA
 NA
@@ -110308,8 +110368,8 @@ NA
 NA
 NA
 NA
-642292	NA
-642294	NA
+642341	NA
+642343	NA
 NA
 NA
 NA

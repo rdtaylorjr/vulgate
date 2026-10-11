@@ -16,9 +16,9 @@
 @values=sg pl NA unknown
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:06+00:00Z
+@dateWritten=2026-10-11T09:21:47+00:00Z
 
-516464	sg
+516531	sg
 sg
 sg
 sg
@@ -2557,7 +2557,7 @@ NA
 pl
 NA
 pl
-519004	pl
+519071	pl
 NA
 NA
 sg
@@ -2708,7 +2708,7 @@ NA
 pl
 NA
 pl
-519156	pl
+519223	pl
 sg
 NA
 pl
@@ -4729,7 +4729,7 @@ sg
 sg
 NA
 sg
-521178	sg
+521245	sg
 NA
 sg
 sg
@@ -8472,7 +8472,7 @@ sg
 sg
 sg
 sg
-524923	NA
+524990	NA
 sg
 NA
 sg
@@ -8621,7 +8621,7 @@ NA
 sg
 NA
 sg
-525073	sg
+525140	sg
 NA
 sg
 sg
@@ -8931,7 +8931,7 @@ sg
 NA
 sg
 sg
-525402	NA
+525469	NA
 sg
 sg
 pl
@@ -9384,7 +9384,7 @@ sg
 NA
 NA
 NA
-525857	pl
+525924	pl
 NA
 pl
 NA
@@ -10101,9 +10101,7 @@ sg
 NA
 sg
 sg
-sg
-NA
-sg
+526643	sg
 NA
 sg
 sg
@@ -12248,8 +12246,7 @@ sg
 sg
 NA
 pl
-sg
-528723	pl
+528790	pl
 pl
 NA
 sg
@@ -12291,7 +12288,7 @@ pl
 NA
 NA
 pl
-528766	pl
+528833	pl
 pl
 NA
 NA
@@ -12579,7 +12576,7 @@ pl
 NA
 sg
 pl
-529055	pl
+529122	pl
 NA
 pl
 pl
@@ -15794,7 +15791,7 @@ sg
 sg
 sg
 sg
-532271	sg
+532338	sg
 NA
 sg
 sg
@@ -17143,7 +17140,8 @@ NA
 NA
 NA
 sg
-533622	NA
+NA
+NA
 sg
 NA
 sg
@@ -17864,7 +17862,8 @@ NA
 NA
 NA
 pl
-534345	sg
+NA
+sg
 NA
 NA
 NA
@@ -17924,7 +17923,7 @@ NA
 NA
 sg
 NA
-534406	sg
+534471	sg
 sg
 NA
 sg
@@ -17936,7 +17935,7 @@ NA
 sg
 sg
 NA
-534419	sg
+534484	sg
 sg
 sg
 NA
@@ -18407,7 +18406,7 @@ sg
 sg
 NA
 sg
-534891	sg
+534956	sg
 sg
 sg
 NA
@@ -18714,7 +18713,8 @@ sg
 NA
 pl
 NA
-535200	pl
+NA
+pl
 NA
 sg
 sg
@@ -18926,10 +18926,12 @@ sg
 NA
 pl
 pl
-535413	sg
+NA
+NA
 sg
 sg
 sg
+sg
 NA
 sg
 sg
@@ -19062,7 +19064,7 @@ NA
 sg
 pl
 pl
-535550	sg
+535615	sg
 sg
 NA
 NA
@@ -19110,7 +19112,7 @@ NA
 sg
 sg
 NA
-535599	sg
+535664	sg
 sg
 sg
 sg
@@ -19211,7 +19213,7 @@ sg
 sg
 sg
 NA
-535701	sg
+535766	sg
 NA
 NA
 sg
@@ -19496,7 +19498,7 @@ pl
 NA
 pl
 pl
-535987	pl
+536052	pl
 pl
 pl
 NA
@@ -19616,7 +19618,7 @@ NA
 sg
 NA
 sg
-536108	sg
+536173	sg
 sg
 NA
 sg
@@ -19654,8 +19656,10 @@ NA
 pl
 NA
 pl
+sg
+NA
+NA
 sg
-536148	sg
 sg
 sg
 sg
@@ -19699,12 +19703,14 @@ sg
 sg
 sg
 NA
+sg
 sg
 sg
 sg
 sg
+NA
+NA
 sg
-536198	sg
 NA
 NA
 sg
@@ -19726,7 +19732,7 @@ NA
 sg
 sg
 NA
-536221	NA
+536288	NA
 NA
 NA
 pl
@@ -20131,10 +20137,12 @@ pl
 pl
 NA
 sg
+NA
 NA
+pl
+NA
 NA
 pl
-536630	pl
 pl
 NA
 sg
@@ -20744,7 +20752,7 @@ NA
 sg
 sg
 sg
-537241	pl
+537309	pl
 sg
 pl
 pl
@@ -20760,7 +20768,7 @@ NA
 sg
 pl
 sg
-537258	pl
+537326	pl
 sg
 pl
 NA
@@ -20960,7 +20968,7 @@ NA
 pl
 NA
 pl
-537459	pl
+537527	pl
 NA
 sg
 pl
@@ -20975,7 +20983,7 @@ pl
 pl
 NA
 pl
-537475	pl
+537543	pl
 NA
 NA
 pl
@@ -21793,7 +21801,7 @@ NA
 pl
 pl
 sg
-538294	sg
+538362	sg
 sg
 NA
 sg
@@ -22492,7 +22500,7 @@ NA
 pl
 pl
 NA
-538994	pl
+539062	pl
 NA
 sg
 sg
@@ -23116,8 +23124,10 @@ NA
 pl
 NA
 sg
+sg
+NA
+NA
 sg
-539620	sg
 NA
 NA
 sg
@@ -23455,7 +23465,8 @@ sg
 sg
 sg
 pl
-539960	sg
+NA
+sg
 sg
 pl
 NA
@@ -23592,7 +23603,7 @@ NA
 sg
 sg
 pl
-540098	sg
+540166	sg
 sg
 pl
 sg
@@ -23662,7 +23673,7 @@ NA
 NA
 sg
 sg
-540169	NA
+540237	NA
 sg
 NA
 sg
@@ -24341,7 +24352,7 @@ pl
 pl
 pl
 NA
-540849	pl
+540917	pl
 pl
 NA
 pl
@@ -24457,7 +24468,7 @@ NA
 sg
 NA
 sg
-540966	sg
+541034	sg
 NA
 sg
 sg
@@ -24818,7 +24829,7 @@ pl
 NA
 pl
 NA
-541328	pl
+541396	pl
 NA
 pl
 NA
@@ -25594,7 +25605,7 @@ NA
 sg
 sg
 pl
-542105	pl
+542173	pl
 pl
 NA
 sg
@@ -26207,7 +26218,7 @@ pl
 sg
 sg
 sg
-542719	sg
+542787	sg
 sg
 NA
 sg
@@ -27751,7 +27762,7 @@ NA
 sg
 sg
 sg
-544264	sg
+544332	sg
 sg
 NA
 NA
@@ -28395,7 +28406,7 @@ sg
 NA
 NA
 pl
-544910	sg
+544978	sg
 NA
 sg
 NA
@@ -31964,7 +31975,7 @@ sg
 sg
 pl
 NA
-548480	pl
+548548	pl
 NA
 pl
 NA
@@ -32573,7 +32584,7 @@ sg
 sg
 NA
 sg
-549090	sg
+549158	sg
 sg
 NA
 sg
@@ -33078,7 +33089,7 @@ sg
 sg
 sg
 sg
-549596	NA
+549664	NA
 sg
 sg
 NA
@@ -34359,7 +34370,7 @@ sg
 sg
 NA
 pl
-550879	NA
+550947	NA
 sg
 pl
 pl
@@ -34606,7 +34617,7 @@ sg
 pl
 pl
 NA
-551128	NA
+551196	NA
 sg
 pl
 sg
@@ -36395,9 +36406,10 @@ sg
 sg
 NA
 NA
-552919	sg
+NA
 sg
 sg
+sg
 pl
 sg
 NA
@@ -37128,7 +37140,7 @@ NA
 NA
 sg
 sg
-553653	NA
+553720	NA
 sg
 NA
 NA
@@ -39187,7 +39199,8 @@ NA
 pl
 NA
 pl
-555714	NA
+NA
+NA
 sg
 NA
 pl
@@ -39796,7 +39809,7 @@ NA
 sg
 NA
 sg
-556324	sg
+556390	sg
 sg
 NA
 NA
@@ -43815,7 +43828,7 @@ sg
 sg
 sg
 sg
-560344	sg
+560410	sg
 NA
 pl
 sg
@@ -45943,7 +45956,7 @@ NA
 sg
 NA
 sg
-562473	sg
+562539	sg
 pl
 NA
 NA
@@ -46697,7 +46710,8 @@ sg
 sg
 sg
 sg
-563229	NA
+NA
+NA
 sg
 sg
 sg
@@ -47787,7 +47801,7 @@ sg
 sg
 sg
 NA
-564320	sg
+564385	sg
 NA
 sg
 NA
@@ -47795,7 +47809,7 @@ sg
 sg
 NA
 NA
-564329	sg
+564394	sg
 NA
 sg
 sg
@@ -47965,13 +47979,10 @@ sg
 sg
 sg
 sg
-sg
-NA
 sg
 NA
-NA
+564568	sg
 sg
-sg
 NA
 pl
 NA
@@ -48375,7 +48386,7 @@ pl
 NA
 NA
 pl
-564911	NA
+564975	NA
 NA
 pl
 sg
@@ -49061,7 +49072,7 @@ sg
 NA
 sg
 NA
-565598	sg
+565662	sg
 NA
 pl
 NA
@@ -49280,7 +49291,8 @@ sg
 sg
 sg
 sg
-565819	NA
+NA
+NA
 pl
 sg
 pl
@@ -49463,7 +49475,7 @@ sg
 sg
 sg
 NA
-566003	sg
+566066	sg
 sg
 sg
 sg
@@ -50339,7 +50351,7 @@ NA
 pl
 NA
 sg
-566880	sg
+566943	sg
 NA
 sg
 NA
@@ -52728,7 +52740,7 @@ NA
 NA
 sg
 NA
-569270	sg
+569333	sg
 sg
 NA
 sg
@@ -52916,7 +52928,7 @@ pl
 pl
 pl
 sg
-569459	pl
+569522	pl
 NA
 sg
 pl
@@ -52934,7 +52946,7 @@ sg
 sg
 NA
 NA
-569478	sg
+569541	sg
 NA
 sg
 NA
@@ -53329,7 +53341,7 @@ pl
 NA
 pl
 NA
-569874	pl
+569937	pl
 pl
 NA
 sg
@@ -54344,7 +54356,7 @@ sg
 sg
 sg
 NA
-570890	sg
+570953	sg
 NA
 NA
 sg
@@ -54471,7 +54483,7 @@ pl
 pl
 pl
 NA
-571019	sg
+571082	sg
 pl
 NA
 sg
@@ -54710,7 +54722,7 @@ NA
 NA
 sg
 sg
-571259	sg
+571322	sg
 sg
 pl
 NA
@@ -55035,7 +55047,7 @@ sg
 NA
 sg
 NA
-571585	sg
+571648	sg
 NA
 sg
 NA
@@ -55613,7 +55625,7 @@ NA
 NA
 sg
 NA
-572164	sg
+572227	sg
 NA
 pl
 sg
@@ -56056,7 +56068,7 @@ sg
 sg
 sg
 NA
-572608	sg
+572671	sg
 sg
 sg
 sg
@@ -56221,7 +56233,7 @@ sg
 sg
 sg
 NA
-572774	pl
+572837	pl
 sg
 sg
 pl
@@ -56998,7 +57010,7 @@ NA
 sg
 sg
 NA
-573552	sg
+573615	sg
 sg
 sg
 NA
@@ -57985,7 +57997,7 @@ pl
 NA
 NA
 NA
-574540	pl
+574603	pl
 pl
 sg
 NA
@@ -58565,7 +58577,7 @@ sg
 sg
 pl
 pl
-575123	NA
+575186	NA
 NA
 pl
 pl
@@ -59132,7 +59144,7 @@ sg
 pl
 NA
 NA
-575692	pl
+575755	pl
 pl
 sg
 NA
@@ -59793,7 +59805,7 @@ sg
 NA
 sg
 NA
-576354	sg
+576417	sg
 sg
 sg
 NA
@@ -60694,7 +60706,7 @@ NA
 sg
 sg
 sg
-577256	NA
+577319	NA
 sg
 sg
 sg
@@ -61035,7 +61047,7 @@ sg
 NA
 sg
 sg
-577598	sg
+577661	sg
 pl
 pl
 pl
@@ -67204,7 +67216,7 @@ NA
 NA
 NA
 sg
-583768	sg
+583831	sg
 sg
 sg
 NA
@@ -69086,7 +69098,7 @@ NA
 pl
 pl
 sg
-585651	pl
+585714	pl
 pl
 sg
 sg
@@ -69713,8 +69725,9 @@ NA
 pl
 NA
 sg
+NA
+NA
 NA
-586281	NA
 sg
 sg
 sg
@@ -70689,7 +70702,7 @@ NA
 sg
 sg
 pl
-587258	sg
+587320	sg
 pl
 NA
 sg
@@ -70748,7 +70761,7 @@ NA
 sg
 pl
 sg
-587318	sg
+587380	sg
 sg
 sg
 NA
@@ -70801,7 +70814,7 @@ pl
 NA
 NA
 sg
-587373	sg
+587435	sg
 sg
 sg
 sg
@@ -71454,7 +71467,7 @@ pl
 pl
 pl
 pl
-588051	pl
+588113	pl
 NA
 sg
 sg
@@ -71597,7 +71610,7 @@ sg
 sg
 NA
 sg
-588212	NA
+588274	NA
 sg
 NA
 sg
@@ -71891,7 +71904,7 @@ sg
 NA
 sg
 sg
-588518	NA
+588580	NA
 NA
 sg
 sg
@@ -71925,7 +71938,7 @@ NA
 sg
 sg
 sg
-588565	NA
+588627	NA
 sg
 sg
 sg
@@ -72299,7 +72312,7 @@ pl
 NA
 sg
 sg
-588947	NA
+589009	NA
 NA
 sg
 sg
@@ -73019,7 +73032,7 @@ sg
 pl
 NA
 sg
-589701	sg
+589763	sg
 NA
 pl
 sg
@@ -73042,7 +73055,7 @@ sg
 NA
 NA
 sg
-589725	sg
+589787	sg
 NA
 NA
 pl
@@ -73242,7 +73255,7 @@ pl
 NA
 pl
 NA
-589954	sg
+590013	sg
 sg
 NA
 NA
@@ -73596,7 +73609,7 @@ sg
 sg
 NA
 NA
-590309	sg
+590368	sg
 NA
 sg
 sg
@@ -73716,7 +73729,7 @@ NA
 sg
 pl
 sg
-590458	NA
+590517	NA
 NA
 pl
 sg
@@ -74006,7 +74019,7 @@ sg
 NA
 NA
 sg
-590763	sg
+590821	sg
 sg
 sg
 pl
@@ -74025,7 +74038,7 @@ sg
 NA
 NA
 sg
-590810	NA
+590868	NA
 sg
 sg
 NA
@@ -74520,7 +74533,7 @@ NA
 pl
 sg
 NA
-591329	NA
+591387	NA
 pl
 NA
 sg
@@ -74559,7 +74572,7 @@ pl
 pl
 sg
 pl
-591384	NA
+591442	NA
 NA
 pl
 sg
@@ -74833,7 +74846,7 @@ pl
 sg
 NA
 sg
-591674	sg
+591732	sg
 NA
 sg
 sg
@@ -74961,7 +74974,7 @@ sg
 sg
 sg
 NA
-591803	NA
+591861	NA
 sg
 sg
 sg
@@ -75128,7 +75141,7 @@ pl
 NA
 NA
 pl
-591993	sg
+592052	sg
 NA
 sg
 sg
@@ -75145,7 +75158,7 @@ pl
 NA
 NA
 pl
-592039	sg
+592098	sg
 NA
 sg
 pl
@@ -75563,7 +75576,7 @@ pl
 pl
 sg
 NA
-592458	pl
+592517	pl
 sg
 pl
 sg
@@ -75630,7 +75643,7 @@ sg
 sg
 sg
 NA
-592526	pl
+592585	pl
 pl
 NA
 NA
@@ -76090,15 +76103,12 @@ sg
 NA
 sg
 sg
-sg
-NA
+593047	sg
 NA
 sg
 NA
 sg
-NA
 sg
-sg
 NA
 sg
 NA
@@ -76721,7 +76731,7 @@ NA
 NA
 sg
 sg
-593618	sg
+593676	sg
 NA
 NA
 sg
@@ -78122,7 +78132,7 @@ NA
 sg
 NA
 sg
-595020	NA
+595078	NA
 sg
 pl
 NA
@@ -79729,7 +79739,7 @@ sg
 NA
 NA
 sg
-596639	sg
+596697	sg
 NA
 sg
 NA
@@ -80061,15 +80071,21 @@ sg
 sg
 pl
 pl
-596972	sg
+NA
 NA
 sg
+NA
+sg
+sg
+NA
+NA
 sg
-596977	sg
 NA
 NA
-596981	sg
+NA
+NA
 sg
+sg
 NA
 sg
 sg
@@ -80147,7 +80163,7 @@ pl
 NA
 pl
 NA
-597061	pl
+597122	pl
 sg
 sg
 NA
@@ -80177,7 +80193,7 @@ pl
 sg
 pl
 NA
-597092	pl
+597153	pl
 pl
 pl
 NA
@@ -80395,7 +80411,7 @@ NA
 sg
 sg
 sg
-597322	NA
+597383	NA
 NA
 sg
 sg
@@ -80557,16 +80573,24 @@ NA
 sg
 pl
 sg
-597485	NA
+NA
+NA
+NA
 pl
 sg
+pl
+NA
+NA
 pl
-597490	pl
 sg
+pl
+NA
+NA
+NA
 pl
-597494	NA
+NA
+NA
 pl
-597497	pl
 sg
 pl
 NA
@@ -80771,7 +80795,7 @@ sg
 sg
 sg
 NA
-597703	sg
+597768	sg
 sg
 NA
 sg
@@ -80779,7 +80803,7 @@ sg
 sg
 NA
 sg
-597712	sg
+597777	sg
 NA
 sg
 sg
@@ -82269,9 +82293,9 @@ NA
 sg
 NA
 sg
-599203	sg
+599268	sg
 sg
-599206	NA
+599271	NA
 sg
 sg
 sg
@@ -82758,11 +82782,12 @@ NA
 NA
 sg
 sg
+NA
 NA
-599696	sg
 sg
 sg
 sg
+sg
 NA
 sg
 sg
@@ -83244,7 +83269,7 @@ sg
 NA
 sg
 sg
-600182	sg
+600246	sg
 NA
 sg
 NA
@@ -85006,9 +85031,10 @@ pl
 pl
 NA
 NA
+pl
 pl
+NA
 pl
-601948	pl
 pl
 pl
 NA
@@ -85026,7 +85052,8 @@ NA
 NA
 pl
 NA
-601968	pl
+NA
+pl
 NA
 pl
 NA
@@ -85040,7 +85067,8 @@ sg
 NA
 pl
 pl
-601984	pl
+NA
+pl
 sg
 NA
 pl
@@ -85050,11 +85078,12 @@ NA
 NA
 pl
 pl
-601996	pl
 NA
 pl
+NA
 pl
 pl
+pl
 NA
 pl
 NA
@@ -85319,9 +85348,13 @@ sg
 NA
 pl
 sg
-602266	NA
+NA
+NA
+NA
+pl
+NA
+NA
 pl
-602269	pl
 NA
 sg
 sg
@@ -85529,7 +85562,7 @@ NA
 sg
 NA
 sg
-602478	sg
+602540	sg
 sg
 sg
 pl
@@ -85790,7 +85823,7 @@ pl
 pl
 NA
 NA
-602740	pl
+602802	pl
 pl
 NA
 NA
@@ -86170,7 +86203,9 @@ sg
 pl
 pl
 pl
-603121	sg
+NA
+NA
+sg
 sg
 sg
 pl
@@ -86351,12 +86386,18 @@ sg
 sg
 NA
 sg
-603303	pl
+NA
+NA
+pl
 pl
-603306	pl
+NA
+NA
 pl
-603309	sg
+pl
+NA
+NA
 sg
+sg
 NA
 sg
 NA
@@ -86468,7 +86509,7 @@ pl
 sg
 sg
 sg
-603423	sg
+603489	sg
 sg
 sg
 NA
@@ -86837,9 +86878,11 @@ pl
 NA
 sg
 pl
-603793	sg
+NA
+NA
 sg
 sg
+sg
 NA
 pl
 NA
@@ -87133,10 +87176,14 @@ NA
 sg
 sg
 sg
+NA
 NA
-604091	NA
+NA
+NA
 sg
-604094	pl
+NA
+NA
+pl
 NA
 pl
 NA
@@ -87166,7 +87213,8 @@ sg
 pl
 NA
 sg
-604126	sg
+NA
+sg
 sg
 NA
 NA
@@ -88163,15 +88211,19 @@ sg
 sg
 sg
 sg
-605124	NA
+NA
+NA
+NA
 pl
 NA
 sg
 sg
 NA
 sg
-605132	pl
 NA
+NA
+pl
+NA
 sg
 sg
 sg
@@ -88803,7 +88855,7 @@ sg
 pl
 pl
 NA
-605766	pl
+605836	pl
 NA
 NA
 NA
@@ -89105,7 +89157,7 @@ NA
 sg
 sg
 pl
-606069	pl
+606139	pl
 NA
 sg
 sg
@@ -89146,7 +89198,7 @@ sg
 sg
 NA
 NA
-606111	pl
+606181	pl
 pl
 NA
 sg
@@ -89552,13 +89604,17 @@ NA
 NA
 NA
 sg
-606518	NA
+NA
+NA
+NA
 sg
 pl
 sg
-606523	pl
+NA
+NA
 pl
 pl
+pl
 sg
 NA
 sg
@@ -89739,7 +89795,7 @@ NA
 NA
 pl
 pl
-606707	pl
+606779	pl
 NA
 sg
 pl
@@ -89957,7 +90013,7 @@ NA
 pl
 NA
 pl
-606928	pl
+607000	pl
 NA
 pl
 pl
@@ -90183,7 +90239,7 @@ sg
 sg
 sg
 sg
-607155	NA
+607227	NA
 sg
 sg
 sg
@@ -90338,7 +90394,7 @@ NA
 NA
 pl
 NA
-607311	pl
+607383	pl
 pl
 NA
 sg
@@ -91122,11 +91178,11 @@ NA
 pl
 NA
 pl
-608096	pl
+608168	pl
 pl
 NA
 pl
-608101	pl
+608173	pl
 pl
 pl
 NA
@@ -91967,7 +92023,7 @@ pl
 pl
 NA
 pl
-608943	NA
+609015	NA
 pl
 pl
 pl
@@ -92030,7 +92086,7 @@ sg
 sg
 pl
 NA
-609007	pl
+609079	pl
 NA
 pl
 NA
@@ -92167,7 +92223,7 @@ sg
 NA
 pl
 NA
-609146	sg
+609218	sg
 sg
 NA
 sg
@@ -92192,7 +92248,7 @@ sg
 sg
 NA
 pl
-609172	pl
+609244	pl
 pl
 NA
 pl
@@ -92382,7 +92438,7 @@ sg
 sg
 sg
 sg
-609363	sg
+609435	sg
 NA
 pl
 pl
@@ -92519,7 +92575,7 @@ NA
 sg
 sg
 sg
-609532	NA
+609604	NA
 NA
 sg
 sg
@@ -92664,10 +92720,11 @@ sg
 sg
 NA
 pl
-609689	NA
-609692	sg
+609761	NA
+NA
 sg
 sg
+sg
 NA
 sg
 NA
@@ -92696,8 +92753,8 @@ pl
 NA
 sg
 pl
-609736	NA
-609738	NA
+609806	NA
+609808	NA
 pl
 pl
 NA
@@ -92719,7 +92776,7 @@ pl
 pl
 sg
 pl
-609831	NA
+609901	NA
 NA
 sg
 sg
@@ -92845,7 +92902,7 @@ NA
 sg
 sg
 sg
-609973	sg
+610043	sg
 NA
 NA
 pl
@@ -92880,7 +92937,7 @@ NA
 NA
 sg
 sg
-610028	NA
+610098	NA
 sg
 sg
 sg
@@ -92979,7 +93036,7 @@ pl
 pl
 pl
 sg
-610139	pl
+610209	pl
 NA
 sg
 pl
@@ -93049,7 +93106,7 @@ pl
 sg
 NA
 pl
-610243	pl
+610313	pl
 NA
 sg
 sg
@@ -93430,7 +93487,7 @@ pl
 sg
 sg
 pl
-610654	NA
+610723	NA
 sg
 NA
 sg
@@ -93683,7 +93740,7 @@ NA
 sg
 sg
 NA
-610919	sg
+610988	sg
 NA
 NA
 sg
@@ -93715,7 +93772,7 @@ sg
 sg
 sg
 pl
-610969	pl
+611036	pl
 NA
 sg
 pl
@@ -93940,7 +93997,7 @@ NA
 pl
 NA
 pl
-611220	sg
+611287	sg
 sg
 pl
 pl
@@ -93970,7 +94027,7 @@ sg
 NA
 NA
 NA
-611251	sg
+611318	sg
 NA
 sg
 sg
@@ -94001,7 +94058,7 @@ NA
 sg
 NA
 sg
-611300	sg
+611367	sg
 NA
 sg
 NA
@@ -94058,7 +94115,7 @@ sg
 sg
 NA
 pl
-611373	sg
+611439	sg
 NA
 sg
 NA
@@ -94712,7 +94769,7 @@ NA
 pl
 sg
 NA
-612028	sg
+612094	sg
 NA
 sg
 sg
@@ -94731,7 +94788,7 @@ sg
 sg
 sg
 NA
-612048	sg
+612114	sg
 NA
 sg
 sg
@@ -94814,7 +94871,7 @@ sg
 NA
 pl
 pl
-612197	sg
+612263	sg
 sg
 sg
 sg
@@ -94841,7 +94898,7 @@ sg
 NA
 pl
 NA
-612225	pl
+612291	pl
 sg
 NA
 NA
@@ -95128,7 +95185,7 @@ pl
 NA
 sg
 pl
-612590	NA
+612656	NA
 sg
 sg
 sg
@@ -95191,7 +95248,7 @@ sg
 pl
 pl
 pl
-612654	pl
+612720	pl
 pl
 sg
 NA
@@ -95298,7 +95355,7 @@ NA
 sg
 sg
 sg
-612780	NA
+612846	NA
 pl
 NA
 sg
@@ -95370,7 +95427,7 @@ sg
 NA
 sg
 sg
-612881	sg
+612947	sg
 NA
 pl
 pl
@@ -95403,77 +95460,77 @@ pl
 NA
 sg
 sg
-sg
-NA
-pl
 sg
-pl
-NA
 NA
 pl
-pl
-pl
-NA
-NA
-pl
-NA
-NA
 sg
-NA
-sg
-612952	NA
-pl
-NA
-pl
-pl
-pl
-NA
-NA
-NA
-pl
 pl
 NA
 NA
-sg
 pl
-NA
 pl
-sg
-sg
-NA
-NA
 pl
 NA
-pl
-pl
 NA
-sg
 pl
-sg
-NA
-sg
-sg
-sg
-sg
 NA
-sg
-sg
-sg
-sg
-sg
 NA
 sg
-NA
-pl
 NA
-sg
-sg
 sg
 613018	NA
 pl
 NA
 pl
+pl
+pl
+NA
+NA
+NA
+pl
+pl
+NA
+NA
+sg
+pl
+NA
+pl
+sg
+sg
+NA
+NA
+pl
+NA
+pl
+pl
+NA
+sg
+pl
+sg
+NA
+sg
+sg
+sg
+sg
+NA
+sg
+sg
+sg
+sg
+sg
+NA
+sg
+NA
+pl
 NA
+sg
+sg
+sg
+613084	NA
+pl
+NA
+pl
+NA
 pl
 sg
 sg
@@ -95491,7 +95548,7 @@ NA
 pl
 sg
 pl
-613041	pl
+613107	pl
 NA
 pl
 NA
@@ -96174,7 +96231,7 @@ pl
 pl
 NA
 pl
-613725	NA
+613791	NA
 NA
 sg
 NA
@@ -96296,7 +96353,7 @@ sg
 NA
 NA
 sg
-613891	sg
+613957	sg
 NA
 NA
 sg
@@ -96397,7 +96454,7 @@ pl
 pl
 sg
 sg
-614041	NA
+614107	NA
 sg
 NA
 sg
@@ -96480,7 +96537,7 @@ sg
 sg
 sg
 NA
-614125	sg
+614191	sg
 sg
 sg
 sg
@@ -96495,7 +96552,7 @@ sg
 NA
 sg
 sg
-614141	sg
+614207	sg
 sg
 sg
 NA
@@ -97138,7 +97195,7 @@ pl
 sg
 pl
 pl
-614814	NA
+614880	NA
 pl
 sg
 pl
@@ -97591,7 +97648,7 @@ sg
 sg
 NA
 sg
-615337	sg
+615403	sg
 sg
 pl
 NA
@@ -97936,7 +97993,7 @@ sg
 NA
 sg
 pl
-615707	NA
+615773	NA
 NA
 pl
 sg
@@ -97988,8 +98045,8 @@ sg
 sg
 sg
 NA
-615792	NA
-615804	pl
+615858	NA
+615870	pl
 NA
 pl
 pl
@@ -98034,7 +98091,7 @@ NA
 sg
 pl
 NA
-615850	sg
+615916	sg
 sg
 NA
 pl
@@ -98154,7 +98211,7 @@ sg
 NA
 sg
 sg
-616593	sg
+616659	sg
 NA
 sg
 NA
@@ -98433,8 +98490,7 @@ sg
 sg
 sg
 sg
-sg
-616874	pl
+616940	pl
 NA
 pl
 sg
@@ -99367,11 +99423,15 @@ sg
 sg
 sg
 sg
+NA
+pl
 NA
+NA
+NA
 pl
 NA
-617811	pl
-617813	pl
+NA
+pl
 NA
 NA
 sg
@@ -100176,7 +100236,7 @@ pl
 sg
 NA
 NA
-618619	pl
+618687	pl
 sg
 pl
 pl
@@ -100198,7 +100258,7 @@ sg
 NA
 sg
 NA
-618642	sg
+618710	sg
 pl
 NA
 NA
@@ -100299,7 +100359,7 @@ sg
 NA
 pl
 pl
-619548	NA
+619612	NA
 sg
 sg
 NA
@@ -100320,7 +100380,7 @@ NA
 sg
 NA
 sg
-620107	NA
+620170	NA
 sg
 NA
 NA
@@ -100336,14 +100396,14 @@ pl
 pl
 pl
 pl
-620622	NA
+620683	NA
 pl
 sg
 sg
 NA
 sg
 sg
-620840	NA
+620901	NA
 sg
 sg
 sg
@@ -100365,7 +100425,7 @@ sg
 sg
 sg
 sg
-620975	sg
+621036	sg
 NA
 sg
 NA
@@ -100375,7 +100435,7 @@ pl
 pl
 pl
 pl
-621199	sg
+621260	sg
 NA
 sg
 NA
@@ -100461,7 +100521,7 @@ sg
 sg
 sg
 sg
-621312	sg
+621373	sg
 NA
 NA
 sg
@@ -100886,7 +100946,7 @@ sg
 sg
 sg
 pl
-621920	sg
+621981	sg
 pl
 pl
 NA
@@ -101422,7 +101482,7 @@ NA
 sg
 sg
 NA
-622593	NA
+622654	NA
 sg
 sg
 sg
@@ -101433,7 +101493,7 @@ sg
 NA
 pl
 pl
-622742	NA
+622803	NA
 NA
 pl
 sg
@@ -101443,14 +101503,14 @@ sg
 NA
 sg
 pl
-622808	NA
+622869	NA
 NA
 NA
 pl
 pl
 pl
 sg
-623267	NA
+623328	NA
 NA
 pl
 sg
@@ -101458,7 +101518,7 @@ sg
 NA
 NA
 pl
-623563	NA
+623624	NA
 NA
 sg
 sg
@@ -101469,11 +101529,11 @@ sg
 NA
 NA
 NA
-623575	sg
+623636	sg
 NA
 NA
 pl
-623728	sg
+623789	sg
 NA
 sg
 sg
@@ -101483,7 +101543,7 @@ sg
 sg
 sg
 sg
-624097	pl
+624156	pl
 NA
 sg
 sg
@@ -101496,7 +101556,7 @@ NA
 pl
 NA
 sg
-624189	NA
+624248	NA
 NA
 NA
 pl
@@ -101506,7 +101566,7 @@ NA
 sg
 sg
 NA
-624364	NA
+624423	NA
 NA
 sg
 sg
@@ -101514,7 +101574,7 @@ sg
 sg
 sg
 sg
-625597	NA
+625654	NA
 NA
 pl
 pl
@@ -101533,7 +101593,7 @@ sg
 NA
 sg
 sg
-625987	sg
+626044	sg
 NA
 NA
 pl
@@ -101542,18 +101602,18 @@ NA
 NA
 NA
 NA
-626227	pl
+626284	pl
 sg
 NA
 sg
 sg
-626811	pl
+626866	pl
 pl
 NA
 pl
 pl
 NA
-627580	sg
+627635	sg
 NA
 sg
 sg
@@ -101566,7 +101626,7 @@ sg
 sg
 pl
 sg
-627636	sg
+627691	sg
 sg
 pl
 pl
@@ -101580,7 +101640,7 @@ pl
 NA
 NA
 sg
-627911	NA
+627966	NA
 sg
 sg
 NA
@@ -101593,24 +101653,24 @@ sg
 sg
 sg
 sg
-627993	NA
+628048	NA
 sg
 pl
 pl
 pl
 NA
 NA
-628350	NA
+628404	NA
 NA
 pl
 NA
 pl
 pl
-628410	pl
+628464	pl
 NA
 pl
 pl
-629226	pl
+629277	pl
 NA
 NA
 sg
@@ -101618,12 +101678,12 @@ NA
 NA
 sg
 sg
-629463	NA
+629514	NA
 pl
 pl
 pl
 pl
-629751	NA
+629802	NA
 sg
 NA
 pl
@@ -101634,12 +101694,12 @@ pl
 pl
 sg
 sg
-630172	NA
+630221	NA
 pl
 pl
 pl
 pl
-630668	pl
+630717	pl
 NA
 NA
 sg
@@ -101656,7 +101716,7 @@ pl
 pl
 pl
 sg
-631094	NA
+631143	NA
 sg
 NA
 pl
@@ -101667,7 +101727,7 @@ pl
 NA
 sg
 sg
-631518	NA
+631567	NA
 pl
 NA
 NA
@@ -101682,7 +101742,7 @@ NA
 sg
 NA
 pl
-631581	sg
+631630	sg
 sg
 sg
 NA
@@ -101694,7 +101754,7 @@ NA
 sg
 sg
 sg
-631730	sg
+631779	sg
 pl
 pl
 NA
@@ -101740,7 +101800,7 @@ sg
 NA
 pl
 sg
-631909	sg
+631957	sg
 sg
 sg
 NA
@@ -101752,7 +101812,7 @@ sg
 NA
 sg
 sg
-632529	pl
+632577	pl
 NA
 sg
 pl
@@ -101771,7 +101831,7 @@ NA
 sg
 NA
 sg
-632782	NA
+632831	NA
 sg
 sg
 NA
@@ -101789,13 +101849,13 @@ sg
 sg
 NA
 sg
-633126	NA
+633175	NA
 NA
 sg
 sg
 NA
 sg
-633239	sg
+633288	sg
 pl
 NA
 sg
@@ -101814,7 +101874,7 @@ NA
 sg
 NA
 sg
-633383	NA
+633432	NA
 sg
 pl
 sg
@@ -101826,7 +101886,7 @@ sg
 pl
 sg
 pl
-633511	pl
+633560	pl
 NA
 pl
 NA
@@ -101836,11 +101896,11 @@ NA
 pl
 pl
 sg
-633608	pl
+633657	pl
 sg
 NA
 sg
-633632	pl
+633681	pl
 sg
 pl
 sg
@@ -102055,7 +102115,7 @@ pl
 pl
 NA
 sg
-633848	pl
+633897	pl
 pl
 sg
 NA
@@ -102092,7 +102152,7 @@ pl
 sg
 NA
 NA
-633886	sg
+633935	sg
 NA
 sg
 sg
@@ -102127,7 +102187,7 @@ NA
 sg
 pl
 pl
-634059	sg
+634108	sg
 sg
 sg
 sg
@@ -102282,8 +102342,8 @@ NA
 NA
 sg
 sg
-634215	NA
-634217	sg
+634264	NA
+634266	sg
 NA
 sg
 sg
@@ -102821,7 +102881,7 @@ NA
 sg
 sg
 NA
-634757	sg
+634806	sg
 sg
 NA
 NA
@@ -103378,8 +103438,8 @@ NA
 sg
 sg
 NA
-635315	sg
-635317	sg
+635364	sg
+635366	sg
 sg
 sg
 NA
@@ -103573,10 +103633,10 @@ NA
 sg
 sg
 pl
-635513	NA
+635562	NA
 NA
 pl
-635518	pl
+635567	pl
 pl
 pl
 pl
@@ -103711,7 +103771,7 @@ NA
 pl
 pl
 pl
-635655	pl
+635704	pl
 NA
 sg
 NA
@@ -103814,7 +103874,7 @@ sg
 sg
 NA
 sg
-635759	NA
+635808	NA
 sg
 NA
 sg
@@ -103886,7 +103946,7 @@ sg
 NA
 pl
 NA
-635833	pl
+635882	pl
 pl
 NA
 sg
@@ -104469,7 +104529,7 @@ NA
 sg
 sg
 pl
-636419	pl
+636468	pl
 pl
 NA
 sg
@@ -105304,7 +105364,7 @@ NA
 sg
 sg
 sg
-637256	pl
+637305	pl
 pl
 sg
 sg
@@ -105744,7 +105804,7 @@ sg
 sg
 pl
 pl
-637698	NA
+637747	NA
 sg
 pl
 pl
@@ -105752,7 +105812,7 @@ pl
 NA
 pl
 pl
-637709	pl
+637758	pl
 pl
 pl
 pl
@@ -106021,7 +106081,7 @@ NA
 pl
 pl
 NA
-637980	pl
+638029	pl
 sg
 NA
 sg
@@ -106238,7 +106298,7 @@ NA
 pl
 sg
 pl
-638200	NA
+638249	NA
 sg
 sg
 sg
@@ -106593,7 +106653,7 @@ sg
 sg
 NA
 pl
-638557	NA
+638606	NA
 sg
 sg
 sg
@@ -106849,7 +106909,7 @@ NA
 sg
 sg
 sg
-638816	NA
+638865	NA
 sg
 NA
 NA
@@ -106861,7 +106921,7 @@ NA
 NA
 NA
 sg
-638831	pl
+638880	pl
 pl
 sg
 sg
@@ -106917,7 +106977,7 @@ NA
 sg
 NA
 pl
-638890	pl
+638939	pl
 sg
 pl
 pl
@@ -107096,7 +107156,7 @@ NA
 pl
 pl
 sg
-639070	pl
+639119	pl
 sg
 sg
 NA
@@ -107301,7 +107361,7 @@ pl
 pl
 NA
 pl
-639277	NA
+639326	NA
 sg
 sg
 sg
@@ -109322,7 +109382,7 @@ NA
 NA
 sg
 sg
-641299	pl
+641348	pl
 sg
 NA
 pl
@@ -109694,8 +109754,8 @@ sg
 sg
 sg
 sg
-641672	NA
-641674	sg
+641721	NA
+641723	sg
 NA
 sg
 sg
@@ -109918,7 +109978,7 @@ sg
 sg
 sg
 sg
-641900	pl
+641949	pl
 sg
 sg
 sg
@@ -110068,7 +110128,7 @@ sg
 pl
 NA
 sg
-642051	sg
+642100	sg
 NA
 pl
 sg
@@ -110308,8 +110368,8 @@ NA
 pl
 pl
 sg
-642292	NA
-642294	sg
+642341	NA
+642343	sg
 NA
 sg
 sg

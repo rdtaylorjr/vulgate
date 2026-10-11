@@ -16,9 +16,9 @@
 @values=active passive NA unknown
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:07+00:00Z
+@dateWritten=2026-10-11T09:21:49+00:00Z
 
-516464	NA
+516531	NA
 NA
 NA
 NA
@@ -2557,7 +2557,7 @@ NA
 NA
 NA
 active
-519004	passive
+519071	passive
 NA
 NA
 active
@@ -2708,7 +2708,7 @@ NA
 active
 NA
 active
-519156	active
+519223	active
 active
 NA
 NA
@@ -4729,7 +4729,7 @@ active
 NA
 NA
 NA
-521178	NA
+521245	NA
 NA
 NA
 NA
@@ -8472,7 +8472,7 @@ NA
 NA
 active
 NA
-524923	NA
+524990	NA
 NA
 NA
 NA
@@ -8621,7 +8621,7 @@ NA
 NA
 active
 active
-525073	NA
+525140	NA
 NA
 active
 NA
@@ -8931,7 +8931,7 @@ passive
 NA
 NA
 active
-525402	NA
+525469	NA
 active
 NA
 NA
@@ -9384,7 +9384,7 @@ NA
 NA
 NA
 NA
-525857	NA
+525924	NA
 NA
 active
 NA
@@ -10101,12 +10101,10 @@ NA
 NA
 active
 passive
+526643	active
 NA
 NA
-active
-NA
 NA
-NA
 active
 NA
 active
@@ -12248,8 +12246,7 @@ NA
 NA
 NA
 NA
-active
-528723	passive
+528790	passive
 NA
 NA
 NA
@@ -12291,7 +12288,7 @@ NA
 NA
 NA
 active
-528766	active
+528833	active
 active
 active
 NA
@@ -12579,7 +12576,7 @@ NA
 NA
 NA
 active
-529055	NA
+529122	NA
 NA
 NA
 active
@@ -15794,7 +15791,7 @@ NA
 NA
 active
 active
-532271	NA
+532338	NA
 NA
 NA
 NA
@@ -17143,9 +17140,10 @@ NA
 NA
 NA
 active
-533622	NA
+NA
 NA
 NA
+NA
 passive
 NA
 NA
@@ -17864,7 +17862,8 @@ NA
 NA
 NA
 active
-534345	NA
+NA
+NA
 active
 NA
 NA
@@ -17924,7 +17923,7 @@ NA
 NA
 NA
 NA
-534406	NA
+534471	NA
 passive
 NA
 active
@@ -17936,7 +17935,7 @@ NA
 NA
 active
 NA
-534419	NA
+534484	NA
 passive
 active
 NA
@@ -18407,7 +18406,7 @@ NA
 NA
 NA
 passive
-534891	passive
+534956	passive
 active
 NA
 NA
@@ -18711,10 +18710,11 @@ NA
 NA
 NA
 active
+NA
+NA
 NA
 NA
 NA
-535200	NA
 NA
 NA
 NA
@@ -18926,8 +18926,10 @@ active
 NA
 NA
 NA
-535413	active
 NA
+NA
+active
+NA
 active
 NA
 passive
@@ -19062,7 +19064,7 @@ NA
 active
 NA
 NA
-535550	NA
+535615	NA
 active
 NA
 NA
@@ -19110,7 +19112,7 @@ NA
 NA
 active
 NA
-535599	NA
+535664	NA
 NA
 NA
 active
@@ -19211,7 +19213,7 @@ active
 NA
 active
 active
-535701	active
+535766	active
 NA
 NA
 active
@@ -19496,7 +19498,7 @@ NA
 NA
 active
 NA
-535987	active
+536052	active
 NA
 active
 NA
@@ -19616,7 +19618,7 @@ NA
 active
 active
 NA
-536108	active
+536173	active
 NA
 NA
 active
@@ -19649,13 +19651,15 @@ NA
 NA
 NA
 active
+NA
+NA
 NA
 NA
 NA
 NA
 NA
 NA
-536148	active
+active
 NA
 NA
 NA
@@ -19701,15 +19705,17 @@ active
 NA
 NA
 active
+NA
 NA
 NA
 NA
-536198	active
 NA
+active
 NA
 NA
 NA
 NA
+NA
 active
 active
 active
@@ -19726,7 +19732,7 @@ NA
 passive
 NA
 NA
-536221	NA
+536288	NA
 NA
 NA
 active
@@ -20134,7 +20140,9 @@ NA
 NA
 NA
 active
-536630	passive
+NA
+NA
+passive
 active
 NA
 NA
@@ -20744,7 +20752,7 @@ NA
 NA
 NA
 active
-537241	active
+537309	active
 NA
 active
 passive
@@ -20760,7 +20768,7 @@ NA
 NA
 active
 NA
-537258	active
+537326	active
 NA
 active
 NA
@@ -20960,7 +20968,7 @@ NA
 active
 NA
 active
-537459	active
+537527	active
 NA
 passive
 active
@@ -20975,7 +20983,7 @@ NA
 active
 NA
 active
-537475	passive
+537543	passive
 NA
 NA
 NA
@@ -21793,7 +21801,7 @@ NA
 passive
 passive
 NA
-538294	active
+538362	active
 NA
 active
 active
@@ -22492,7 +22500,7 @@ NA
 passive
 active
 NA
-538994	NA
+539062	NA
 NA
 NA
 active
@@ -23111,13 +23119,15 @@ NA
 NA
 NA
 NA
+NA
+NA
+active
 NA
 NA
 active
 NA
 NA
 active
-539620	active
 NA
 NA
 NA
@@ -23455,7 +23465,8 @@ active
 NA
 active
 NA
-539960	NA
+NA
+NA
 active
 NA
 NA
@@ -23592,7 +23603,7 @@ NA
 active
 NA
 NA
-540098	NA
+540166	NA
 NA
 active
 NA
@@ -23662,7 +23673,7 @@ NA
 NA
 active
 NA
-540169	NA
+540237	NA
 active
 NA
 NA
@@ -24341,7 +24352,7 @@ NA
 NA
 active
 NA
-540849	NA
+540917	NA
 active
 NA
 NA
@@ -24457,7 +24468,7 @@ NA
 active
 NA
 NA
-540966	active
+541034	active
 NA
 active
 NA
@@ -24818,7 +24829,7 @@ NA
 NA
 active
 NA
-541328	NA
+541396	NA
 NA
 active
 NA
@@ -25594,7 +25605,7 @@ NA
 NA
 NA
 active
-542105	active
+542173	active
 NA
 NA
 NA
@@ -26207,7 +26218,7 @@ NA
 active
 NA
 active
-542719	NA
+542787	NA
 active
 NA
 NA
@@ -27751,7 +27762,7 @@ passive
 NA
 NA
 NA
-544264	NA
+544332	NA
 active
 NA
 NA
@@ -28395,7 +28406,7 @@ NA
 NA
 NA
 NA
-544910	NA
+544978	NA
 NA
 active
 NA
@@ -31964,7 +31975,7 @@ NA
 NA
 active
 NA
-548480	NA
+548548	NA
 NA
 passive
 NA
@@ -32573,7 +32584,7 @@ NA
 NA
 NA
 passive
-549090	NA
+549158	NA
 NA
 NA
 passive
@@ -33078,7 +33089,7 @@ active
 NA
 NA
 NA
-549596	NA
+549664	NA
 NA
 active
 passive
@@ -34359,7 +34370,7 @@ active
 NA
 NA
 NA
-550879	NA
+550947	NA
 active
 NA
 NA
@@ -34606,7 +34617,7 @@ active
 passive
 active
 NA
-551128	NA
+551196	NA
 NA
 active
 NA
@@ -36395,8 +36406,9 @@ NA
 NA
 NA
 NA
-552919	NA
 NA
+NA
+NA
 active
 active
 NA
@@ -37128,7 +37140,7 @@ NA
 NA
 active
 passive
-553653	NA
+553720	NA
 active
 NA
 active
@@ -39187,10 +39199,11 @@ NA
 NA
 NA
 active
-555714	NA
+NA
 NA
 NA
 NA
+NA
 active
 active
 NA
@@ -39796,7 +39809,7 @@ NA
 NA
 NA
 active
-556324	NA
+556390	NA
 passive
 NA
 NA
@@ -43815,7 +43828,7 @@ active
 NA
 NA
 active
-560344	NA
+560410	NA
 NA
 NA
 active
@@ -45943,7 +45956,7 @@ NA
 NA
 NA
 active
-562473	NA
+562539	NA
 NA
 NA
 NA
@@ -46694,11 +46707,12 @@ NA
 NA
 NA
 active
+NA
 NA
 NA
 NA
-563229	NA
 NA
+NA
 active
 active
 NA
@@ -47787,7 +47801,7 @@ NA
 active
 NA
 NA
-564320	NA
+564385	NA
 NA
 active
 NA
@@ -47795,7 +47809,7 @@ NA
 NA
 active
 NA
-564329	NA
+564394	NA
 NA
 NA
 active
@@ -47966,13 +47980,10 @@ NA
 NA
 NA
 active
-NA
-NA
 NA
+564568	NA
 NA
 NA
-NA
-NA
 active
 NA
 NA
@@ -48375,7 +48386,7 @@ active
 NA
 NA
 NA
-564911	NA
+564975	NA
 NA
 active
 NA
@@ -49061,7 +49072,7 @@ active
 NA
 NA
 NA
-565598	NA
+565662	NA
 NA
 active
 NA
@@ -49277,12 +49288,13 @@ NA
 NA
 active
 active
+NA
 NA
 NA
 NA
-565819	NA
 NA
 NA
+NA
 active
 NA
 NA
@@ -49463,7 +49475,7 @@ NA
 passive
 NA
 NA
-566003	NA
+566066	NA
 passive
 NA
 NA
@@ -50339,7 +50351,7 @@ NA
 NA
 NA
 active
-566880	NA
+566943	NA
 NA
 active
 NA
@@ -52728,7 +52740,7 @@ NA
 NA
 active
 NA
-569270	NA
+569333	NA
 active
 NA
 NA
@@ -52916,7 +52928,7 @@ NA
 NA
 active
 NA
-569459	active
+569522	active
 NA
 active
 NA
@@ -52934,7 +52946,7 @@ active
 NA
 NA
 NA
-569478	NA
+569541	NA
 NA
 active
 NA
@@ -53329,7 +53341,7 @@ NA
 NA
 active
 NA
-569874	NA
+569937	NA
 active
 NA
 NA
@@ -54344,7 +54356,7 @@ NA
 active
 NA
 NA
-570890	NA
+570953	NA
 NA
 NA
 active
@@ -54471,7 +54483,7 @@ NA
 NA
 active
 NA
-571019	active
+571082	active
 NA
 NA
 active
@@ -54710,7 +54722,7 @@ NA
 NA
 active
 NA
-571259	active
+571322	active
 NA
 NA
 NA
@@ -55035,7 +55047,7 @@ active
 active
 NA
 NA
-571585	NA
+571648	NA
 NA
 active
 NA
@@ -55613,7 +55625,7 @@ NA
 NA
 passive
 NA
-572164	NA
+572227	NA
 NA
 NA
 active
@@ -56056,7 +56068,7 @@ NA
 NA
 NA
 NA
-572608	NA
+572671	NA
 NA
 NA
 active
@@ -56221,7 +56233,7 @@ NA
 NA
 passive
 NA
-572774	NA
+572837	NA
 NA
 active
 NA
@@ -56998,7 +57010,7 @@ NA
 active
 NA
 NA
-573552	NA
+573615	NA
 NA
 active
 NA
@@ -57985,7 +57997,7 @@ active
 NA
 NA
 NA
-574540	NA
+574603	NA
 NA
 NA
 NA
@@ -58565,7 +58577,7 @@ NA
 NA
 NA
 NA
-575123	NA
+575186	NA
 NA
 NA
 active
@@ -59132,7 +59144,7 @@ NA
 NA
 NA
 NA
-575692	NA
+575755	NA
 NA
 active
 passive
@@ -59793,7 +59805,7 @@ active
 NA
 active
 NA
-576354	active
+576417	active
 NA
 NA
 NA
@@ -60694,7 +60706,7 @@ NA
 NA
 NA
 NA
-577256	NA
+577319	NA
 NA
 NA
 active
@@ -61035,7 +61047,7 @@ NA
 NA
 NA
 NA
-577598	NA
+577661	NA
 NA
 NA
 active
@@ -67204,7 +67216,7 @@ NA
 NA
 NA
 NA
-583768	NA
+583831	NA
 active
 active
 NA
@@ -69086,7 +69098,7 @@ NA
 NA
 NA
 active
-585651	NA
+585714	NA
 NA
 passive
 active
@@ -69709,12 +69721,13 @@ NA
 NA
 active
 active
+NA
+NA
 NA
 NA
 NA
 NA
 NA
-586281	NA
 NA
 NA
 active
@@ -70689,7 +70702,7 @@ NA
 NA
 active
 NA
-587258	active
+587320	active
 NA
 NA
 active
@@ -70748,7 +70761,7 @@ NA
 NA
 NA
 passive
-587318	active
+587380	active
 NA
 NA
 NA
@@ -70801,7 +70814,7 @@ NA
 NA
 NA
 active
-587373	active
+587435	active
 NA
 NA
 NA
@@ -71454,7 +71467,7 @@ active
 NA
 NA
 active
-588051	active
+588113	active
 NA
 NA
 NA
@@ -71597,7 +71610,7 @@ NA
 active
 NA
 active
-588212	NA
+588274	NA
 active
 NA
 NA
@@ -71891,7 +71904,7 @@ NA
 NA
 NA
 NA
-588518	NA
+588580	NA
 NA
 NA
 passive
@@ -71925,7 +71938,7 @@ active
 NA
 active
 NA
-588565	NA
+588627	NA
 NA
 active
 NA
@@ -72299,7 +72312,7 @@ active
 NA
 NA
 NA
-588947	NA
+589009	NA
 NA
 NA
 NA
@@ -73019,7 +73032,7 @@ NA
 active
 NA
 NA
-589701	active
+589763	active
 NA
 NA
 NA
@@ -73042,7 +73055,7 @@ NA
 NA
 active
 NA
-589725	NA
+589787	NA
 active
 NA
 NA
@@ -73242,7 +73255,7 @@ NA
 NA
 active
 active
-589954	active
+590013	active
 NA
 active
 NA
@@ -73596,7 +73609,7 @@ passive
 NA
 passive
 NA
-590309	NA
+590368	NA
 NA
 NA
 passive
@@ -73716,7 +73729,7 @@ NA
 NA
 NA
 active
-590458	NA
+590517	NA
 NA
 passive
 active
@@ -74006,7 +74019,7 @@ NA
 NA
 NA
 passive
-590763	active
+590821	active
 NA
 NA
 NA
@@ -74025,7 +74038,7 @@ NA
 passive
 NA
 NA
-590810	NA
+590868	NA
 active
 NA
 NA
@@ -74520,7 +74533,7 @@ NA
 active
 NA
 passive
-591329	NA
+591387	NA
 NA
 NA
 NA
@@ -74559,7 +74572,7 @@ NA
 active
 NA
 active
-591384	NA
+591442	NA
 NA
 NA
 active
@@ -74833,7 +74846,7 @@ active
 NA
 active
 NA
-591674	active
+591732	active
 NA
 NA
 NA
@@ -74961,7 +74974,7 @@ passive
 active
 NA
 active
-591803	NA
+591861	NA
 active
 NA
 NA
@@ -75128,7 +75141,7 @@ NA
 NA
 NA
 active
-591993	active
+592052	active
 NA
 NA
 NA
@@ -75145,7 +75158,7 @@ active
 NA
 NA
 active
-592039	passive
+592098	passive
 NA
 active
 NA
@@ -75563,7 +75576,7 @@ active
 NA
 NA
 NA
-592458	NA
+592517	NA
 NA
 active
 NA
@@ -75630,7 +75643,7 @@ active
 NA
 NA
 NA
-592526	NA
+592585	NA
 active
 NA
 NA
@@ -76090,8 +76103,7 @@ NA
 NA
 NA
 NA
-active
-NA
+593047	NA
 NA
 NA
 NA
@@ -76117,8 +76129,6 @@ NA
 NA
 NA
 NA
-NA
-NA
 active
 NA
 NA
@@ -76721,7 +76731,7 @@ NA
 NA
 active
 NA
-593618	NA
+593676	NA
 NA
 NA
 NA
@@ -78122,7 +78132,7 @@ NA
 NA
 NA
 passive
-595020	NA
+595078	NA
 active
 NA
 NA
@@ -79729,7 +79739,7 @@ NA
 active
 NA
 active
-596639	active
+596697	active
 NA
 NA
 NA
@@ -80061,14 +80071,20 @@ passive
 active
 NA
 active
-596972	NA
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
-596977	NA
 NA
 NA
-596981	NA
+NA
+NA
+NA
 active
 NA
 NA
@@ -80147,7 +80163,7 @@ active
 active
 NA
 NA
-597061	NA
+597122	NA
 NA
 NA
 NA
@@ -80177,7 +80193,7 @@ NA
 NA
 active
 NA
-597092	NA
+597153	NA
 active
 NA
 NA
@@ -80395,7 +80411,7 @@ NA
 NA
 active
 NA
-597322	NA
+597383	NA
 NA
 NA
 active
@@ -80557,17 +80573,25 @@ NA
 NA
 NA
 passive
-597485	NA
+NA
+NA
+NA
 active
 NA
 active
-597490	passive
+NA
+NA
+passive
 NA
 passive
-597494	NA
+NA
+NA
+NA
 active
-597497	passive
+NA
 NA
+passive
+NA
 active
 NA
 NA
@@ -80771,7 +80795,7 @@ NA
 NA
 active
 NA
-597703	NA
+597768	NA
 active
 NA
 NA
@@ -80779,7 +80803,7 @@ NA
 NA
 NA
 active
-597712	NA
+597777	NA
 NA
 NA
 NA
@@ -82269,9 +82293,9 @@ NA
 NA
 NA
 active
-599203	NA
+599268	NA
 active
-599206	NA
+599271	NA
 NA
 NA
 active
@@ -82754,13 +82778,14 @@ NA
 NA
 NA
 passive
+NA
 NA
 NA
 NA
 NA
 NA
-599696	NA
 NA
+NA
 active
 NA
 NA
@@ -83244,7 +83269,7 @@ NA
 NA
 NA
 NA
-600182	NA
+600246	NA
 active
 NA
 NA
@@ -85008,8 +85033,9 @@ NA
 NA
 NA
 active
-601948	NA
+NA
 NA
+NA
 passive
 NA
 NA
@@ -85026,7 +85052,8 @@ active
 NA
 active
 active
-601968	passive
+NA
+passive
 NA
 NA
 NA
@@ -85040,8 +85067,9 @@ NA
 NA
 NA
 NA
-601984	active
 NA
+active
+NA
 NA
 NA
 NA
@@ -85050,10 +85078,11 @@ NA
 NA
 NA
 active
-601996	active
 NA
+active
 NA
 NA
+NA
 active
 NA
 active
@@ -85314,14 +85343,18 @@ NA
 active
 NA
 passive
+NA
 NA
 NA
 NA
+active
+NA
+NA
 NA
 active
-602266	NA
+NA
+NA
 active
-602269	active
 NA
 NA
 NA
@@ -85529,7 +85562,7 @@ NA
 passive
 active
 NA
-602478	NA
+602540	NA
 NA
 active
 NA
@@ -85790,7 +85823,7 @@ active
 NA
 NA
 NA
-602740	NA
+602802	NA
 active
 NA
 NA
@@ -86168,10 +86201,12 @@ passive
 NA
 NA
 passive
+NA
 NA
 NA
-603121	passive
 NA
+passive
+NA
 NA
 active
 NA
@@ -86351,11 +86386,17 @@ active
 NA
 NA
 active
-603303	NA
+NA
+NA
+NA
 passive
-603306	NA
+NA
+NA
+NA
 active
-603309	NA
+NA
+NA
+NA
 passive
 NA
 NA
@@ -86468,7 +86509,7 @@ NA
 NA
 passive
 NA
-603423	NA
+603489	NA
 active
 NA
 NA
@@ -86837,8 +86878,10 @@ NA
 NA
 NA
 active
-603793	NA
+NA
 NA
+NA
+NA
 passive
 NA
 NA
@@ -87126,6 +87169,12 @@ NA
 NA
 NA
 active
+NA
+NA
+NA
+NA
+NA
+NA
 NA
 NA
 NA
@@ -87134,9 +87183,7 @@ NA
 NA
 NA
 NA
-604091	NA
 NA
-604094	NA
 NA
 active
 NA
@@ -87166,7 +87213,8 @@ NA
 NA
 NA
 active
-604126	NA
+NA
+NA
 active
 NA
 NA
@@ -88161,20 +88209,24 @@ NA
 NA
 NA
 active
+NA
+NA
+NA
 NA
 NA
-605124	NA
 passive
 NA
 NA
 NA
 NA
 NA
-605132	passive
 NA
 NA
+passive
+NA
 NA
 NA
+NA
 passive
 NA
 NA
@@ -88803,7 +88855,7 @@ NA
 passive
 active
 NA
-605766	NA
+605836	NA
 active
 NA
 NA
@@ -89105,7 +89157,7 @@ NA
 NA
 NA
 active
-606069	NA
+606139	NA
 NA
 NA
 NA
@@ -89146,7 +89198,7 @@ NA
 NA
 NA
 NA
-606111	NA
+606181	NA
 active
 NA
 NA
@@ -89548,15 +89600,19 @@ NA
 NA
 NA
 passive
+NA
+NA
 NA
 NA
 NA
 NA
-606518	NA
 NA
+NA
 active
+NA
 NA
-606523	NA
+NA
+NA
 active
 NA
 NA
@@ -89739,7 +89795,7 @@ NA
 NA
 NA
 active
-606707	NA
+606779	NA
 NA
 NA
 NA
@@ -89957,7 +90013,7 @@ NA
 NA
 NA
 NA
-606928	NA
+607000	NA
 NA
 active
 NA
@@ -90183,7 +90239,7 @@ NA
 NA
 active
 NA
-607155	NA
+607227	NA
 NA
 NA
 passive
@@ -90338,7 +90394,7 @@ NA
 NA
 active
 NA
-607311	NA
+607383	NA
 active
 NA
 NA
@@ -91122,11 +91178,11 @@ NA
 NA
 NA
 NA
-608096	NA
+608168	NA
 active
 NA
 active
-608101	NA
+608173	NA
 NA
 NA
 NA
@@ -91967,7 +92023,7 @@ NA
 active
 NA
 NA
-608943	NA
+609015	NA
 active
 NA
 NA
@@ -92030,7 +92086,7 @@ NA
 NA
 active
 NA
-609007	NA
+609079	NA
 NA
 active
 NA
@@ -92167,7 +92223,7 @@ active
 NA
 NA
 NA
-609146	passive
+609218	passive
 active
 NA
 NA
@@ -92192,7 +92248,7 @@ NA
 NA
 NA
 NA
-609172	NA
+609244	NA
 active
 NA
 active
@@ -92382,7 +92438,7 @@ NA
 NA
 NA
 active
-609363	NA
+609435	NA
 NA
 NA
 NA
@@ -92519,7 +92575,7 @@ NA
 NA
 NA
 NA
-609532	NA
+609604	NA
 NA
 active
 NA
@@ -92662,13 +92718,14 @@ NA
 NA
 NA
 active
+NA
 NA
+609761	NA
 NA
-609689	NA
-609692	NA
 NA
 NA
 NA
+NA
 active
 NA
 active
@@ -92696,8 +92753,8 @@ NA
 NA
 NA
 active
-609736	NA
-609738	NA
+609806	NA
+609808	NA
 NA
 passive
 active
@@ -92719,7 +92776,7 @@ NA
 passive
 NA
 active
-609831	NA
+609901	NA
 NA
 active
 NA
@@ -92845,7 +92902,7 @@ NA
 passive
 NA
 NA
-609973	active
+610043	active
 NA
 NA
 NA
@@ -92880,7 +92937,7 @@ NA
 NA
 NA
 NA
-610028	NA
+610098	NA
 active
 NA
 NA
@@ -92979,7 +93036,7 @@ NA
 active
 NA
 NA
-610139	passive
+610209	passive
 NA
 NA
 NA
@@ -93049,7 +93106,7 @@ NA
 active
 NA
 NA
-610243	NA
+610313	NA
 NA
 NA
 active
@@ -93430,7 +93487,7 @@ NA
 NA
 NA
 active
-610654	NA
+610723	NA
 active
 NA
 NA
@@ -93683,7 +93740,7 @@ NA
 NA
 NA
 passive
-610919	passive
+610988	passive
 NA
 NA
 NA
@@ -93715,7 +93772,7 @@ NA
 NA
 NA
 active
-610969	active
+611036	active
 NA
 NA
 NA
@@ -93940,7 +93997,7 @@ NA
 active
 NA
 active
-611220	NA
+611287	NA
 NA
 NA
 active
@@ -93970,7 +94027,7 @@ NA
 NA
 NA
 NA
-611251	NA
+611318	NA
 NA
 NA
 active
@@ -94001,7 +94058,7 @@ active
 NA
 NA
 passive
-611300	NA
+611367	NA
 NA
 active
 NA
@@ -94058,7 +94115,7 @@ NA
 NA
 NA
 passive
-611373	NA
+611439	NA
 NA
 active
 passive
@@ -94712,7 +94769,7 @@ NA
 NA
 active
 NA
-612028	NA
+612094	NA
 NA
 NA
 NA
@@ -94731,7 +94788,7 @@ NA
 active
 NA
 NA
-612048	NA
+612114	NA
 NA
 active
 active
@@ -94814,7 +94871,7 @@ NA
 NA
 NA
 NA
-612197	NA
+612263	NA
 passive
 active
 NA
@@ -94841,7 +94898,7 @@ NA
 NA
 NA
 active
-612225	NA
+612291	NA
 NA
 NA
 active
@@ -95128,7 +95185,7 @@ NA
 NA
 active
 NA
-612590	NA
+612656	NA
 NA
 NA
 NA
@@ -95191,7 +95248,7 @@ NA
 NA
 NA
 active
-612654	NA
+612720	NA
 active
 NA
 NA
@@ -95298,7 +95355,7 @@ NA
 active
 NA
 active
-612780	NA
+612846	NA
 active
 active
 NA
@@ -95359,57 +95416,31 @@ active
 NA
 NA
 active
-NA
-NA
-NA
-NA
-NA
 NA
 NA
 NA
 NA
 NA
 NA
-612881	NA
 NA
-active
-active
-NA
-NA
-NA
 NA
 NA
 NA
 NA
+612947	NA
 NA
 active
-NA
-NA
-NA
-active
-NA
-NA
-NA
-NA
-NA
-NA
-NA
-NA
 active
-NA
 NA
 NA
 NA
 NA
-active
 NA
 NA
 NA
 NA
-NA
 active
 NA
-passive
 NA
 NA
 active
@@ -95421,56 +95452,82 @@ NA
 NA
 NA
 NA
-612952	NA
 active
-active
-NA
 NA
 NA
 NA
 NA
 NA
 active
-NA
-NA
-NA
 NA
-active
 NA
 NA
 NA
-active
 NA
 active
-NA
-NA
-NA
-passive
-NA
 NA
 passive
 NA
-NA
-NA
-passive
 NA
 active
 NA
 NA
-active
-active
-NA
-active
 NA
-active
 NA
 NA
 NA
-active
 NA
 NA
 613018	NA
 active
+active
+NA
+NA
+NA
+NA
+NA
+NA
+active
+NA
+NA
+NA
+NA
+active
+NA
+NA
+NA
+active
+NA
+active
+NA
+NA
+NA
+passive
+NA
+NA
+passive
+NA
+NA
+NA
+passive
+NA
+active
+NA
+NA
+active
+active
+NA
+active
+NA
+active
+NA
+NA
+NA
+active
+NA
+NA
+613084	NA
+active
 passive
 NA
 NA
@@ -95491,7 +95548,7 @@ NA
 passive
 NA
 active
-613041	NA
+613107	NA
 NA
 NA
 NA
@@ -96174,7 +96231,7 @@ active
 NA
 NA
 active
-613725	NA
+613791	NA
 NA
 NA
 NA
@@ -96296,7 +96353,7 @@ active
 NA
 NA
 active
-613891	NA
+613957	NA
 NA
 active
 NA
@@ -96397,7 +96454,7 @@ NA
 active
 NA
 NA
-614041	NA
+614107	NA
 NA
 NA
 NA
@@ -96480,7 +96537,7 @@ NA
 NA
 NA
 NA
-614125	NA
+614191	NA
 active
 NA
 NA
@@ -96495,7 +96552,7 @@ passive
 NA
 NA
 active
-614141	NA
+614207	NA
 passive
 active
 NA
@@ -97138,7 +97195,7 @@ NA
 NA
 NA
 active
-614814	NA
+614880	NA
 NA
 NA
 NA
@@ -97591,7 +97648,7 @@ NA
 NA
 NA
 NA
-615337	NA
+615403	NA
 active
 NA
 NA
@@ -97936,7 +97993,7 @@ active
 NA
 NA
 NA
-615707	NA
+615773	NA
 NA
 active
 NA
@@ -97988,8 +98045,8 @@ NA
 NA
 NA
 NA
-615792	NA
-615804	NA
+615858	NA
+615870	NA
 NA
 passive
 active
@@ -98034,7 +98091,7 @@ NA
 active
 NA
 NA
-615850	NA
+615916	NA
 NA
 NA
 NA
@@ -98154,7 +98211,7 @@ NA
 NA
 NA
 NA
-616593	NA
+616659	NA
 NA
 NA
 NA
@@ -98433,8 +98490,7 @@ NA
 NA
 NA
 NA
-active
-616874	active
+616940	active
 NA
 NA
 NA
@@ -99367,11 +99423,15 @@ NA
 NA
 passive
 active
+NA
+NA
 NA
 NA
 NA
-617811	active
-617813	active
+active
+NA
+NA
+active
 NA
 NA
 NA
@@ -100176,7 +100236,7 @@ active
 NA
 NA
 NA
-618619	NA
+618687	NA
 NA
 active
 NA
@@ -100198,7 +100258,7 @@ NA
 NA
 active
 passive
-618642	active
+618710	active
 active
 NA
 NA
@@ -100299,7 +100359,7 @@ NA
 NA
 NA
 NA
-619548	NA
+619612	NA
 NA
 NA
 NA
@@ -100320,7 +100380,7 @@ NA
 active
 NA
 NA
-620107	NA
+620170	NA
 NA
 NA
 NA
@@ -100336,14 +100396,14 @@ passive
 NA
 NA
 active
-620622	NA
+620683	NA
 NA
 NA
 active
 NA
 NA
 active
-620840	NA
+620901	NA
 NA
 NA
 NA
@@ -100365,7 +100425,7 @@ NA
 active
 NA
 NA
-620975	NA
+621036	NA
 NA
 active
 NA
@@ -100375,7 +100435,7 @@ NA
 active
 NA
 NA
-621199	passive
+621260	passive
 NA
 NA
 NA
@@ -100461,7 +100521,7 @@ NA
 active
 NA
 active
-621312	active
+621373	active
 active
 NA
 NA
@@ -100886,7 +100946,7 @@ NA
 NA
 NA
 NA
-621920	active
+621981	active
 NA
 NA
 NA
@@ -101422,7 +101482,7 @@ NA
 NA
 NA
 NA
-622593	NA
+622654	NA
 active
 NA
 NA
@@ -101433,7 +101493,7 @@ NA
 NA
 NA
 NA
-622742	NA
+622803	NA
 NA
 NA
 active
@@ -101443,14 +101503,14 @@ NA
 NA
 NA
 passive
-622808	NA
+622869	NA
 NA
 NA
 active
 NA
 NA
 NA
-623267	NA
+623328	NA
 NA
 NA
 passive
@@ -101458,7 +101518,7 @@ active
 NA
 NA
 NA
-623563	NA
+623624	NA
 NA
 NA
 active
@@ -101469,11 +101529,11 @@ NA
 NA
 NA
 NA
-623575	NA
+623636	NA
 active
 NA
 NA
-623728	NA
+623789	NA
 NA
 NA
 NA
@@ -101483,7 +101543,7 @@ NA
 active
 NA
 NA
-624097	passive
+624156	passive
 NA
 NA
 active
@@ -101496,7 +101556,7 @@ NA
 NA
 NA
 NA
-624189	NA
+624248	NA
 NA
 NA
 NA
@@ -101506,7 +101566,7 @@ NA
 active
 NA
 NA
-624364	NA
+624423	NA
 NA
 NA
 NA
@@ -101514,7 +101574,7 @@ NA
 passive
 active
 NA
-625597	NA
+625654	NA
 NA
 passive
 passive
@@ -101533,7 +101593,7 @@ NA
 NA
 active
 NA
-625987	NA
+626044	NA
 NA
 NA
 NA
@@ -101542,18 +101602,18 @@ NA
 NA
 NA
 NA
-626227	NA
+626284	NA
 NA
 NA
 active
 NA
-626811	NA
+626866	NA
 NA
 NA
 NA
 active
 passive
-627580	NA
+627635	NA
 NA
 NA
 NA
@@ -101566,7 +101626,7 @@ passive
 active
 NA
 NA
-627636	NA
+627691	NA
 active
 NA
 NA
@@ -101580,7 +101640,7 @@ NA
 NA
 NA
 active
-627911	NA
+627966	NA
 NA
 NA
 NA
@@ -101593,24 +101653,24 @@ NA
 active
 NA
 NA
-627993	NA
+628048	NA
 active
 NA
 NA
 NA
 NA
 passive
-628350	NA
+628404	NA
 NA
 active
 NA
 NA
 NA
-628410	active
+628464	active
 NA
 NA
 NA
-629226	NA
+629277	NA
 NA
 NA
 NA
@@ -101618,12 +101678,12 @@ NA
 NA
 NA
 NA
-629463	NA
+629514	NA
 NA
 NA
 NA
 NA
-629751	NA
+629802	NA
 NA
 NA
 NA
@@ -101634,12 +101694,12 @@ active
 NA
 active
 active
-630172	NA
+630221	NA
 NA
 NA
 active
 NA
-630668	active
+630717	active
 NA
 NA
 NA
@@ -101656,7 +101716,7 @@ NA
 active
 NA
 NA
-631094	NA
+631143	NA
 NA
 NA
 NA
@@ -101667,7 +101727,7 @@ active
 NA
 NA
 NA
-631518	NA
+631567	NA
 active
 NA
 NA
@@ -101682,7 +101742,7 @@ NA
 active
 NA
 NA
-631581	NA
+631630	NA
 active
 NA
 active
@@ -101694,7 +101754,7 @@ NA
 active
 NA
 active
-631730	active
+631779	active
 NA
 NA
 NA
@@ -101740,7 +101800,7 @@ active
 NA
 active
 NA
-631909	NA
+631957	NA
 active
 NA
 NA
@@ -101752,7 +101812,7 @@ NA
 NA
 active
 NA
-632529	NA
+632577	NA
 NA
 NA
 active
@@ -101771,7 +101831,7 @@ NA
 NA
 NA
 NA
-632782	NA
+632831	NA
 NA
 NA
 NA
@@ -101789,13 +101849,13 @@ active
 NA
 NA
 NA
-633126	NA
+633175	NA
 NA
 NA
 active
 NA
 active
-633239	active
+633288	active
 NA
 NA
 NA
@@ -101814,7 +101874,7 @@ NA
 NA
 NA
 NA
-633383	NA
+633432	NA
 NA
 active
 NA
@@ -101826,7 +101886,7 @@ active
 NA
 NA
 NA
-633511	NA
+633560	NA
 NA
 active
 active
@@ -101836,11 +101896,11 @@ NA
 NA
 active
 NA
-633608	NA
+633657	NA
 active
 active
 NA
-633632	active
+633681	active
 NA
 NA
 active
@@ -102055,7 +102115,7 @@ NA
 active
 NA
 NA
-633848	NA
+633897	NA
 active
 NA
 NA
@@ -102092,7 +102152,7 @@ NA
 NA
 NA
 NA
-633886	active
+633935	active
 NA
 active
 NA
@@ -102127,7 +102187,7 @@ NA
 NA
 NA
 NA
-634059	NA
+634108	NA
 NA
 NA
 NA
@@ -102282,8 +102342,8 @@ NA
 NA
 NA
 active
-634215	NA
-634217	NA
+634264	NA
+634266	NA
 NA
 NA
 active
@@ -102821,7 +102881,7 @@ NA
 NA
 active
 NA
-634757	active
+634806	active
 NA
 NA
 NA
@@ -103378,8 +103438,8 @@ NA
 NA
 active
 NA
-635315	NA
-635317	NA
+635364	NA
+635366	NA
 active
 NA
 active
@@ -103573,10 +103633,10 @@ NA
 NA
 NA
 NA
-635513	NA
+635562	NA
 NA
 NA
-635518	NA
+635567	NA
 active
 NA
 NA
@@ -103711,7 +103771,7 @@ NA
 NA
 NA
 active
-635655	NA
+635704	NA
 NA
 active
 NA
@@ -103814,7 +103874,7 @@ passive
 active
 active
 NA
-635759	active
+635808	active
 NA
 NA
 NA
@@ -103886,7 +103946,7 @@ NA
 NA
 NA
 NA
-635833	NA
+635882	NA
 active
 NA
 NA
@@ -104469,7 +104529,7 @@ NA
 active
 NA
 passive
-636419	NA
+636468	NA
 passive
 NA
 NA
@@ -105304,7 +105364,7 @@ NA
 NA
 NA
 NA
-637256	NA
+637305	NA
 NA
 active
 NA
@@ -105744,7 +105804,7 @@ NA
 NA
 active
 NA
-637698	NA
+637747	NA
 active
 NA
 NA
@@ -105752,7 +105812,7 @@ NA
 NA
 active
 NA
-637709	passive
+637758	passive
 NA
 NA
 active
@@ -106021,7 +106081,7 @@ NA
 NA
 NA
 NA
-637980	NA
+638029	NA
 NA
 NA
 NA
@@ -106238,7 +106298,7 @@ NA
 active
 NA
 NA
-638200	NA
+638249	NA
 passive
 active
 NA
@@ -106593,7 +106653,7 @@ NA
 NA
 active
 NA
-638557	NA
+638606	NA
 active
 NA
 NA
@@ -106849,7 +106909,7 @@ NA
 NA
 NA
 active
-638816	NA
+638865	NA
 active
 NA
 NA
@@ -106861,7 +106921,7 @@ NA
 NA
 NA
 NA
-638831	NA
+638880	NA
 active
 NA
 NA
@@ -106917,7 +106977,7 @@ active
 NA
 NA
 NA
-638890	NA
+638939	NA
 NA
 passive
 active
@@ -107096,7 +107156,7 @@ NA
 NA
 NA
 active
-639070	active
+639119	active
 NA
 NA
 NA
@@ -107301,7 +107361,7 @@ NA
 NA
 NA
 NA
-639277	NA
+639326	NA
 active
 NA
 NA
@@ -109322,7 +109382,7 @@ NA
 NA
 NA
 NA
-641299	active
+641348	active
 NA
 NA
 NA
@@ -109694,8 +109754,8 @@ passive
 active
 NA
 active
-641672	NA
-641674	NA
+641721	NA
+641723	NA
 NA
 NA
 NA
@@ -109918,7 +109978,7 @@ passive
 active
 NA
 NA
-641900	NA
+641949	NA
 NA
 NA
 NA
@@ -110068,7 +110128,7 @@ NA
 NA
 NA
 NA
-642051	active
+642100	active
 NA
 NA
 NA
@@ -110308,8 +110368,8 @@ NA
 NA
 NA
 NA
-642292	NA
-642294	NA
+642341	NA
+642343	NA
 NA
 NA
 NA

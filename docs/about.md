@@ -28,8 +28,8 @@ These files have been converted into Text-Fabric format by
 We have a [specification](transcription.md) of how we model the text in Text-Fabric.
 The conversion result is available in the [tf](../tf) directory.
 
-The dataset has 80 books, 1,514 chapters, 39,791 verses, 99,975 stichoi, and 666,884 words,
-with 38,930 entries of the critical apparatus: 661,318 written words, with 5,566 clitics
+The dataset has 80 books, 1,514 chapters, 39,791 verses, 99,975 stichoi, and 666,879 words,
+with 38,930 entries of the critical apparatus: 661,318 written words, with 5,561 clitics
 divided from their hosts. *-que* divides and *-ne* and *-ve* do not, unless the treebank or
 [clitics.yaml](../yaml/clitics.yaml) says otherwise.
 

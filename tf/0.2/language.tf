@@ -16,7 +16,7 @@
 @values=Latin
 @version=0.2
 @writtenBy=Text-Fabric
-@dateWritten=2026-10-11T09:02:05+00:00Z
+@dateWritten=2026-10-11T09:21:46+00:00Z
 
 Latin
 Latin
@@ -666897,12 +666897,8 @@ Latin
 Latin
 Latin
 Latin
+668474	Latin
 Latin
-Latin
-Latin
-Latin
-Latin
-668479	Latin
 Latin
 Latin
 Latin
